@@ -1,17 +1,17 @@
 var plight = new Image();
-plight.src = "../../pics/light.gif";
+plight.src = "../../../pics/light.gif";
 var pdark = new Image();
-pdark.src = "../../pics/dark.gif";
+pdark.src = "../../../pics/dark.gif";
 var pw = new Image();
-pw.src = "../../pics/w.gif";
+pw.src = "../../../pics/w.gif";
 var pb = new Image();
-pb.src = "../../pics/b.gif";
+pb.src = "../../../pics/b.gif";
 var pwk = new Image();
-pwk.src = "../../pics/wk.gif";
+pwk.src = "../../../pics/wk.gif";
 var pbk = new Image();
-pbk.src = "../../pics/bk.gif";
+pbk.src = "../../../pics/bk.gif";
 var pclear = new Image();
-pclear.src = "../../pics/clear.gif";
+pclear.src = "../../../pics/clear.gif";
 
 function run() {
     var i, j;
