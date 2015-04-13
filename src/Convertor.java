@@ -15,11 +15,13 @@ public class Convertor {
 
         for(File file : rootFiles) {
             name = file.getName();
-            if ("htm".equals(name.substring(name.length() - 4))) {
-                text = convertor.getUtfStringFromFile(name);
+            path = file.getAbsolutePath();
+
+            if ("htm".equals(name.substring(name.length() - 3))) {
+                text = convertor.getUtfStringFromFile(file.getAbsolutePath());
                 file.delete();
-                convertor.repairLinks(text);
-                convertor.writeFile(name, text, false);
+                text = convertor.repairLinks(text);
+                convertor.writeFile(path, text, false);
             } else if (file.isDirectory() &&
                     ".files".equals(name.substring(name.length() - 6))) {
                 File[] innerFiles = file.listFiles();
@@ -48,7 +50,7 @@ public class Convertor {
 
         while ( (link = result.indexOf(".files\\", link)) != -1 ) {
             link += 6;
-            result.setCharAt(link, '/');
+            result.replace(link, link + 1, "/");
         }
 
         return result.toString();
@@ -107,11 +109,16 @@ public class Convertor {
         result.delete(deleteBegin, deleteEnd);
 
         insertBegin = deleteBegin + "</script>".length();
-        result.insert(insertBegin, "<script src=\"../../moves.js\"></script>");
+        result.insert(insertBegin, "<script src=\"../../../js/moves.js\"></script>");
 
         deleteBegin = result.indexOf("javascript:to(", deleteBegin);
         deleteEnd = deleteBegin + 16;
         result.replace(deleteBegin, deleteEnd, "run()");
+
+        deleteBegin = result.indexOf("<br><br><center><img src=", deleteBegin);
+        deleteEnd = result.indexOf("gif\"></center><br>", deleteBegin) + 18;
+        if (deleteBegin != -1)
+            result.delete(deleteBegin, deleteEnd);
 
         while ( (insertBegin = result.indexOf("javascript:to(", deleteBegin)) != -1)
             result.insert(insertBegin + 11, "void(0)\" onclick=\"");
