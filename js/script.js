@@ -8,7 +8,8 @@ function run(){
         $('[data-toggle="tooltip"]').tooltip()
     })
 }
+
 function onSuccessClick(e){
-    var ref = e.currentTarget.firstChild.getAttribute('href');
+    var ref = e.currentTarget.getElementsByTagName('a')[0].getAttribute('href');
     window.location.href = ref;
 }
