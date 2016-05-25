@@ -1,68 +1,16 @@
-.conversation { 
-    overflow-x: hidden;
-    overflow-y: auto;
-    table-layout: fixed;
-}
-
-.table {
-    table-layout: fixed;
-    width: 100%;
-}
-
-.col-time {
-    width: 10%;
-}
-
-.col-message {
-    width: 90%;
-}
-
-/*.row {
-    height: 100%;
-    display: table-row;
-}
-
-.side {
-    float: none;
-    display: table-cell;
-    border: 1px solid;
-}*/
-
-/*html, body {
-    box-sizing:border-box;
-    height: 100%;
-    margin: 0; padding: 0;
-}*/
-
-.body {
-    /*display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;*/
-}
-
-/*.container-fluid {
-    height: 100%;
-    display: table;
-    width: 100%;
-}
-
-.bottom {
-    position: absolute;
-    bottom: 5px;
-    margin-right: 25px;
-}*/
-
-.icon {
-    visibility: hidden;
+.nowrap {
+    white-space: nowrap;
 }
 
 .center-align td {
     text-align: center;
 }
 
-.divBox a {
-    width: 100%;
-    height: 100%;
-    display: block;
+/*.point {
+    width: 10px;
 }
+
+.point2 {
+    width: 100px;
+}*/
+
