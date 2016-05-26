@@ -30,6 +30,11 @@ thead th {
 tbody tr > td:nth-child(1),
 thead tr > th:nth-child(1) {
     text-align: left;
+    font-weight: bold;
+}
+
+tr td:last-child {
+    font-weight: bold;
 }
 
 .draw {
@@ -38,4 +43,8 @@ thead tr > th:nth-child(1) {
 
 .win {
     color: red;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #e5efff;
 }
