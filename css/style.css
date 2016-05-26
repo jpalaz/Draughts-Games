@@ -6,11 +6,28 @@
     text-align: center;
 }
 
-/*.point {
-    width: 10px;
+td {
+    min-width: 30px;
 }
 
-.point2 {
-    width: 100px;
-}*/
+.table {
+    table-layout: auto;
+}
 
+.table tbody > tr > th,
+.table tfoot > tr > th,
+.table thead > tr > td,
+.table tbody > tr > td,
+.table tfoot > tr > td {
+    border: 1px solid #adc4ff;
+}
+
+tbody td,
+thead th {
+    text-align: center;
+}
+
+tbody tr > td:nth-child(1),
+thead tr > th:nth-child(1) {
+    text-align: left;
+}

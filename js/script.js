@@ -7,6 +7,12 @@ function run(){
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
     })
+
+    /*Papa.parse("", {
+        complete: function(results) {
+            console.log("Finished:", results.data);
+        }
+    });*/
 }
 
 function onSuccessClick(e){
