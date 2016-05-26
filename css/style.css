@@ -31,3 +31,11 @@ tbody tr > td:nth-child(1),
 thead tr > th:nth-child(1) {
     text-align: left;
 }
+
+.draw {
+    color: green;
+}
+
+.win {
+    color: red;
+}
