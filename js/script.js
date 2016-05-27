@@ -1,7 +1,11 @@
 function run() {
     var onResize = function() {
         // apply dynamic padding at the top of the body according to the fixed navbar height
-        $("body").css("padding-top", $(".navbar-fixed-top").height() + 10);
+        var height = $(".navbar-fixed-top").height() + 10;
+        $("body").css("padding-top", height);
+        // var header3 = $("h3").prev();
+        // header3.css("height", height);
+        // header3.css("margin-top", -height);
     };
 
     $(window).resize(onResize());
