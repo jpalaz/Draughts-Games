@@ -8,7 +8,9 @@
 
     <link href="css/responsive-tables.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css?v=0.0.1" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/icon">
+    <link rel="icon" href="favicon.ico" type=”image/icon”>
 
     <script src="js/jquery-1.12.4.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -35,7 +37,7 @@
 </head>
 <body onload="run()">
 
-<nav class="navbar navbar-default">
+<nav id="main-navbar" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -72,7 +74,8 @@
                 </li>
             </ul>
 
-            <table id="men-table" class="responsive table table-hover table-bordered table-striped">
+            <h3 id="men-table" class="padded-link">Мужчыны</h3>
+            <table class="responsive table table-hover table-bordered table-striped">
                 <thead>
                 <tr class="info">
                     <th>Удзельнікі</th>
@@ -169,7 +172,8 @@
                 </tr>
                 </tbody>
             </table>
-            <table id="women-table" class="responsive table table-hover table-bordered table-striped">
+            <h3 id="women-table" class="padded-link">Жанчыны</h3>
+            <table class="responsive table table-hover table-bordered table-striped">
                 <thead>
                 <tr class="info">
                     <th>Удзельнікі</th>
@@ -267,8 +271,9 @@
                 </tbody>
             </table>
 
+            <h3 id="games2016" class="padded-link">Партыі</h3>
             <table class="table table-hover table-bordered responsive">
-                <tr class="center-align" id="games2016">
+                <tr class="center-align" >
                     <td colspan="3" class="info">2016</td>
                     <td colspan="11" class="info"><b>Партыі па турах</b></td>
                 </tr>
