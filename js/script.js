@@ -1,4 +1,15 @@
 function run() {
+    var onResize = function() {
+        // apply dynamic padding at the top of the body according to the fixed navbar height
+        $("body").css("padding-top", $(".navbar-fixed-top").height() + 10);
+    };
+
+    $(window).resize(onResize());
+
+    $(function() {
+        onResize();
+    });
+
     var success = document.getElementsByClassName('success');
     for (var i = 0; i < success.length; i++) {
         success[i].addEventListener('click', onSuccessClick);
@@ -22,10 +33,6 @@ function run() {
         complete: function (results) {
             parseResults(results, womenTable)
         }
-    });
-
-    $(window).resize(function () {
-        $('body').css('padding-top', parseInt($('#main-navbar').css("height")) + 10);
     });
 }
 
