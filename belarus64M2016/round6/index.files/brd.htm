@@ -1,0 +1,31 @@
+<html><head>
+<script language="JavaScript">
+document.onkeydown = Pressed;
+function Pressed() {
+p = event.keyCode;
+if (p==37) parent.frames[2].back();
+if (p==39) parent.frames[2].next();
+}
+</script>
+</head>
+<body bgcolor=#a0b5df><table border=1 bgcolor=black align=center><td>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+<img><img><img><img><img><img><img><img><img><img><img><img><br>
+</td></table><br><center><form>
+<input type=button value="|<" onclick=parent.frames[2].to(0);>
+<input type=button value="<" onclick=parent.frames[2].back();>
+<input type=button value=">"  onclick=parent.frames[2].next();>
+<input type=button value=">|" onclick=parent.frames[2].end();>
+<input type=button value="play" onclick=parent.frames[2].doplay();>
+<input type=button value="rev." onclick=parent.frames[2].dorev();>
+</form></center></body></html>
