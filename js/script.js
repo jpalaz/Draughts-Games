@@ -1,11 +1,7 @@
 function run() {
     var onResize = function() {
         // apply dynamic padding at the top of the body according to the fixed navbar height
-        var height = $(".navbar-fixed-top").height() + 10;
-        $("body").css("padding-top", height);
-        // var header3 = $("h3").prev();
-        // header3.css("height", height);
-        // header3.css("margin-top", -height);
+        $("body").css("padding-top", $(".navbar-fixed-top").height() + 10);
     };
 
     $(window).resize(onResize());
@@ -46,15 +42,28 @@ function onSuccessClick(e) {
 }
 
 function parseResults(results, table) {
-    console.log("Finished:", results.data);
-    data = results.data;
+    var data = results.data;
+    var sumPoints = [];
     for (var i = 0; i < data.length; ++i) {
-        for (var j = 0; j < data[i].length; ++j) {
+        var length = data[i].length;
+        for (var j = 0; j < length; ++j) {
             var td = document.createElement('td');
             td.appendChild(document.createTextNode(data[i][j]));
             var className = getTdClass(i, j, data[i]);
             td.setAttribute('class', className);
             table.rows[i].appendChild(td);
+        }
+        sumPoints.push(data[i][length - 1]);
+    }
+
+    sumPoints.sort(function(a, b) {return b - a});
+    var topSums = sumPoints.slice(0, 3);
+    for (i = 0; i < data.length; ++i) {
+        var currentSum = data[i][data[i].length - 1];
+        if (topSums.indexOf(currentSum) != -1) {
+            var row = table.rows[i];
+            row.firstElementChild.setAttribute('class', 'text-danger');
+            row.lastElementChild.setAttribute('class', 'text-danger');
         }
     }
 }
@@ -62,7 +71,7 @@ function getTdClass(i, j, row) {
     var points = row[j];
     if (i === j) {
         return 'info';
-    } else if (j + 1 < data[i].length) {
+    } else if (j + 1 < row.length) {
         if (points == 2) {
             return 'text-danger';
         } else if (points == 1) {
