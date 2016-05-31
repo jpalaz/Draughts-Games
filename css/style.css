@@ -33,7 +33,8 @@ thead tr > th:nth-child(1) {
     font-weight: bold;
 }
 
-tr td:last-child {
+tr td:last-child,
+tr td:nth-last-child(2) {
     font-weight: bold;
 }
 
