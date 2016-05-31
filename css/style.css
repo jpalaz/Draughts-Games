@@ -33,8 +33,10 @@ thead tr > th:nth-child(1) {
     font-weight: bold;
 }
 
-tr td:last-child,
-tr td:nth-last-child(2) {
+tbody#women-results tr > td:last-child,
+tbody#women-results tr > td:nth-last-child(2),
+tbody#men-results tr > td:last-child,
+tbody#men-results tr td:nth-last-child(2) {
     font-weight: bold;
 }
 
