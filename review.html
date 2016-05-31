@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ЧБ па шашках-64</title>
+
+    <link href="css/responsive-tables.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css?v=0.0.1" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/icon">
+    <link rel="icon" href="favicon.ico" type=”image/icon”>
+
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/responsive-tables.js"></script>
+    <script src="js/papaparse.min.js"></script>
+    <script>document.write("<script type='text/javascript' src='js/script.js?v=" + Date.now() + "'><\/script>");</script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-61966517-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body onload="run()">
+
+<nav id="main-navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand">Чэмпіянат Беларусі па шашках-64</span>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="index.html#men-table">Мужчыны</a></li>
+                <li><a href="index.html#women-table">Жанчыны</a></li>
+                <li><a href="index.html#games2016">Партыі</a></li>
+                <li><a href="#" class="active" >Агляд партый<span class="sr-only">(current)</span></a></li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<div class="container-fluid">
+    <div class="row body">
+        <div class="side col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 col-sm-12 col-xs-12">
+            <h1>Обзор партий от Евгения Кондраченко</h1>
+            <h3>Д. Немец &ndash; Е. Кондраченко, 1 тур</h3>
+            <img src="pics/review/image00.png" class="diagram img-responsive center-block">
+            <p>
+                В партии было 17.fe5 ed6 =
+            </p>
+            <p>
+                Интересные осложнения возможны после
+                <strong>
+                    17.cb2 ef6?
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Можно 17&hellip;gf6 18. fe5! cb4! 19. e:g7 ef6! &ndash;
+            </p>
+            <p>
+                но не 19&hellip;ba3? 20. gh8 a:c1 21. ef4! c:c5 22. cd4 Х &ndash;
+            </p>
+            <ol start="20">
+                <li>
+                    g:e5 ba3 21. ef6 a:c1 22. fg7 hg5 23. h:f6 f:h6 24. fe7 bc5 25. d:b6 a:c5,
+                </li>
+            </ol>
+            <p>
+                с ловушкой 26. cd4? ab4! 27. d:b6 bc3 Х
+                <strong>
+                    )
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    18.ba3?
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Выигрывало 18. hg3! fe7 19. fe5 и на 19&hellip;ed6 20. e:c7 b:d8
+            </p>
+            <ol start="21">
+                <li>
+                    d:b6 a:c5/с7 22. gf4 Х, а после 19&hellip;cb4 20. ed6! e:c5 21. ba3 hg5
+                </li>
+                <li>
+                    gf4 gh6 23. fe5 Х
+                    <strong>
+                        )
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    18&hellip;fe7 19.fe5
+                </strong>
+                <strong>
+                    ab4!
+                </strong>
+                <strong>
+                    20.c:c7 ed6 21.d:b6
+                </strong>
+            </p>
+            <img src="pics/review/image02.png" class="diagram img-responsive center-block">
+
+            <p>
+                <strong>
+                    21&hellip;f:f2 22.c:e5 a:c5 Х
+                </strong>
+            </p>
+            <h3>Е. Кондраченко &ndash; Д. Немец, 1 тур</h3>
+            <img src="pics/review/image01.png" class="diagram img-responsive center-block">
+            <p>
+                В партии было
+                <strong>
+                    7.ab2! bc5 (
+                </strong>
+                Ловушка после 7&hellip;hg7? 8. de5 f:d4
+            </p>
+            <ol start="9">
+                <li>
+                    c:c7 b:d8 10. ab4! a:a1 11. cb2 Х; В случае 7&hellip;de5 8. f:d6 e:c5
+                </li>
+                <li>
+                    fg3 gh4? было заготовлено 10. ed2! h:f2 11. ab4 c:a3 12. dc5 b:d4
+                </li>
+                <li>
+                    c:g7 h:f6 14. dc3 f:d4 15. c:g7 Х
+                    <strong>
+                        ) 8.d:b6 a:c7 9.ab4! gh4
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Опять ловушка на 9&hellip;de5 10. f:d6 e:a3? 11. cb4! a:c5 12. ef4 Х
+                <strong>
+                    )
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    10.ba5
+                </strong>
+                с известной позицией из &laquo;Городской партии&raquo; с преимуществом белых.
+            </p>
+            <p>
+                В исходной позиции проигрывает
+                <strong>
+                    &nbsp;7.cb2?
+                </strong>
+                <strong>
+                    bc7!!
+                </strong>
+                Феноменально!
+            </p>
+            <p>
+                <strong>
+                    8.fg3 (
+                </strong>
+                &nbsp;8.ed2 dc5 X; 8.ab4 bc5! 9.dd8 de5 X
+                <strong>
+                    ) 8&hellip;gh4 9.ab4 h:f2 10.e:g3 hg5! 11.f:h6 fe5! 12.d:d8 fg7 13.h:c5 b:h4 14.d:b6 a:c1 Х,
+                </strong>
+                анализ С. Смайдриса, 1987.
+            </p>
+
+            <h3>Известна такая старая позиция:</h3>
+            <img src="pics/review/image04.png" class="diagram img-responsive center-block">
+            <p>
+                П. Шклудов, 1984 &ndash; НИЧЬЯ &ndash;
+                <strong>
+                    1.dc7
+                </strong>
+                ( 1.hg7?? fe5 X )
+                <strong>
+                    1&hellip;fe5! 2.hg7!! =
+                </strong>
+                Изящно.
+            </p>
+            <h3>И. Михальченко &ndash; А. Куница, 1 тур</h3>
+            <img src="pics/review/image03.png" class="diagram img-responsive center-block">
+
+            <p>
+                <strong>
+                    a3a5 f6g5
+                </strong>
+                1. gf4 gf6 2. cd4 bc5 3. d:b6 a:c5 4. bc3 cb4 5. fg3 fe5
+            </p>
+            <ol start="6">
+                <li>
+                    gh4 e:g3 7. h:f6 e:g5 8. h:f4 de5 9. f:d6 c:e5 10. ed4 ef4 11. ab6 ba3
+                </li>
+                <li>
+                    ba7 dc7 13. dc5 hg7 14. cb4 gf6 15. ba5 cd6 16. c:e7 f:d8 17. ab6 gh4
+                </li>
+                <li>
+                    bc7 d:b6 19. a:c5 fe7 20. gh2 ef6 21. ef2 fg5 22. fe3 bc7 23. ed4 hg3
+                </li>
+                <li>
+                    cb2 a:e3 25. d:f6 fe3 26. fe7 cd6 27. ed8 d:b4 28. da5 ba3 29. ae1 hg5
+                </li>
+                <li>
+                    ea5 gh4 31. ac3, и узнаю брата Колю))
+                </li>
+            </ol>
+
+            <h3>А. Валюк &ndash; М. Семенюк, 2 тур</h3>
+            <img src="pics/review/image06.png" class="diagram img-responsive center-block">
+            <p>
+                Отличный учебный пример использования отсталых шашек:
+            </p>
+            <p>
+                <strong>
+                    1&hellip;fe5 (
+                </strong>
+                1&hellip;dc5 2.cb2 X; 1&hellip;bc5 2.cd2 fe5 3.de3 eg3 4.hf2 hg5 5.fg3 de5
+            </p>
+            <p>
+                6.gh4 ef4 7.hf6 fb4 8.ed2 X
+                <strong>
+                    ) 2.
+                </strong>
+                <strong>
+                    ef2!
+                </strong>
+                <strong>
+                    eb4 3.ae7 bc5 4.ed8 cd4 5.de7! X
+                </strong>
+            </p>
+            <p>
+                Изящный маневр белых на 2-м ходу напомнил мне такой красивый фрагмент из партии И. Мартынова:
+            </p>
+            <img src="pics/review/image05.png" class="diagram img-responsive center-block">
+            <p>
+                <strong>
+                    1. ed4! eg3 2.ef2 ge1 3.de3 eb4 4.ae7 ab4 5.ef8 ba3 6. fb4! X
+                </strong>
+            </p>
+
+            <h3>В. Анисько &ndash; В. Беляевский, 2 тур</h3>
+            <img src="pics/review/image08.png" class="diagram img-responsive center-block">
+            <p>
+                Ранее позиция встречалась в партии Е. Кондраченко &ndash; О. Холин, 2004
+            </p>
+            <p>
+                <strong>
+                    14&hellip;gh6?
+                </strong>
+                ( Программа &laquo;ТОША&raquo; показывает ничью после 14&hellip;ed4!! )
+            </p>
+            <p>
+                <strong>
+                    15.bc3 gf4 16.eg5 hf4 17.ef2 cd4 18.bc5! db6 19.cd4 Х
+                </strong>
+            </p>
+            <p>
+                Упорнее было
+                <strong>
+                    15&hellip;cd4 16.ec5 ba7 17.ef2 cb6 (
+                </strong>
+                &nbsp;17&hellip;gf4 18. de3 f:d2
+            </p>
+            <ol start="19">
+                <li>
+                    c:e1 hg5 20. ed2 cb6 21. a:c7 d:d4 22. de3 gf4 23. e:c5 fe3
+                </li>
+                <li>
+                    f:d4 e:a5 25. gf4 Х
+                    <strong>
+                        ) 18.ac7 db2 19.ac1 ab6 (
+                    </strong>
+                    19&hellip;gf4 20. cb2 ab6 21. ba3 Х
+                    <strong>
+                        )
+                    </strong>
+                    Известная позиция из партии Н. Сретенский &ndash; В. Каплан, 1953
+                </li>
+            </ol>
+            <p>
+                с переменой цветов.
+                <strong>
+                    20.dc3! bc5 (
+                </strong>
+                &nbsp;20&hellip;gf4 21. ba5 bc5 22. ab6 c:a7
+            </p>
+            <ol start="23">
+                <li>
+                    hg5! f:h4 24. cd4 Х
+                    <strong>
+                        ) 21.fe3! ca3 22.gf4 eg3 23.hf4 dc5 24.cd4 cb4
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    25.
+                </strong>
+                <strong>
+                    cb2!
+                </strong>
+                <strong>
+                    ac1
+                </strong>
+                Идея В. Сокова
+                <strong>
+                    26.de5 ff2 27.hd8 cg5 28.da5 Х
+                </strong>
+            </p>
+            <h3>А. Плакхин &ndash; И. Михальченко, 2 тур</h3>
+            <img src="pics/review/image07.png" class="diagram img-responsive center-block">
+            <p>
+                В партии было 1&hellip;eh4? = Программа показала, что выигрыш всё же был:
+            </p>
+            <p>
+                <strong>
+                    1&hellip;
+                </strong>
+                <strong>
+                    fe3!
+                </strong>
+                <strong>
+                    2. hg3 e:h4 3. cd2 e:c1 4. ab8 dc5 5. b:d4 hd8! 6. be5 ab2
+                </strong>
+            </p>
+            <ol start="7">
+                <li>
+                    <strong>
+                        eg7 (
+                    </strong>
+                    7.eh8 ce3 X
+                    <strong>
+                        ) 7&hellip;cg5! 8. ge5 (
+                    </strong>
+                    8.gf8 gh6 X; 8.gh6 bc1 X
+                    <strong>
+                        )
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    8&hellip;gh6! 9. eh8 he3 10. d:f2 ba1 Х
+                </strong>
+            </p>
+
+            <h3>И. Михальченко &ndash; Е. Кондраченко, 3 тур</h3>
+            <img src="pics/review/image11.png" class="diagram img-responsive center-block">
+            <p>
+                Черные атакуют:
+                <strong>
+                    &nbsp;12&hellip;cb6! 13. ba5
+                </strong>
+                <strong>
+                    fg7!
+                </strong>
+                <strong>
+                    14. a:e5 f:f2 15. e:g3 gf6!
+                </strong>
+            </p>
+            <p>
+                Старый мотив из концовки дедушки Коврижкина. К сожалению, выигрыша
+            </p>
+            <p>
+                нет &ndash;
+                <strong>
+                    16. bc3 bc7 (
+                </strong>
+                &nbsp;16&hellip;dc7 17. cb4 cd4 18. hg5! f:f2 19. g:c5 hg1
+            </p>
+            <ol start="20">
+                <li>
+                    fg5 g:a7 21. gh6! cd6 22. hg7 ad4! 23. bc5! =
+                    <strong>
+                        ) 17. cb4 cd4 18. ba5!
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Уже нельзя 18. hg5? f:f2 19. g:c5 hg1 20. fg5 g:b6! 21. gh6 ba5! 22. bc5 cd6 X
+                <strong>
+                    )
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    18&hellip;dc3 (
+                </strong>
+                &nbsp;Но не 18&hellip;cb6?? 19. a:c7 d:b6 20. hg5! f:f2 21. g:a7 hg1 22. fe5 X
+                <strong>
+                    )
+                </strong>
+            </p>
+            <ol start="19">
+                <li>
+                    <strong>
+                        ab4 cb2 20. bc5 bc1 21.
+                    </strong>
+                    <strong>
+                        cd6!
+                    </strong>
+                    <strong>
+                        c:e5 22. f:d6 h:f4 23. dc7 d:b6 24. a:c7 fe3
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    (
+                </strong>
+                &laquo;Детская&raquo; идейка есть на 24&hellip;cd2 25.cb8 fe3 26.ba7?? fg5! X
+                <strong>
+                    )
+                </strong>
+            </p>
+            <ol start="25">
+                <li>
+                    <strong>
+                        hg5 f:h4 26. cb8 cb2 27. ba7 =
+                    </strong>
+                </li>
+            </ol>
+            <h3>В. Анисько &ndash; Е. Кондраченко, 5 тур</h3>
+            <img src="pics/review/image09.png" class="diagram img-responsive center-block">
+            <p>
+                Обманчивая позиция.
+            </p>
+            <p>
+                Черные надеялись на изящную ловушку после 8. gf4? e:g3 9. h:f4 fe5
+            </p>
+            <ol start="10">
+                <li>
+                    hg5? e:g3 11. ef4 g:e5 12. gf6 ba7! 13. f:h8 ab2! 14. c:a3 dc5 X
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    Однако последовал &laquo;мат&raquo; в 1 ход:
+                </strong>
+            </p>
+            <ol start="8">
+                <li>
+                    <strong>
+                        ab2!
+                    </strong>
+                    И черным не отойти от форсажа после
+                    <strong>
+                        8&hellip;bc5 9. gf4 e:g3
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        h:f4 fe5 11. gh2 e:g3 12. h:f4 gf6 13. cd4 ba7 14. d:b6 a:c5
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        bc3 fe5 16. cb4 e:g3 17. h:f2 de7 18. dc3! cd4! 19. e:c5 hg5
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        fe3! Х (
+                    </strong>
+                    Но не 20.cd4?? ef6! X
+                    <strong>
+                        )
+                    </strong>
+                </li>
+            </ol>
+            <h3>Е. Кондраченко &ndash; А. Куница, 6 тур</h3>
+            <img src="pics/review/image10.png" class="diagram img-responsive center-block">
+            <p>
+                В партии было 8&hellip;bc5; Изящный маневр был заготовлен
+            </p>
+            <p>
+                в случае
+                <strong>
+                    8&hellip;hg5 9. gh4 de5 10. fg3 ef4? 11. g:e5 bc5 12. d:b6 f:b2
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Или 12&hellip;ff2
+                <strong>
+                    ) 13. h:f6 a:c7 14. a:c3 g:e5 15.
+                </strong>
+                <strong>
+                    cb4!
+                </strong>
+                <strong>
+                    a:c5 16. ed4 X
+                </strong>
+            </p>
+            <h3>А. Плакхин &ndash; Е. Кондраченко, 7 тур</h3>
+            <img src="pics/review/image12.png" class="diagram img-responsive center-block">
+            <p>
+                <strong>
+                    20.dc3?
+                </strong>
+                Последняя ловушка сработала:
+                <strong>
+                    20&hellip;
+                </strong>
+                <strong>
+                    fg5!
+                </strong>
+                Жертва
+                <strong>
+                    21.fh6 cd6
+                </strong>
+            </p>
+            <p>
+                <strong>
+                    22.hg7
+                </strong>
+                Контржертва
+                <strong>
+                    22&hellip;fh6 23.gf4
+                </strong>
+                <strong>
+                    hg5!
+                </strong>
+                КОНДРжертва )
+                <strong>
+                    24.fh6 ef6 X
+                </strong>
+            </p>
+            <h3>В. Новиков &ndash; Е. Кондраченко, 9 тур</h3>
+            <img src="pics/review/image13.png" class="diagram img-responsive center-block">
+            <p>
+                На 14. ba3? был заготовлен свежий мотивчик 14&hellip;ef6! 15. g:e7 gf6
+            </p>
+            <ol start="16">
+                <li>
+                    e:g5 fg7 17. h:f8 ef4 18. g:c7 b:d8 19. f:b4 a:f6 Х
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    В партии было 14. gf6! e:g5 15. h:f4 gh6?
+                </strong>
+                и оба соперника
+            </p>
+            <p>
+                не заметили &laquo;мат&raquo; в 1 ход после
+                <strong>
+                    16.
+                </strong>
+                <strong>
+                    bc3!
+                </strong>
+                <strong>
+                    fe7/fg7 17. fg5! h:h2 18. ed4 X &ndash;
+                </strong>
+            </p>
+            <p>
+                ук. И. Михальченко, а после
+                <strong>
+                    &nbsp;16. gh2? ab4!
+                </strong>
+                уже четкая ничья:
+            </p>
+            <ol start="17">
+                <li>
+                    <strong>
+                        fg5 h:f4 18. e:g5 bc3! 19. d:b4 c:a3 20. fe3 dc5! 21. gf4 e:g3 22. h:f4 cd4 =
+                    </strong>
+                </li>
+            </ol>
+
+            <h3>Е. Кондраченко &ndash; В. Новиков, 9 тур</h3>
+            <p>
+                Анализируя партию
+                <strong>
+                    Е. Кондраченко &ndash; В. Новиков, 9 тур
+                </strong>
+            </p>
+            <p>
+                я нашел свежую идею:
+            </p>
+            <img src="pics/review/image14.png" class="diagram img-responsive center-block">
+
+            <p>
+                <strong>
+                    1.
+                </strong>
+                <strong>
+                    cd4!!
+                </strong>
+                <strong>
+                    ce3 (
+                </strong>
+                1&hellip;ag3 2.fd8 X; 1&hellip;ge3 2.cb2 ae5 3.fd8 X
+                <strong>
+                    ) 2.fd2 ac3 3.hf4 X
+                </strong>
+            </p>
+            <h3>Е. Кондраченко &ndash; М. Семенюк, 10 тур</h3>
+            <img src="pics/review/image15.png" class="diagram img-responsive center-block">
+            <p>
+                <strong>
+                    17&hellip;ed6?! (
+                </strong>
+                В. Литвинович рекомендовал 17&hellip;cd6 18.ba5 bc5
+            </p>
+            <p>
+                и нельзя 19.ab4? ca3 20.ab6 gf4! 21.bc7 &ndash; ход 21.cb2 ведь невозможен! ) &ndash;
+            </p>
+            <p>
+                21&hellip;hg3! 22.fh4 fe3 23.df4 eg3 24.ce5 ef6 Х;
+            </p>
+            <p>
+                В ответ на 17&hellip;cd6 я собирался играть 18.hg3! gf6 19.ba5 bc7
+            </p>
+            <p>
+                20.cd4 ec3 21.db4 de5 22.fe3! hd4 23.bc5, кроме того, была еще ловушка
+            </p>
+            <p>
+                после 18.hg3 bc7? 19.gf4! eg3 20.cd4 ba5 21.de3! ae5 22.ef4 Х
+                <strong>
+                    )
+                </strong>
+            </p>
+            <ol start="18">
+                <li>
+                    <strong>
+                        ba5 bc5 19. cb4 gf4! (
+                    </strong>
+                    19&hellip;gf6? 20.de3!, и на 20&hellip;ef4 21.hg3! X,
+                </li>
+            </ol>
+            <p>
+                а на 20&hellip;ed4 в &laquo;абациевском&raquo; стиле 21.ef4! ge3 22.cb2! X
+                <strong>
+                    )
+                </strong>
+            </p>
+            <ol start="20">
+                <li>
+                    <strong>
+                        dc3 hg5? (
+                    </strong>
+                    Еще можно было 20&hellip;cd4! 21.cd2 db2 22.ac1 fg3
+                    <strong>
+                        )
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        cd4 e:c3 22. b:d2 gh6 23. dc3 de5 24. cb2! ba7 (
+                    </strong>
+                    24&hellip;cd6 25.ab6 ca7 26.fe3 X; 24&hellip;cb6 25.ac7 bd6 26.cb4 fg3 27.hf4 eg3 28.bc3 gh2 29.ba5
+                    X
+                    <strong>
+                        )
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        cb4 cd6 26. ab6! (
+                    </strong>
+                    26.fg3? hf2 27.eg3 fe3! =
+                    <strong>
+                        ) 26&hellip;cd4 27. ba5
+                    </strong>
+                </li>
+            </ol>
+            <p>
+                <strong>
+                    (
+                </strong>
+                Но не 27.bc7? db8 28.fg3 hf2 29.gc5 ab6! 30.ca7 fe3 =
+                <strong>
+                    ) 27&hellip;a:c5 28. ab6 c:a7
+                </strong>
+            </p>
+            <ol start="29">
+                <li>
+                    <strong>
+                        fg3 h:f2 30. g:e7 fe3 31. ed8 gh4 32. da5 hg5 (
+                    </strong>
+                    32&hellip;ef2 33.eg3 hf2 34.hg3 fh4 35.ac7 ed4 36.bc3 X
+                    <strong>
+                        ) 33. ac3! ef4 (
+                    </strong>
+                    33&hellip;ed2 34.cf6! X
+                    <strong>
+                        ) 34. cb4 ab6 35. b2c3 Х
+                    </strong>
+                </li>
+            </ol>
+
+        </div>
+    </div>
+</div>
+</body>
