@@ -1,0 +1,4285 @@
+[White "Валюк Андрей"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. e3-d4 a7-b6 3. f2-e3 b8-a7 4. b2-a3 f6-e5 5. d4xf6 g7xe5 
+6. e3-d4 f8-g7 7. d4xf6 g7xe5 8. g3-h4 h8-g7 9. g1-f2 e7-f6 10. d2-e3 b6-c5 
+11. c3-d4 a5xc3 12. d4xb2 a7-b6 13. f2-g3 e5-d4 14. e1-f2 b6-a5 15. e3-f4 
+f6-e5 16. c1-d2 g7-f6 17. b2-c3 d4xb2 18. a1xc3 c5-d4 19. d2-e3 d4xb2 20. 
+a3xc1 d8-e7 21. e3-d4 e5xc3 22. f4-g5 h6xf4 23. g3xg7 e7-f6 24. g7xe5 d6xf4 
+1-1
+
+[White "Семенюк Михаил"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,16:B28,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-e3 h6xf4 4. e3xg5 h8-g7 5. d2-e3 g7-h6 
+6. c1-d2 h6xf4 7. e3xg5 f6-e5 8. c3-d4 e5xc3 9. b2xd4 a7-b6 10. d2-e3 d6-c5 
+11. e3-f4 c5xe3 12. f4xd2 e7-f6 13. g5xe7 d8xf6 14. a1-b2 c7-d6 15. b2-c3 
+f8-g7 16. d2-e3 g7-h6 17. e3-f4 b6-a5 18. e1-f2 d6-c5 19. f2-g3 h6-g5 20. 
+f4xh6 h2xf4 21. h4-g5 f6xh4 22. h6-g7 f4-e3 23. g7-h8 a5-b4 24. c3xa5 e3-d2 
+25. h8-g7 h4-g3 1-1
+
+[White "Михальченко Игорь"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,13:B16,9,10,12,5,6,7,8,1,2,3,4."]
+
+1. g3-f4 g7-f6 2. c3-d4 b6-c5 3. d4xb6 a7xc5 4. b2-c3 c5-b4 5. f2-g3 f6-e5 
+6. g3-h4 e5xg3 7. h4xf6 e7xg5 8. h2xf4 d6-e5 9. f4xd6 c7xe5 10. e3-d4 e5-f4 
+11. a5-b6 b4-a3 12. b6-a7 d8-c7 13. d4-c5 h8-g7 14. c3-b4 g7-f6 15. b4-a5 
+c7-d6 16. c5xe7 f6xd8 17. a5-b6 g5-h4 18. b6-c7 d8xb6 19. a7xc5 f8-e7 20. 
+g1-h2 e7-f6 21. e1-f2 f6-g5 22. f2-e3 b8-c7 23. e3-d4 h4-g3 24. c1-b2 a3xe3 
+25. d4xf6 f4-e3 26. f6-e7 c7-d6 27. e7-d8 d6xb4 28. d8-a5 b4-a3 29. a5-e1 
+h6-g5 30. e1-a5 g5-h4 31. a5-c3 e3-f2 32. c3-d4 a3-b2 1-1
+
+[White "Садовский Сергей"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,16:B17,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. a3xa7 h6xh2 2. b2-a3 g7-h6 3. a3-b4 h6-g5 4. b4-a5 g5-h4 5. e3-d4 d6-e5 
+6. d2-e3 e7-d6 7. c3-b4 e5xc3 8. b4xd2 f6-g5 9. a1-b2 g5-f4 10. e3xg5 h4xf6 
+11. b2-c3 d6-c5 12. d2-e3 c5-b4 13. c3-d4 b4-a3 14. d4-c5 h8-g7 15. c5-b6 
+f8-e7 16. e3-f4 g7-h6 17. e1-d2 e7-d6 18. d2-c3 f6-g5 19. f2-e3 g5-h4 20. 
+c1-d2 d6-e5 21. f4xd6 c7xe5 22. c3-b4 a3xc5 23. b6xf6 h6-g5 24. f6-g7 g5-f4 
+25. e3xg5 h4xh8 26. a5-b6 d8-e7 27. d2-c3 e7-d6 28. b6-c7 d6-e5 29. c7-d8 
+e5-f4 30. c3-d4 h8-g7 31. d8-h4 g7-h6 32. h4-f6 2-0
+
+[White "Куница Алексей"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,13:B16,9,10,12,5,6,7,8,1,2,3,4."]
+
+1. g3-f4 g7-f6 2. c3-d4 h8-g7 3. b2-c3 d6-e5 4. f4xd6 c7xe5 5. a5xc7 d8xb6 
+6. a1-b2 g5-f4 7. e3xg5 h6xf4 8. b2-a3 b6-c5 9. d4xb6 a7xc5 10. c3-d4 e5xc3 
+11. d2xd6 e7xc5 12. f2-e3 f4xd2 13. c1xe3 b8-c7 14. e1-d2 f8-e7 15. d2-c3 
+e7-d6 16. c3-b4 g7-h6 17. h2-g3 c7-b6 18. b4-a5 f6-e5 19. a5xc7 d6xb8 20. 
+e3-f4 e5-d4 21. g1-f2 1-1
+
+[White "Немец Дмитрий"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-e5 2. d4xf6 e7xg5 3. g3-f4 d8-e7 4. b2-c3 g7-f6 5. c3-b4 b6-a5 
+6. b4-c5 d6xb4 7. a3xc5 e7-d6 8. c5xe7 f6xd8 9. a1-b2 a7-b6 10. h2-g3 g5-h4 
+11. e3-d4 c7-d6 12. b2-c3 h8-g7 13. g1-h2 d6-c5 14. f2-e3 h4xf2 15. e1xg3 
+d8-e7 16. g3-h4 b8-a7 17. f4-e5 e7-d6 18. e5xc7 b6xd8 19. d4xb6 a5xc7 20. 
+h2-g3 g7-f6 21. g3-f4 d8-e7 22. e3-d4 c7-d6 23. d4-c5 d6xb4 24. c3xa5 1-1
+
+
+[White "Анисько Виталий"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,16:B17,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. a3xa7 h6xh2 2. c3-b4 d6-e5 3. b4-a5 f6-g5 4. e3-d4 e5xc3 5. b2xd4 g7-f6 
+6. d4-c5 h8-g7 7. a1-b2 g5-h4 8. c5-b6 f6-e5 9. b2-c3 e7-d6 10. c1-b2 e5-f4 
+11. b2-a3 f4-g3 12. c3-b4 f8-e7 13. b4-c5 d6xb4 14. a3xc5 g7-h6 15. d2-e3 
+e7-d6 16. c5xe7 d8xf6 17. b6xg5 h6xd2 18. e1xc3 g3xb4 19. a5xc3 h4-g3 20. 
+c3-b4 1-1
+
+[White "Чепа Олег"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,13:B14,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. b2-c3 f6-g5 2. c3-b4 g5-f4 3. g3xe5 d6xf4 4. e3xg5 h6xf4 5. b4xd6 c7xe5 
+6. a1-b2 d8-c7 7. b2-c3 a7-b6 8. d2-e3 f4xb4 9. a3xa7 g7-f6 10. f2-e3 h8-g7 
+11. e1-d2 f6-g5 12. e3-f4 g5xe3 13. d2xd6 e7xc5 14. h2-g3 c5-d4 15. c1-d2 
+1-1
+
+[White "Плакхин Аркадий"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,13:B14,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. b2-c3 f6-g5 2. g3-h4 g5-f4 3. e3xg5 h6xf4 4. c3-b4 g7-f6 5. a1-b2 h8-g7 
+6. f2-e3 g7-h6 7. e3xg5 h6xf4 8. e1-f2 f6-g5 9. h4xf6 e7xg5 10. b2-c3 a7-b6 
+11. d2-e3 f4xd2 12. c3xe1 f8-g7 13. f2-e3 g5-h4 14. c1-b2 g7-f6 15. e1-f2 
+f6-e5 16. h2-g3 e5-d4 17. e3-f4 d8-e7 18. g1-h2 e7-f6 19. f4-e5 d6xf4 20. 
+g3xg7 d4-e3 21. b4xd6 e3xg1 22. g7-h8 c7xe5 23. h8xa7 h4-g3 24. h2xf4 g1-h2 
+25. f4-g5 h2-e5 26. a7-f2 e5xa1 27. a3-b4 a1-b2 28. g5-h6 b2-f6 29. a5-b6 
+1-1
+
+[White "Новиков Виталий"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. e3-d4 a7-b6 3. f2-e3 b8-a7 4. b2-a3 f6-e5 5. d4xf6 g7xe5 
+6. e3-d4 f8-g7 7. d4xf6 e7xg5 8. g3-f4 g5xe3 9. d2xf4 g7-f6 10. h2-g3 h8-g7 
+11. c1-b2 b6-c5 12. g3-h4 c5-d4 13. c3xe5 f6xd4 14. b2-c3 d4xb2 15. a1xc3 
+g7-f6 16. e1-d2 c7-b6 17. d2-e3 f6-e5 18. g1-h2 e5xg3 19. h4xf2 d8-e7 20. 
+e3-f4 e7-f6 21. f2-g3 b6-c5 22. g3-h4 a7-b6 23. h4-g5 f6xh4 24. f4-e5 d6xf4 
+25. b4xd6 f4-e3 26. d6-e7 b6-c5 27. e7-d8 e3-f2 28. d8-e7 f2-e1 29. e7xb4 
+e1-d2 30. c3xe1 a5xc3 31. e1-f2 h6-g5 0-2
+
+[White "Беляевский Владимир"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,16:B28,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-e3 h6xf4 4. e3xg5 h8-g7 5. g5-h6 f6-e5 
+6. c3-d4 e5xc3 7. b2xd4 g7-f6 8. a1-b2 c7-b6 9. b2-c3 d6-c5 10. d2-e3 e7-d6 
+11. c1-d2 b6-a5 12. d4xb6 a7xc5 13. e3-f4 f6-e5 14. d2-e3 e5xg3 15. h4xf2 
+d8-e7 16. e3-d4 c5xe3 17. f2xd4 b8-a7 18. e1-d2 a7-b6 19. d2-e3 b6-c5 20. 
+d4xb6 a5xc7 21. a3-b4 d6-e5 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-d4 f6-e5 2. d4xf6 e7xg5 3. g3-f4 d8-e7 4. b2-c3 g7-f6 5. c3-d4 b6-a5 
+6. d2-c3 c7-b6 7. a1-b2 b6-c5 8. d4xb6 a5xc7 9. a3-b4 g5-h4 10. b4-a5 h8-g7 
+11. h2-g3 d6-c5 12. e1-d2 f6-g5 13. c3-d4 a7-b6 14. d4-e5 e7-d6 15. b2-c3 
+c5-b4 16. c3-d4 b8-a7 17. a5xc3 b6-a5 18. c1-b2 a7-b6 19. b2-a3 d6-c5 20. 
+a3-b4 c5xa3 21. e5-d6 c7xe5 2-0
+
+[White "Садовский Сергей"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 b6-a5 2. e3-f4 f6-g5 3. f2-e3 a5-b4 4. a3xc5 d6xb4 5. b2-a3 c7-d6 
+6. a3xc5 d6xb4 7. a1-b2 b4-a3 8. d4-c5 b8-c7 9. e3-d4 g5xe3 10. d4xf2 h6-g5 
+11. f2-e3 g7-h6 12. e3-d4 g5-h4 13. g1-f2 h6-g5 14. f2-e3 h4xf2 15. e3xg1 
+g5-f4 16. g1-f2 h8-g7 17. f2-e3 g7-h6 18. e3xg5 h6xf4 19. e1-f2 f4-e3 20. 
+d2xf4 c7-d6 1-1
+
+[White "Семенюк Михаил"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,20:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-b4 f6-e5 2. h4-g5 h6xf4 3. e3xg5 b6-a5 4. h2-g3 a5xc3 5. b2xf6 g7xe5 
+6. g3-h4 a7-b6 7. a3-b4 b6-c5 8. b4-a5 c5-b4 9. a5xc3 e5-d4 10. c3xe5 d6xh6 
+11. a1-b2 h8-g7 12. b2-c3 g7-f6 13. f2-e3 e7-d6 14. e3-f4 d6-e5 15. f4xd6 
+c7xe5 16. c3-b4 d8-c7 17. b4-c5 h6-g5 18. g1-f2 c7-d6 19. c5xe7 f8xd6 20. 
+f2-e3 b8-a7 21. d2-c3 e5-f4 22. c3-b4 f4xd2 23. c1xe3 a7-b6 24. e3-d4 1-1
+
+
+[White "Беляевский Владимир"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. g3-h4 f6-e5 4. e3-d4 b8-c7 5. d4xf6 g7xe5 
+6. f2-g3 f8-g7 7. g1-f2 g7-f6 8. d2-e3 b6-c5 9. c3-d4 e5xc3 10. b4xd2 c7-b6 
+11. g3-f4 c5-d4 12. e3xc5 b6xd4 13. f2-g3 f6-e5 14. d2-c3 d4xb2 15. a1xc3 
+d8-c7 16. c1-d2 h8-g7 17. d2-e3 g7-f6 18. e3-d4 c7-b6 19. h4-g5 f6xf2 20. 
+d4xd8 f2-g1 21. d8-h4 g1-c5 22. h2-g3 c5-f2 23. h4-d8 f2xh4 24. e1-f2 h4xb4 
+25. a3xe7 2-0
+
+[White "Кондраченко Евгений"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. f2-g3 d6-e5 3. e3-d4 c7-b6 4. d2-e3 b6-c5 5. d4xb6 a5xc7 
+6. a3-b4 a7-b6 7. c1-d2 e7-d6 8. b4-a5 b6-c5 9. c3-d4 e5xc3 10. b2xb6 b8-a7 
+11. d2-c3 a7xc5 12. a1-b2 c5-b4 13. g3-f4 b4xd2 14. e1xc3 d6-c5 15. h2-g3 
+c5-b4 16. g1-f2 b4xd2 17. e3xc1 c7-b6 18. a5xc7 d8xb6 19. f2-e3 b6-a5 20. 
+b2-c3 f6-e5 21. f4xd6 h6-g5 22. h4xf6 g7xc7 23. g3-f4 c7-d6 24. c1-b2 h8-g7 
+25. c3-d4 a5-b4 1-1
+
+[White "Новиков Виталий"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,26,27,28,21,22,23,24,18:B20,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. c3-b4 b6-a5 2. d4-c5 a5xc3 3. d2xb4 f6-e5 4. b4-a5 d6xb4 5. a5xc3 a7-b6 
+6. g3-f4 e5xg3 7. h2xf4 g7-f6 8. c3-d4 b6-a5 9. c1-d2 f6-g5 10. a1-b2 e7-d6 
+11. b2-c3 c7-b6 12. d4-e5 d8-c7 13. c3-d4 d6-c5 14. d2-c3 b8-a7 15. f2-g3 
+h4xf2 16. e1xg3 g5-h4 17. e5-f6 h4xf2 18. d4-e5 f2xb2 19. a3xc1 c7-d6 20. 
+e5xc7 b6xd8 21. f6-g7 d8-e7 22. g7-h8 e7-f6 23. h8xb6 a7xc5 24. g1-f2 c5-d4 
+25. f2-g3 a5-b4 26. g3-h4 0-2
+
+[White "Немец Дмитрий"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,26,27,28,21,22,23,24,18:B20,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. c3-b4 b6-a5 2. d4-c5 a5xc3 3. d2xb4 f6-e5 4. b4-a5 d6xb4 5. a5xc3 e7-d6 
+6. c3-b4 d8-e7 7. a1-b2 e7-f6 8. e3-f4 a7-b6 9. b4-c5 b6xd4 10. f4-g5 h6xf4 
+11. f2-e3 f4xd2 12. c1xg5 h4xf6 13. g3-f4 e5xg3 14. h2xf4 f8-e7 15. b2-c3 
+g7-h6 16. e1-d2 e7-d6 17. d2-e3 f6-g5 18. g1-f2 d6-e5 19. f4xd6 c7xe5 20. 
+e3-d4 e5-f4 21. f2-e3 f4xb4 22. a3xc5 b8-c7 23. c5-b6 c7xa5 24. d4-c5 g5-f4 
+25. c5-d6 a5-b4 26. d6-c7 1-1
+
+[White "Валюк Андрей"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,20:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. h2-g3 b6-a5 2. e3-f4 a7-b6 3. f2-e3 f6-g5 4. h4xf6 e7xg5 5. g1-h2 f8-e7 
+6. c3-b4 a5xc3 7. b2xd4 b6-a5 8. a1-b2 c7-b6 9. b2-c3 b8-a7 10. g3-h4 d6-c5 
+11. h4xf6 e7xg5 12. h2-g3 g5-h4 13. f4-e5 h4xf2 14. e3xg1 c5xe3 15. d2xf4 
+g7-f6 16. e5xg7 h8xf6 17. g1-h2 d8-e7 18. h2-g3 e7-d6 19. g3-h4 f6-e5 20. 
+e1-f2 e5xb4 21. a3xe7 b6-c5 22. e7-d8 c5-d4 23. d8-e7 2-0
+
+[White "Анисько Виталий"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. g3-h4 f6-e5 4. e3-d4 b6-c5 5. d4xb6 a5xc7 
+6. b4-c5 d6xb4 7. c3xa5 g7-f6 8. a1-b2 h8-g7 9. a3-b4 a7-b6 10. b2-a3 e7-d6 
+11. h2-g3 f8-e7 12. g1-h2 b6-c5 13. c1-b2 h6-g5 14. f2-e3 g7-h6 15. b2-c3 
+g5-f4 16. e3xg5 h6xf4 17. e1-f2 c5-d4 18. b4-c5 d4xb6 19. c3-d4 e5xe1 20. 
+g3xg7 e1xg3 21. h2xf4 e7-f6 22. g7xe5 d8-e7 23. h4-g5 d6-c5 24. e5-f6 c5-d4 
+25. f6xd8 b6-c5 26. d8xb6 c5xa7 27. a3-b4 a7-b6 28. a5xc7 b8xd6 29. g5-h6 
+d6-c5 30. b4xd6 d4-c3 31. f4-e5 c3-d2 32. e5-f6 d2-c1 33. f6-g7 2-0
+
+[White "Чепа Олег"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. f2-g3 d6-e5 3. e3-d4 e5-f4 4. g3xe5 e7-d6 5. g1-f2 d6xf4 
+6. f2-g3 f8-e7 7. g3xe5 e7-d6 8. e1-f2 d6xf4 9. f2-g3 d8-e7 10. g3xe5 e7-d6 
+11. h4-g5 f6xh4 12. e5-f6 g7xe5 13. d4xf6 c7-b6 14. d2-e3 b8-c7 15. a3-b4 
+d6-e5 16. f6xd4 c7-d6 17. d4-e5 d6xd2 18. c3xe1 a5xc3 19. b2xd4 h8-g7 20. 
+h2-g3 h4xf2 21. e1xg3 1-1
+
+[White "Куница Алексей"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 b6-a5 2. e3-f4 f6-g5 3. f2-e3 a5-b4 4. a3xc5 d6xb4 5. b2-a3 c7-d6 
+6. a3xc5 d6xb4 7. a1-b2 b4-a3 8. d4-c5 b8-c7 9. e3-d4 g5xe3 10. d4xf2 h6-g5 
+11. f2-e3 g7-h6 12. g1-f2 g5-h4 13. g3-f4 h8-g7 14. d2-c3 c7-d6 15. c3-b4 
+g7-f6 16. b2-c3 f6-g5 17. c5-b6 a7xc5 18. b4-a5 a3-b2 19. c1xa3 c5-b4 20. 
+a3xc5 d6xd2 21. e1xc3 d8-c7 22. c3-d4 1-1
+
+[White "Садовский Сергей"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,17:B16,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. g3-f4 b6-a5 2. b4-c5 d6xb4 3. a3xc5 d8-c7 4. e3-d4 g5xe3 5. d2xf4 c7-d6 
+6. e1-d2 d6xb4 7. b2-a3 f6-g5 8. a3xc5 g5xe3 9. d4xf2 e7-d6 10. c5xe7 f8xd6 
+11. h2-g3 h6-g5 12. a1-b2 a7-b6 13. f2-e3 g5-h4 14. g3-f4 b6-c5 15. b2-a3 
+g7-f6 16. f4-g5 f6-e5 17. g5-h6 b8-c7 18. e3-f4 e5xg3 19. c3-d4 c5xe3 20. 
+d2xh2 1-1
+
+[White "Валюк Андрей"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,18:B16,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. g3-h4 d6-c5 2. h2-g3 c5xe3 3. f2xd4 e7-d6 4. a3-b4 b6-a5 5. d2-e3 d6-e5 
+6. c1-d2 c7-d6 7. g3-f4 e5xg3 8. h4xf2 d6-e5 9. f2-g3 d8-c7 10. b2-a3 f8-e7 
+11. g3-h4 b8-a7 12. b4-c5 c7-b6 13. a3-b4 e5-f4 14. g1-h2 2-0
+
+[White "Кондраченко Евгений"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,15:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. e3-f4 f6xd4 2. c3xe5 b6-c5 3. g3-h4 e7-f6 4. d2-c3 f6xd4 5. c3xe5 f8-e7 
+6. c1-d2 g7-f6 7. e5xg7 h6xf8 8. b2-c3 1-1
+
+[White "Чепа Олег"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B20,9,10,12,5,6,7,8,1,2,3,4."]
+
+1. c3-d4 d6-c5 2. d2-c3 c7-d6 3. c3-b4 b6-a5 4. d4xb6 a5xc7 5. b4-c5 d6xb4 
+6. a3xc5 g7-f6 7. e3-d4 f6-g5 8. b2-c3 h8-g7 9. c1-d2 c7-b6 10. c3-b4 g7-f6 
+11. d4-e5 f6xd4 12. c5xe3 b6-a5 13. g3-f4 a5xc3 14. d2xb4 e7-d6 15. a1-b2 
+f8-e7 16. b2-c3 e7-f6 17. c3-d4 d6-c5 18. b4xd6 f6-e5 19. d4xf6 g5xc5 20. 
+f4-e5 c5-b4 21. e1-d2 h6-g5 22. e3-d4 d8-c7 23. f2-g3 h4xf2 24. g1xe3 b4-a3 
+25. d2-c3 c7-d6 26. e5xc7 b8xd6 1-1
+
+[White "Немец Дмитрий"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,16:B21,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 a7-b6 3. g5-h6 f6-e5 4. f2-e3 b6-a5 5. e3-f4 e5xg3 
+6. h4xf2 g7-f6 7. h2-g3 f6-e5 8. g3-h4 h8-g7 9. f2-e3 g7-f6 10. e3-f4 e5xg3 
+11. h4xf2 c7-b6 12. f2-e3 d6-e5 13. c3-d4 e5xc3 14. b2xd4 e7-d6 15. a1-b2 
+d6-e5 16. b2-c3 a5-b4 17. c3xc7 e5xc3 18. d2xb4 a3xc5 19. e1-d2 d8xb6 20. 
+g1-h2 b6-a5 21. d2-c3 b8-c7 22. h2-g3 c5-b4 23. c3-d4 b4-a3 24. g3-f4 c7-d6 
+25. c1-d2 d6-c5 26. d4xb6 a5xc7 27. d2-c3 c7-b6 28. e3-d4 f6-g5 29. f4-e5 
+g5-h4 30. e5-f6 h4-g3 31. f6-g7 g3-f2 32. g7-h8 f2-e1 33. d4-e5 e1xb4 34. 
+e5-f6 b6-c5 35. f6-e7 f8xd6 36. h8-a1 b4-a5 37. h6-g7 1-1
+
+[White "Беляевский Владимир"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,18:B16,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. g3-h4 d6-c5 2. h2-g3 c5xe3 3. f2xd4 e7-d6 4. a3-b4 b6-a5 5. d2-e3 f6-e5 
+6. h4xf6 e5-f4 7. g3xe5 d6xd2 8. c1xe3 g7xe5 9. d4xf6 c7-d6 10. e3-d4 d6-e5 
+11. b4-c5 e5xg7 12. d4-e5 g7-f6 13. e5xg7 h8xf6 14. e1-f2 h6-g5 15. f2-g3 
+d8-e7 16. g1-f2 e7-d6 17. c5xe7 f8xd6 18. f2-e3 g5-h4 19. c3-d4 h4xf2 20. 
+e3xg1 1-1
+
+[White "Семенюк Михаил"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,16:B21,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 a7-b6 3. g5-h6 f6-e5 4. f2-e3 b6-a5 5. e3-f4 e5xg3 
+6. h4xf2 g7-f6 7. h2-g3 f6-e5 8. g3-h4 h8-g7 9. f2-e3 g7-f6 10. g1-h2 c7-b6 
+11. e3-f4 e5xg3 12. h4xf2 b8-a7 13. f2-e3 b6-c5 14. c3-b4 a5xc3 15. b2xb6 
+a7xc5 16. a1-b2 d6-e5 17. b2-c3 e5-f4 18. e3xg5 f6xh4 19. d2-e3 d8-c7 20. 
+e1-f2 c7-d6 21. c3-d4 c5-b4 22. h2-g3 e7-f6 23. g3-f4 f6-g5 24. d4-c5 b4-c3 
+25. c5xe7 f8xd6 26. h6-g7 c3-b2 27. f4xh6 b2-a1 28. g7-f8 d6-c5 29. f8xb4 
+a3xc5 30. f2-g3 h4xd4 31. h6-g7 d4-e3 32. g7-f8 c5-d4 33. f8-b4 1-1
+
+[White "Михальченко Игорь"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,15:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. e3-f4 f6xd4 2. c3xe5 b6-c5 3. g3-h4 e7-f6 4. d2-c3 f6xd4 5. c3xe5 f8-e7 
+6. c1-d2 g7-f6 7. e5xg7 h6xf8 8. b2-c3 a7-b6 9. c3-b4 b6-a5 10. f2-e3 a5xc3 
+11. d2xb4 e7-f6 12. a1-b2 c7-b6 13. b4-a5 f8-g7 14. a5xe5 f6xf2 15. e1xg3 
+g7-f6 16. b2-c3 b8-c7 17. c3-b4 c5-d4 18. b4-a5 d4-c3 19. a3-b4 c3-b2 20. 
+b4-c5 b2-c1 21. c5-d6 c7xe5 22. f4xd6 h2xf4 23. d6-c7 d8xb6 24. a5xc7 f4-e3 
+25. h4-g5 f6xh4 26. c7-b8 c1-b2 27. b8-a7 1-1
+
+[White "Плакхин Аркадий"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,17:B16,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. g3-f4 b6-c5 2. b4-a5 g5-h4 3. a5-b6 h4-g3 4. b6xd4 g3xe5 5. a3-b4 h6-g5 
+6. b4-c5 d6xb4 7. c3xa5 e5xc3 8. b2xd4 g5-h4 1-1
+
+[White "Новиков Виталий"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B20,9,10,12,5,6,7,8,1,2,3,4."]
+
+1. c3-d4 d6-c5 2. d2-c3 c7-d6 3. c3-b4 b6-a5 4. d4xb6 a5xc7 5. b4-c5 d6xb4 
+6. a3xc5 g7-f6 7. e3-d4 f6-g5 8. b2-c3 h8-g7 9. c1-d2 c7-b6 10. c3-b4 g7-f6 
+11. d4-e5 f6xd4 12. c5xe3 b6-a5 13. g3-f4 a5xc3 14. d2xb4 e7-d6 15. a1-b2 
+f8-e7 16. b2-c3 e7-f6 17. c3-d4 d6-c5 18. b4xd6 f6-e5 19. d4xf6 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,17:B15,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. g3-h4 h8-g7 2. e3-f4 e5xg3 3. h4xf2 f6-e5 4. b4-a5 h6-g5 5. c3-b4 g7-f6 
+6. d2-e3 e5-f4 7. e1-d2 f6-e5 8. d2-c3 f4xd2 9. c3xe1 e7-f6 10. b2-c3 e5-f4 
+11. e1-d2 f6-e5 12. a1-b2 f8-g7 13. d2-e3 f4xd2 14. c3xe1 g7-h6 15. b2-c3 
+b6-c5 16. c3-d4 e5xc3 17. b4xd2 d6-e5 18. f2-g3 c5-d4 19. g1-f2 a7-b6 20. 
+d2-e3 b8-a7 21. e3xc5 b6xd4 22. c1-d2 c7-b6 23. a5xc7 d8xb6 24. g3-h4 b6-c5 
+25. h4xf6 e5xg7 26. h2-g3 g7-f6 27. d2-c3 d4xb2 28. a3xc1 c5-d4 29. e1-d2 
+a7-b6 30. g3-f4 1-1
+
+[White "Беляевский Владимир"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,18:B16,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. g3-f4 d6-c5 2. c3-b4 b6-a5 3. b4xd6 e7xc5 4. d4xb6 a5xc7 5. b2-c3 g5-h4 
+6. c3-d4 a7-b6 7. a1-b2 h4-g3 8. f4-g5 f6xh4 9. h2xf4 c7-d6 10. a3-b4 b6-a5 
+11. b4-c5 d6xb4 12. b2-a3 g7-f6 13. a3xc5 f6-g5 14. d4-e5 d8-e7 15. e5-d6 
+h8-g7 16. d2-c3 g7-f6 17. e3-d4 g5xe3 18. d4xf2 f6-g5 19. c1-d2 g5-f4 20. 
+g1-h2 2-0
+
+[White "Плакхин Аркадий"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 b6-a5 2. f2-e3 a7-b6 3. g3-h4 f6-e5 4. h2-g3 g7-f6 5. g1-h2 b6-c5 
+6. c3-b4 a5xc3 7. b2xb6 c7xa5 8. d2-c3 b8-a7 9. e3-d4 a7-b6 10. e1-d2 f6-g5 
+11. d4xf6 g5xe3 12. d2xf4 e7xe3 13. h4-g5 h6xf4 14. g3xc7 e3-f2 15. h2-g3 
+f2xh4 16. c7-b8 f8-e7 17. b8-f4 e7-f6 18. c1-d2 b6-c5 19. d2-e3 f6-e5 20. 
+f4xb4 h4-g3 21. e3-f4 g3xe5 22. b4-c5 e5-f4 23. c5-f2 h8-g7 24. c3-d4 f4-g3 
+25. f2xh4 g7-f6 26. h4xe7 d8xf6 27. a1-b2 f6-g5 1-1
+
+[White "Валюк Андрей"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B13,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. g3-f4 f6-g5 2. h4xf6 g7xg3 3. f2xh4 h8-g7 4. h2-g3 g7-f6 5. g1-h2 b6-c5 
+6. e3-f4 d8-e7 7. b2-a3 c7-b6 8. c3-b4 a5xc3 9. d2xb4 b6-a5 10. c1-b2 a5xc3 
+11. b2xb6 a7xc5 12. a1-b2 f8-g7 13. e1-f2 b8-c7 14. b2-c3 f6-e5 15. c3-b4 
+c5-d4 16. b4-a5 d4-c3 17. a3-b4 c3-d2 18. b4-c5 d6xb4 19. a5xe1 e7-d6 20. 
+f2-e3 c7-b6 21. h4-g5 2-0
+
+[White "Новиков Виталий"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. f2-g3 f6-e5 3. e3-d4 e5-f4 4. g3xe5 d6xf4 5. h4-g5 f4-g3 
+6. h2xf4 g7-f6 7. d4-c5 f6xh4 8. c3-b4 a5xc3 9. b2xd4 h8-g7 10. d2-e3 g7-f6 
+11. c1-d2 c7-b6 12. a1-b2 f6-g5 13. d2-c3 b6-a5 14. e1-d2 e7-f6 15. g1-f2 
+d8-e7 16. f4-e5 b8-c7 17. e5xg7 g5-f4 18. e3xg5 h4xh8 19. f2-e3 c7-b6 20. 
+e3-f4 f8-g7 21. d2-e3 e7-f6 22. f4-e5 h6-g5 1-1
+
+[White "Семенюк Михаил"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,19:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xg3 3. h2xf4 h8-g7 4. d2-e3 g7-f6 5. f2-g3 b6-a5 
+6. g3-h4 c7-b6 7. c1-d2 b6-c5 8. c3-b4 a5xc3 9. b2xb6 a7xc5 10. d2-c3 f6-e5 
+11. a1-b2 e5xg3 12. h4xf2 e7-f6 13. c3-d4 b8-c7 14. d4xb6 c7xa5 15. b2-c3 
+d8-c7 16. e3-f4 d6-c5 17. f2-e3 c7-d6 18. c3-d4 f8-e7 19. d4xb6 a5xc7 20. 
+e1-d2 f6-e5 1-1
+
+[White "Чепа Олег"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,19:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xg3 3. h2xf4 h8-g7 4. d2-e3 g7-f6 5. f2-g3 b6-a5 
+6. g3-h4 a7-b6 7. c1-d2 b6-c5 8. c3-b4 a5xc3 9. b2xb6 c7xa5 10. a1-b2 d6-c5 
+11. d2-c3 b8-a7 12. c3-d4 e7-d6 13. d4xb6 a7xc5 14. b2-c3 f8-e7 15. c3-d4 
+c5-b4 16. a3xc5 d6xb4 17. e1-d2 b4-a3 18. d2-c3 e7-d6 19. g1-f2 d8-c7 20. 
+h4-g5 f6xh4 21. f2-g3 h4xf2 22. e3xg1 c7-b6 23. g1-f2 b6-c5 24. d4xb6 a5xc7 
+25. f2-g3 c7-b6 26. g3-h4 0-2
+
+[White "Садовский Сергей"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,17:B15,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. b4-a5 f6-g5 2. e3-f4 g5xe3 3. d2xf4 e7-f6 4. c3-b4 b6-c5 5. b2-c3 f8-g7 
+6. a1-b2 a7-b6 7. e1-d2 f6-g5 8. g3-h4 g5xe3 9. d2xf4 e5xg3 10. h2xf4 g7-f6 
+11. c1-d2 h8-g7 12. d2-e3 f6-e5 13. e3-d4 e5xg3 14. h4xf2 c5xe3 15. f2xd4 
+h6-g5 16. g1-f2 g7-h6 17. d4-e5 d6xf4 18. b4-c5 b6xd4 19. c3xg3 c7-d6 20. 
+a3-b4 d6-e5 21. g3-h4 g5-f4 22. h4-g5 f4-g3 23. f2xh4 h6xf4 24. b2-c3 f4-e3 
+25. h4-g5 d8-e7 26. a5-b6 e5-f4 27. g5-f6 e7xg5 28. b4-c5 e3-f2 29. c5-d6 
+f2-e1 30. d6-c7 b8xd6 31. b6-a7 e1xa5 32. a7-b8 d6-e5 33. b8-a7 a5-d8 34. 
+a7-g1 f4-g3 35. g1-h2 e5-f4 36. h2-g1 0-2
+
+[White "Немец Дмитрий"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B13,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. g3-f4 f6-g5 2. h4xf6 g7xg3 3. f2xh4 h8-g7 4. h2-g3 g7-f6 5. g1-h2 d6-e5 
+6. e3-f4 d8-e7 7. f4xd6 c7xe5 8. d2-e3 e7-d6 9. b2-a3 b6-c5 10. c1-d2 a7-b6 
+11. g3-f4 e5xg3 12. h2xf4 f6-e5 13. f4-g5 h6xf4 14. e3xg5 b8-c7 15. g5-h6 
+e5-f4 16. h4-g5 f4-g3 17. e1-f2 g3xe1 18. d2-e3 e1xb4 19. e3-d4 c5xe3 20. 
+a3xe7 f8xd6 21. h6-g7 e3-d2 22. a1-b2 d2-c1 23. g7-f8 1-1
+
+[White "Михальченко Игорь"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. f2-g3 f6-e5 3. e3-d4 e5-f4 4. g3xe5 d6xf4 5. g1-f2 g7-f6 
+6. f2-g3 f8-g7 7. g3xe5 e7-d6 8. a3-b4 d6xf4 9. b2-a3 c7-d6 10. c1-b2 d6-c5 
+11. b4xd6 f6-g5 12. h4xf6 g7xc7 13. d4-c5 c7-d6 14. c5xe7 d8xf6 15. a3-b4 
+h6-g5 1-1
+
+[White "Куница Алексей"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,18:B16,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. g1-f2 d6-e5 2. g3-f4 e5xg3 3. h2xf4 g5-h4 4. c3-b4 f6-e5 5. f4xd6 e7xc5 
+6. b4xd6 d8-c7 7. d6-e7 f8xd6 8. d4-c5 d6xb4 9. a3xc5 b6xd4 10. e3xc5 g7-f6 
+11. b2-c3 h6-g5 12. c3-d4 c7-d6 13. c5xe7 f6xd8 14. f2-g3 h4xf2 15. e1xg3 
+g5-h4 16. g3-f4 d8-e7 17. a1-b2 h8-g7 18. b2-c3 e7-d6 19. c3-b4 g7-f6 20. 
+d2-c3 f6-g5 21. f4xh6 h4-g3 22. h6-g7 g3-h2 23. d4-c5 d6-e5 24. g7-f8 e5-f4 
+25. f8-e7 f4-e3 26. e7-h4 h2-g1 27. c5-d6 e3-f2 28. h4xe1 g1-c5 29. d6-e7 
+2-0
+
+[White "Анисько Виталий"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 b6-a5 2. f2-e3 a7-b6 3. g3-h4 f6-e5 4. h2-g3 g7-f6 5. g1-h2 b8-a7 
+6. c3-b4 a5xc3 7. d2xb4 b6-c5 8. b2-c3 c7-b6 1-1
+
+[White "Михальченко Игорь"]
+[Black "Cеменюк  Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 f6-e5 2. d4xf6 g7xe5 3. a3-b4 h6-g5 4. g3-h4 e5-f4 5. h4xf6 e7xg5 
+6. b4-c5 d6xb4 7. c3xa5 b6-c5 8. b2-c3 h8-g7 9. a1-b2 c5-b4 10. f2-g3 b4-a3 
+11. g3xe5 g7-h6 12. g1-f2 f8-e7 13. f2-g3 g5-f4 14. c3-d4 f4xd6 15. b2-c3 
+e7-f6 16. d2-e3 d6-e5 17. e1-d2 c7-d6 18. g3-f4 e5xg3 19. h2xf4 d8-e7 20. 
+a5-b6 a7xc5 21. d4xb6 b8-a7 22. c3-d4 a7xc5 23. d4xb6 f6-e5 24. f4-g5 h6xf4 
+25. e3xg5 e5-d4 26. g5-h6 d4-c3 27. d2xb4 a3xa7 28. h6-g7 d6-e5 29. c1-d2 
+a7-b6 30. g7-f8 e7-f6 31. d2-e3 f6-g5 2-0
+
+[White "Cадовский Сергей"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. g3-h4 e5xc3 3. b2xd4 f6-e5 4. d4xf6 g7xe5 5. a3-b4 h8-g7 
+6. h2-g3 g7-f6 7. b4-a5 e5-d4 8. e3xc5 b6xd4 9. a1-b2 f6-e5 10. d2-e3 h6-g5 
+11. h4xf6 e7xg5 12. e3xc5 e5-f4 13. g3xe5 c7-b6 14. a5xc7 d8xf6 15. c1-d2 
+b8-c7 16. d2-e3 c7-d6 17. b2-a3 a7-b6 18. e1-d2 g5-h4 19. d2-c3 f6-g5 20. 
+e3-d4 b6-a5 21. a3-b4 g5-f4 22. d4-e5 f4-g3 23. e5xc7 g3xe1 24. c7-b8 h4-g3 
+25. b8xh2 e1-h4 26. h2-e5 h4-e7 27. g1-f2 e7xa3 28. e5-f6 f8-e7 29. f6xd8 
+1-1
+
+[White "Немец  Дима"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,18:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 d6-c5 2. c3-b4 c7-d6 3. b4-a5 d6-e5 4. a5xc7 d8xb6 5. b2-c3 e5-f4 
+6. e3xg5 h6xf4 7. c3-b4 c5xe3 8. f2xd4 b6-c5 9. d4xb6 a7xc5 10. b4xd6 e7xc5 
+11. a1-b2 f8-e7 12. d2-e3 f4xd2 13. c1xe3 e7-d6 14. e3-f4 f6-e5 15. b2-c3 
+e5xg3 16. h4xf2 d6-e5 17. f2-e3 b8-c7 18. e1-f2 g7-f6 19. e3-d4 c5xe3 20. 
+f2xd4 e5-f4 21. a3-b4 f4-g3 22. b4-c5 g3-f2 23. g1xe3 h2-g1 24. e3-f4 g1-f2 
+25. c3-b4 f2-g1 26. b4-a5 g1-f2 27. f4-g5 f6xh4 28. d4-e5 f2xa7 29. e5-f6 
+a7-d4 0-2
+
+[White "Куница Алексей"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,14:B20,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. e3-f4 d6xb4 2. a3xc5 b6xd4 3. f4-g5 h6xf4 4. g3xc3 e7-d6 5. c3-d4 f6-g5 
+6. b2-c3 a7-b6 7. a1-b2 h8-g7 8. b2-a3 g7-f6 9. d2-e3 f6-e5 10. d4xf6 g5xe7 
+11. c3-d4 b6-a5 12. h2-g3 b8-a7 13. g3-f4 a5-b4 14. a3xc5 d6xb4 15. f4-g5 
+h4xf6 16. d4-e5 f6xd4 17. e3xa3 c7-b6 18. c1-d2 e7-f6 19. d2-c3 f8-e7 20. 
+f2-e3 1-1
+
+[White "Чепа Олег"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,18:B28,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. d4-e5 d6xf4 2. g3xe5 f6xd4 3. c3xe5 b8-c7 4. b2-c3 e7-d6 5. f2-g3 d6xf4 
+6. g3xe5 f8-e7 7. e1-f2 b6-a5 8. e3-f4 c7-b6 9. f2-g3 g7-f6 10. e5xg7 h6xf8 
+11. a1-b2 h8-g7 12. c3-d4 g7-f6 13. g3-h4 e7-d6 14. d2-e3 d8-e7 15. f4-g5 
+d6-e5 16. b2-c3 e5-f4 17. g5-h6 f4xb4 18. a3xc5 a5-b4 19. c5xa3 b6-c5 20. 
+d4xb6 a7xc5 21. c1-d2 c5-d4 22. d2-c3 d4xb2 23. a3xc1 e7-d6 24. c1-d2 d6-c5 
+25. d2-c3 f6-e5 26. h4-g5 c5-d4 27. c3-b4 d4-e3 28. b4-a5 e3-d2 29. a5-b6 
+d2-e1 30. b6-c7 e1-g3 31. g5-f6 e5xg7 32. c7-d8 g3-h4 1-1
+
+[White "Анисько Виталий"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,14:B21,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 b6xd4 2. e3xc5 d6xb4 3. c3xa5 f6-e5 4. b2-c3 g7-f6 5. f2-g3 e7-d6 
+6. d2-e3 a7-b6 7. e1-d2 f8-g7 8. a1-b2 b6-c5 9. g3-f4 e5xg3 10. h2xf4 f6-e5 
+11. g1-h2 e5xg3 12. h2xf4 g7-f6 13. c3-d4 b8-a7 14. d4xb6 a7xc5 15. b2-c3 
+f6-e5 16. c3-b4 e5xg3 17. h4xf2 d8-e7 18. d2-c3 c5-d4 19. e3xc5 h6-g5 20. 
+f2-e3 2-0
+
+[White "Cеменюк  Михаил"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 f6-e5 2. d4xf6 g7xe5 3. a3-b4 h6-g5 4. g3-h4 g5-f4 5. b4-a5 b6-c5 
+6. b2-a3 c5-b4 7. a3xc5 d6xb4 8. f2-e3 h8-g7 9. e3xg5 g7-h6 10. g1-f2 h6xf4 
+11. f2-e3 b4-a3 12. e3xg5 e5-d4 13. c3xe5 c7-b6 14. a5xc7 b8xh6 15. a1-b2 
+e7-f6 16. b2-c3 f8-e7 17. h2-g3 a7-b6 18. g3-f4 b6-a5 19. d2-e3 e7-d6 20. 
+c3-d4 d6-c5 21. d4xb6 a5xc7 22. e1-d2 c7-b6 23. e3-d4 d8-e7 24. f4-e5 b6-a5 
+25. e5xg7 h6xf8 26. d2-e3 e7-d6 27. h4-g5 d6-c5 28. d4xb6 a5xc7 29. g5-f6 
+c7-b6 30. e3-d4 b6-a5 31. d4-c5 a5-b4 32. f6-e7 f8xd6 33. c5xe7 b4-c3 34. 
+e7-f8 a3-b2 35. c1xa3 c3-d2 1-1
+
+[White "Плакхин Аркадий"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,14:B20,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. e3-f4 d6xb4 2. a3xc5 b6xd4 3. f4-g5 h6xf4 4. g3xc3 e7-d6 5. c3-d4 f6-g5 
+6. b2-c3 a7-b6 7. a1-b2 h8-g7 8. b2-a3 g7-f6 9. d2-e3 f6-e5 10. d4xf6 g5xe7 
+11. c3-d4 b6-a5 12. h2-g3 b8-a7 13. g3-f4 a5-b4 14. a3xc5 d6xb4 15. f4-g5 
+h4xf6 16. d4-e5 f6xd4 17. e3xa3 c7-b6 18. c1-d2 e7-f6 19. d2-c3 f8-e7 20. 
+f2-e3 1-1
+
+[White "Новиков Виталий"]
+[Black "Cадовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. g3-h4 e5xc3 3. b2xd4 f6-e5 4. d4xf6 g7xe5 5. a3-b4 h8-g7 
+6. b4-a5 g7-f6 7. h2-g3 b6-c5 8. a1-b2 c7-d6 9. b2-c3 c5-d4 10. e3xc5 d6xb4 
+11. f2-e3 e7-d6 12. g3-f4 e5xg3 13. h4xf2 d6-e5 14. f2-g3 d8-c7 15. e3-f4 
+f8-g7 16. f4xd6 c7xe5 17. g3-h4 h6-g5 18. g1-f2 b8-c7 19. f2-e3 g7-h6 20. 
+e3-d4 a7-b6 21. d4-c5 b4xd6 22. d2-e3 b6-c5 23. e1-d2 c5-b4 0-2
+
+[White "Валюк Андрей"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,18:B28,9,10,11,12,5,7,8,1,2,3,4."]
+
+1. g3-h4 d6-c5 2. c3-b4 b6-a5 3. b4xd6 e7xc5 4. d4xb6 a5xc7 5. b2-c3 f8-e7 
+6. a3-b4 c7-d6 7. a1-b2 b8-c7 8. b2-a3 c7-b6 9. c1-b2 b6-c5 10. b4-a5 f6-g5 
+11. h4xf6 g7xe5 12. a5-b6 c5-b4 13. a3xc5 d6xb4 14. c3xa5 a7xc5 15. d2-c3 
+e5-f4 16. e3xg5 h6xf4 17. f2-g3 d8-c7 18. g3xe5 e7-f6 19. e5xg7 h8xf6 20. 
+b2-a3 f6-e5 21. e1-f2 2-0
+
+[White "Беляевский Владимир"]
+[Black "Немец  Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,18:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 d6-c5 2. c3-b4 c7-d6 3. b4-a5 d6-e5 4. a5xc7 d8xb6 5. b2-c3 e5-f4 
+6. e3xg5 h6xf4 7. c3-b4 c5xe3 8. f2xd4 b6-c5 9. d4xb6 a7xc5 10. b4xd6 e7xc5 
+11. a1-b2 f8-e7 12. d2-e3 f4xd2 13. c1xe3 f6-e5 14. b2-c3 e7-f6 15. e1-f2 
+e5-d4 16. c3xe5 f6xd4 17. h4-g5 b8-c7 18. g5-h6 g7-f6 19. e3-f4 d4-c3 20. 
+f4-e5 f6xd4 21. h6-g7 c3-d2 22. g7-h8 d2-e1 23. h8xa1 e1xh4 24. a1-h8 h4-d8 
+25. h8-a1 c7-d6 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,14:B21,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. e3-d4 d6xb4 2. c3xa5 h6-g5 3. d2-e3 g5-h4 4. b2-c3 g7-h6 5. a1-b2 f6-g5 
+6. g3-f4 b6-c5 7. d4xb6 a7xc5 8. c3-d4 c7-d6 9. d4xb6 d6-e5 10. f4xd6 e7xa7 
+11. e3-d4 a7-b6 12. a5xc7 b8xd6 13. e1-d2 d8-c7 14. b2-c3 c7-b6 15. f2-g3 
+h4xf2 16. g1xe3 f8-e7 17. h2-g3 e7-f6 18. g3-f4 b6-a5 19. d4-c5 d6xb4 20. 
+c3-d4 g5-h4 21. f4-g5 h6xf4 22. e3xe7 h4-g3 23. d2-e3 g3-h2 24. e3-f4 h2-g1 
+25. e7-f8 g1xb6 26. f8-g7 b6-d8 27. g7-a1 d8-h4 28. f4-e5 b4-c3 29. a1xd4 
+1-1
+
+[White "Беляевский Владимир"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.27"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,14:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. e3-f4 d6xb4 2. a3xc5 b6xd4 3. c3xe5 f6xd4 4. f4-g5 h2xf4 5. g5xc5 g7-f6 
+6. d2-e3 f6-e5 7. b2-c3 c7-b6 8. a1-b2 b6xd4 9. e3xc5 b8-c7 10. f2-e3 h6-g5 
+11. e1-f2 c7-b6 12. c1-d2 b6xd4 13. e3xc5 e5-f4 14. b2-a3 e7-d6 15. c5xe7 
+1-1
+
+[White "Валюк Андрей"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-e5 2. g3-h4 b6-a5 3. h4-g5 a5xc3 4. b2xf6 g7xe5 5. a1-b2 h6xf4 
+6. e3xg5 h8-g7 7. h2-g3 g7-h6 8. g3-h4 h6xf4 9. f2-e3 f4-g3 10. h4xf2 a7-b6 
+11. b2-c3 b6-c5 12. e3-d4 c5xe3 13. f2xf6 e7xg5 14. d2-e3 f8-e7 15. g1-h2 
+g5-h4 16. e3-f4 e7-f6 17. h2-g3 h4xf2 18. e1xg3 d6-c5 19. g3-h4 c7-d6 20. 
+c1-d2 d8-e7 1-1
+
+[White "Немец Дмитрий"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B21,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. g3-f4 f6-g5 2. h4xf6 g7xg3 3. f2xh4 h8-g7 4. h2-g3 g7-f6 5. g1-h2 b6-a5 
+6. e3-f4 d8-e7 7. c3-d4 d6-e5 8. f4xd6 c7xc3 9. b2xd4 e7-d6 10. g3-f4 d6-c5 
+11. d4xb6 a7xc5 12. d2-c3 b8-c7 13. e1-f2 c7-d6 14. f2-g3 f6-e5 15. c3-d4 
+c5xg5 16. h4xd4 f8-e7 17. g3-f4 e7-f6 18. h2-g3 d6-c5 19. d4xb6 a5xc7 20. 
+g3-h4 c7-d6 21. a1-b2 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B21,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. e3-f4 d6-e5 2. f4xd6 c7xe5 3. f2-e3 b6-a5 4. g3-f4 e5xg3 5. h4xf2 b8-c7 
+6. c3-d4 c7-d6 7. h2-g3 a7-b6 8. b2-c3 b6-c5 9. d4xb6 a5xc7 10. c3-d4 f6-e5 
+11. d4xf6 g7xe5 12. e3-f4 h8-g7 13. f2-e3 g7-f6 14. a1-b2 c7-b6 15. b2-c3 
+b6-a5 16. g1-h2 f8-e7 17. g3-h4 e5xg3 18. h4xf2 h6-g5 19. f2-g3 g5-h4 20. 
+g3-f4 h4-g3 21. f4-g5 f6xh4 22. h2xf4 e7-f6 23. c3-d4 f6-g5 24. f4xh6 h4-g3 
+25. d2-c3 g3-h2 26. h6-g7 h2-g1 27. e1-f2 g1-h2 28. g7-h8 2-0
+
+[White "Семенюк Михаил"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 d6-c5 2. c3-b4 c5xe3 3. d2xf4 c7-d6 4. c1-d2 d6-c5 5. b4xd6 e7xc5 
+6. b2-c3 f6-g5 7. f2-e3 g5-h4 8. g1-f2 d8-e7 9. c3-b4 g7-f6 10. b4xd6 e7xc5 
+11. f4-g5 h6xf4 12. e3xe7 f8xd6 13. g3-f4 b6-a5 14. d2-c3 h8-g7 15. f2-g3 
+h4xf2 16. e1xg3 a7-b6 17. g3-h4 c5-d4 18. c3xc7 b8xd6 19. h4-g5 b6-c5 20. 
+h2-g3 2-0
+
+[White "Новиков Виталий"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d2-c3 g7-f6 3. g3-f4 d6-e5 4. f4xd6 c7xe5 5. d4-c5 b6xd4 
+6. e3xc5 d8-c7 7. c3-d4 e5xc3 8. b2xd4 c7-b6 9. a1-b2 e7-d6 10. c5xe7 f8xd6 
+11. c1-d2 d6-e5 12. b2-c3 g5-h4 13. d2-e3 f6-g5 14. d4xf6 g5xe7 15. h2-g3 
+b6-a5 16. e3-d4 h8-g7 17. g3-f4 b8-c7 18. a3-b4 g7-f6 19. f2-e3 c7-b6 20. 
+f4-e5 h6-g5 21. e5xg7 g5-f4 22. e3xg5 h4xh8 23. b4-c5 h8-g7 24. g1-f2 g7-f6 
+25. e1-d2 f6-g5 26. f2-g3 e7-f6 27. c5-d6 g5-h4 2-0
+
+[White "Плакхин Аркадий"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.27"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,14:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 b6xd4 2. e3xc5 d6xb4 3. c3xa5 f6-e5 4. a3-b4 g7-f6 5. d2-c3 e7-d6 
+6. c3-d4 e5xc3 7. b4xd2 a7-b6 8. d2-e3 f8-e7 9. b2-c3 f6-e5 10. a1-b2 b8-a7 
+11. b2-a3 e5-f4 12. e3xg5 h6xf4 13. c1-d2 f4-g3 14. c3-d4 e7-f6 15. f2-e3 
+d6-c5 16. h4xf2 d8-e7 17. d2-c3 c5-b4 18. a3xc5 f6-e5 19. d4xd8 b6xb2 20. 
+d8xb6 a7xc5 21. f2-g3 h2xd2 22. e1xa1 2-0
+
+[White "Чепа Олег"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B21,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. g3-f4 f6-g5 2. h4xf6 g7xg3 3. f2xh4 h8-g7 4. h2-g3 g7-f6 5. g1-h2 d6-e5 
+6. e3-f4 d8-e7 7. f4xd6 c7xe5 8. c3-d4 e5xc3 9. b2xd4 b6-c5 10. d4xb6 a7xc5 
+11. a1-b2 b8-c7 12. b2-c3 e7-d6 13. g3-f4 c7-b6 14. d2-e3 b6-a5 15. e1-d2 
+f8-e7 16. h2-g3 c5-b4 17. e3-d4 d6-c5 18. d4xb6 a5xc7 19. c3xa5 c7-d6 20. 
+d2-c3 d6-c5 21. c1-d2 e7-d6 22. d2-e3 f6-e5 23. e3-d4 c5xg5 24. h4xd4 h6-g5 
+25. a5-b6 d6-c5 26. b6-c7 c5xe3 27. c7-d8 g5-f4 28. g3xe5 2-0
+
+[White "Анисько Виталий"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d2-c3 g7-f6 3. g3-f4 d6-e5 4. f4xd6 c7xe5 5. d4-c5 b6xd4 
+6. e3xc5 d8-c7 7. c3-d4 e5xc3 8. b2xd4 e7-d6 9. c5xe7 f6xd8 10. h2-g3 a7-b6 
+11. c1-d2 f8-e7 12. d2-e3 h8-g7 13. a1-b2 b8-a7 14. a3-b4 c7-d6 15. b2-a3 
+g7-f6 16. d4-c5 b6xd4 17. e3xc5 f6-e5 18. g3-f4 g5xe3 19. f2xf6 e7xg5 20. 
+c5xe7 d8xf6 21. b4-c5 f6-e5 22. a3-b4 g5-f4 23. e1-d2 h6-g5 24. b4-a5 f4-g3 
+25. d2-c3 e5-f4 26. c5-d6 a7-b6 27. a5xc7 g3-f2 28. g1xe3 f4xb4 1-1
+
+[White "Куница Алексей"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,20:B21,9,10,11,12,5,6,8,1,2,3,4."]
+
+1. e3-f4 b6-a5 2. f2-e3 d6-e5 3. f4xd6 c7xe5 4. g3-f4 e5xg3 5. h4xf2 b8-c7 
+6. c3-d4 c7-d6 7. h2-g3 a7-b6 8. b2-c3 f6-g5 9. g3-f4 g5-h4 10. a1-b2 d6-c5 
+11. d4-e5 c5-b4 12. e3-d4 f8-e7 13. f2-g3 h4xf2 14. e1xg3 e7-f6 15. g1-f2 
+f6-g5 16. f2-e3 g5-h4 17. e5-d6 h4xf2 18. e3xg1 b6-c5 19. d4xb6 a5xg3 20. 
+c3xa5 d8-c7 21. b2-c3 h6-g5 22. c3-d4 g7-f6 23. d4-c5 c7-d6 24. c5xe7 f6xd8 
+25. a5-b6 g5-f4 26. b6-a7 g3-h2 0-2
+
+[White "Садовский Сергей"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 d6-c5 2. c3-b4 c5xe3 3. d2xf4 c7-d6 4. c1-d2 f6-g5 5. f2-e3 b6-a5 
+6. b4-c5 d6xb4 7. a3xc5 g5-h4 8. e3-d4 h4xf2 9. g1xe3 g7-f6 10. b2-c3 f6-g5 
+11. a1-b2 h8-g7 12. b2-a3 g5-h4 13. h2-g3 h4xf2 14. e1xg3 g7-f6 15. g3-h4 
+f6-g5 16. h4xf6 e7xg5 17. d4-e5 b8-c7 18. c5-d6 c7-b6 19. d6-c7 b6-c5 20. 
+a3-b4 c5xa3 21. c7-b8 a5-b4 22. c3xa5 a3-b2 23. e5-d6 b2-a1 24. d6-c7 d8xb6 
+25. a5xc7 a1-d4 26. e3xc5 g5xc1 27. c7-d8 h6-g5 28. d8xh4 a7-b6 29. c5xa7 
+f8-e7 30. h4xd8 c1-b2 1-1
+
+[White "Михальченко Игорь"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-e5 2. g3-h4 b6-a5 3. h4-g5 a5xc3 4. b2xf6 g7xe5 5. a1-b2 h6xf4 
+6. e3xg5 h8-g7 7. h2-g3 g7-h6 8. g3-h4 h6xf4 9. f2-e3 f4-g3 10. h4xf2 a7-b6 
+11. b2-c3 b6-c5 12. e3-d4 c5xe3 13. f2xf6 e7xg5 14. d2-e3 f8-e7 15. g1-h2 
+g5-h4 16. e3-f4 e7-f6 17. h2-g3 h4xf2 18. e1xg3 d6-c5 19. g3-h4 c7-d6 20. 
+c1-d2 d8-e7 1-1
+
+[White "Куница Алексей"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,13:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 f6-e5 2. c3-d4 e5xc3 3. b2xd4 g7-f6 4. d4-c5 b6xd4 5. e3xc5 d6xb4 
+6. a5xc3 f6-e5 7. d2-e3 e7-d6 8. c1-d2 a7-b6 9. e3-d4 h6-g5 10. d4xf6 g5xe7 
+11. f2-e3 e7-f6 12. c3-b4 d8-e7 13. a1-b2 f6-e5 14. b2-c3 b6-c5 15. e3-f4 
+e5xg3 16. h4xf2 c7-b6 17. b4-a5 d6-e5 18. a5xc7 b8xd6 19. d2-e3 c5-d4 20. 
+e3xc5 d6xd2 21. e1xc3 e7-d6 22. a3-b4 e5-f4 23. b4-a5 d6-c5 24. c3-d4 c5xe3 
+25. f2xd4 f8-e7 1-1
+
+[White "Чепа Олег"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 f6-g5 2. b4-a5 g5-h4 3. c3-b4 h6-g5 4. b4-c5 d6xb4 5. a5xc3 e7-d6 
+6. c3-b4 g5-f4 7. g3xe5 d6xf4 8. e3xg5 h4xf6 9. b4-a5 f6-e5 10. h2-g3 g7-f6 
+11. d2-e3 h8-g7 12. g3-h4 b6-c5 13. b2-a3 g7-h6 14. f2-g3 e5-d4 15. e1-d2 
+d4xf2 16. g3xe1 f8-e7 17. a1-b2 f6-e5 18. b2-c3 c5-d4 19. c1-b2 e7-d6 20. 
+e1-f2 a7-b6 21. g1-h2 b6-c5 22. f2-g3 h6-g5 23. h4xf6 e5xg7 24. c3xe5 d6xf4 
+25. g3xe5 c7-b6 26. a5xc7 b8xf4 27. b2-c3 d8-c7 28. c3-b4 c5-d4 29. d2-c3 
+d4xb2 30. a3xc1 c7-b6 31. c1-d2 g7-f6 32. b4-a5 b6-c5 33. d2-c3 f6-e5 34. 
+c3-b4 c5xa3 35. a5-b6 f4-e3 36. b6-c7 e3-d2 37. c7-d8 d2-e1 38. d8-b6 e1-a5 
+39. b6-e3 a3-b2 40. e3-c1 b2-a1 41. c1-e3 a5-e1 42. e3-c5 a1-b2 43. c5-e3 
+b2-a3 0-2
+
+[White "Михальченко Игорь"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-f4 d6-c5 2. g3-h4 e7-d6 3. h2-g3 f6-e5 4. d2-e3 b6-a5 5. h4-g5 c7-b6 
+6. g5-f6 e5-d4 7. c3xc7 b8xd6 8. b2-c3 g7xe5 9. c1-b2 f8-g7 10. g1-h2 g7-f6 
+11. g3-h4 e5xg3 12. h2xf4 h8-g7 13. h4-g5 f6xh4 14. f2-g3 h4xd4 15. c3xc7 
+g7-f6 16. c7-b8 f6-g5 17. f4-e5 g5-h4 18. e1-f2 h6-g5 19. b2-c3 c5-b4 20. 
+a3xc5 b6xf6 21. a1-b2 a7-b6 22. c3-d4 a5-b4 23. b2-a3 b6-c5 24. d4xb6 b4-c3 
+25. b6-a7 c3-d2 26. f2-e3 d2xf4 27. b8xh2 2-0
+
+[White "Садовский Сергей"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,17:B28,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 d6-e5 2. e3-d4 e5-f4 3. d4-c5 f6-g5 4. h4xf6 e7xg5 5. b4-a5 g7-f6 
+6. c3-b4 d8-e7 7. b2-c3 e7-d6 8. c5xe7 f6xd8 9. a1-b2 h8-g7 10. b4-c5 g5-h4 
+11. c3-b4 h6-g5 12. d2-e3 f4xd2 13. c1xe3 d8-e7 14. b2-c3 g7-f6 15. c3-d4 
+e7-d6 16. c5xe7 f6xd8 17. d4-c5 d8-e7 18. e3-d4 e7-f6 19. e1-d2 c7-d6 20. 
+c5xe7 f6xd8 21. d2-e3 g5-f4 22. e3xg5 h4xf6 23. f2-e3 f6-e5 24. d4xf6 f8-e7 
+25. a5-b6 e7xg5 26. b4-c5 b8-c7 27. e3-d4 c7xa5 28. c5-d6 a7-b6 29. d6-c7 
+g5-f4 30. g1-f2 h2-g1 31. f2-e3 f4xd2 32. d4-e5 d2-e1 33. c7-b8 d8-c7 34. 
+b8xd6 b6-c5 35. d6xb4 a5xc3 0-2
+
+[White "Плакхин Аркадий"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B21,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. b4-a5 f6-g5 2. c3-d4 g5-h4 3. d4-c5 d6xb4 4. a5xc3 g7-f6 5. e3-d4 f6-g5 
+6. d4-c5 b6xd4 7. c3xe5 f8-g7 8. g3-f4 g5xe3 9. d2xf4 b8-a7 10. f2-g3 h4xf2 
+11. g1xe3 a7-b6 12. h2-g3 g7-f6 13. e5xg7 h6xf8 14. b2-c3 h8-g7 15. a1-b2 
+b6-a5 16. e3-d4 c7-b6 17. e1-d2 b6-c5 18. d4xb6 a5xc7 19. c3-d4 g7-f6 20. 
+d2-c3 f6-g5 21. f4xh6 c7-d6 22. h6-g7 f8xh6 23. g3-f4 h6-g5 24. f4xh6 e7-f6 
+25. d4-e5 d6xf4 26. c3-d4 d8-c7 27. b2-c3 f4-g3 0-2
+
+[White "Анисько Виталий"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,20:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-b4 f6-e5 2. b4-a5 e5-f4 3. e3xg5 h6xf4 4. b2-c3 g7-f6 5. a1-b2 h8-g7 
+6. c3-b4 f6-e5 7. f2-g3 g7-f6 8. d2-c3 d6-c5 9. b4xd6 e7xc5 10. c3-b4 c5-d4 
+11. b4-c5 d4-e3 12. c5-d6 d8-e7 13. b2-c3 e7xc5 14. c3-b4 c5-d4 15. e1-f2 
+b6-c5 16. b4xd6 0-2
+
+[White "Валюк Андрей"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,17:B28,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. e3-d4 h2xf4 2. d4-e5 f6xd4 3. c3xg3 d6-e5 4. d2-e3 h6-g5 5. b4-a5 g5-f4 
+6. e3xg5 g7-h6 7. g5-f6 e5xg7 8. b2-c3 e7-d6 9. a3-b4 f8-e7 10. c3-d4 d6-e5 
+11. d4xf6 g7xe5 12. f2-e3 h6-g5 13. e1-d2 e5-d4 14. e3xc5 g5-f4 15. g3xe5 
+c7-b6 16. a5xc7 d8xf6 17. d2-e3 a7-b6 18. e3-d4 e7-d6 19. a1-b2 d6-e5 20. 
+b2-c3 b6-a5 21. g1-f2 h8-g7 22. f2-g3 g7-h6 23. b4-c5 h6-g5 24. g3-h4 g5-f4 
+25. c1-b2 b8-a7 26. b2-a3 a5-b4 27. c3xa5 e5xc3 28. a5-b6 f4-e3 29. b6-c7 
+c3-d2 30. c7-b8 d2-e1 31. b8-h2 1-1
+
+[White "Беляевский Владимир"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-g5 2. b4-a5 g5-h4 3. c3-b4 h6-g5 4. b4-c5 d6xb4 5. a5xc3 e7-d6 
+6. c3-b4 g5-f4 7. g3xe5 d6xf4 8. e3xg5 h4xf6 9. d2-e3 f8-e7 10. h2-g3 f6-e5 
+11. b4-a5 e5-d4 12. e3xc5 b6xd4 13. b2-c3 d4xb2 14. a1xc3 e7-d6 15. f2-e3 
+g7-f6 16. g3-h4 h8-g7 17. e1-f2 a7-b6 18. f2-g3 b6-c5 19. c3-d4 b8-a7 20. 
+d4xb6 a7xc5 21. c1-d2 d8-e7 22. g1-h2 f6-e5 23. g3-f4 e5xg3 24. h2xf4 e7-f6 
+1-1
+
+[White "Семенюк Михаил"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,20:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-b4 f6-g5 2. h4xf6 g7xe5 3. b4-a5 h6-g5 4. b2-c3 e5-f4 5. e3-d4 e7-f6 
+6. c3-b4 b6-c5 7. d4xb6 a7xc5 8. d2-e3 f4xd2 9. c1xe3 f6-e5 10. e3-f4 g5xe3 
+11. f2xb6 b8-a7 12. b4-c5 d6xb4 13. a3xc5 c7-d6 14. c5xe7 a7xc5 15. e1-d2 
+f8xd6 16. d2-e3 h8-g7 17. e3-f4 e5xg3 18. h2xf4 d8-e7 19. g1-f2 e7-f6 20. 
+f2-g3 f6-e5 21. a1-b2 g7-f6 22. g3-h4 e5xg3 23. h4xf2 d6-e5 24. b2-c3 f6-g5 
+25. f2-e3 g5-h4 26. a5-b6 c5xa7 27. e3-d4 1-1
+
+[White "Новиков Виталий"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,21,22,23,24,13:B28,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. g3-h4 f6-e5 2. c3-d4 e5xc3 3. b2xd4 g7-f6 4. d4-c5 b6xd4 5. e3xc5 d6xb4 
+6. a5xc3 f6-e5 7. d2-e3 a7-b6 8. a3-b4 e5-f4 9. e3xg5 h6xf4 10. f2-g3 e7-d6 
+11. g3xe5 d6xf4 12. a1-b2 b6-c5 13. b4xd6 c7xe5 14. c3-b4 e5-d4 15. c1-d2 
+d4-e3 16. d2-c3 e3-d2 17. b4-a5 d2xb4 18. a5xc3 d8-c7 19. b2-a3 c7-b6 20. 
+a3-b4 f8-e7 21. c3-d4 b8-a7 22. e1-d2 e7-d6 23. d4-e5 b6-a5 24. e5xc7 a5xe1 
+25. c7-d8 e1-c3 26. d8-a5 c3-g7 27. a5-d8 g7-h8 28. d8-a5 0-2
+
+[White "Кондраченко Евгений"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B21,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. b4-a5 f6-g5 2. c3-d4 g5-h4 3. g3-f4 d6-c5 4. b2-c3 g7-f6 5. f4-g5 h6xf4 
+6. e3xg5 c5xe3 7. f2xd4 h4-g3 8. h2xf4 f6xh4 9. a1-b2 h8-g7 10. e1-f2 e7-d6 
+11. f4-e5 d6xf4 12. d4-c5 b6xd4 13. c3xg3 g7-f6 14. b2-c3 f6-e5 15. d2-e3 
+f8-e7 16. g1-h2 b8-a7 17. e3-d4 c7-d6 18. d4xf6 e7xg5 19. c1-d2 d6-e5 20. 
+d2-e3 d8-c7 21. e3-d4 a7-b6 22. d4xf6 g5xe7 0-2
+
+[White "Немец Дмитрий"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 d6-c5 2. g3-h4 e7-d6 3. h2-g3 f6-e5 4. d2-e3 f8-e7 5. c3-b4 b6-a5 
+6. c1-d2 a5xc3 7. d2xb4 c7-b6 8. b4-a5 g7-f6 9. a5xc7 d8xb6 10. e1-d2 b8-c7 
+11. g1-h2 h8-g7 12. b2-c3 b6-a5 13. a3-b4 c5xa3 14. h4-g5 f6xh4 15. e3-d4 
+h6-g5 16. f4xf8 e7-f6 17. f8xc5 a5-b4 18. c3xa5 e5xe1 1-1
+
+[White "Новиков Виталий"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-c5 2. b4-a5 c5-b4 3. g3-h4 f6-e5 4. c3-d4 e5xc3 5. b2xd4 b4-a3 
+6. d4-c5 d6xb4 7. a5xc3 a7-b6 8. h2-g3 g7-f6 9. g3-f4 b6-a5 10. a1-b2 c7-d6 
+11. c3-d4 f6-g5 12. h4xf6 e7xg5 13. f2-g3 d6-c5 14. d4xb6 a5xc7 15. g3-h4 
+f8-g7 16. h4xf6 g7xg3 17. g1-h2 h8-g7 18. h2xf4 g7-f6 19. e3-d4 c7-d6 20. 
+e1-f2 d8-c7 21. d4-e5 f6xd4 1-1
+
+[White "Чепа Олег"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,18:B21,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. d4-c5 b6xd4 2. c3xg7 h8xf6 3. g3-h4 a7-b6 4. b2-c3 b6-a5 5. f2-g3 d6-e5 
+6. g3-f4 e5xg3 7. h4xf2 h6-g5 8. a1-b2 e7-d6 9. c3-d4 d6-e5 10. b2-c3 a5-b4 
+11. c3xa5 e5xc3 12. d2xb4 a3xc5 13. h2-g3 g5-h4 14. e3-d4 c5xe3 15. f2xd4 
+h4xf2 16. g1xe3 f8-e7 17. e1-f2 c7-b6 18. a5xc7 b8xd6 1-1
+
+[White "Валюк Андрей"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B15,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. c3-d4 e5xc3 2. b2xd4 f6-e5 3. d4xf6 g7xe5 4. e3-f4 b6-a5 5. c1-b2 e7-f6 
+6. f2-e3 c7-b6 7. d2-c3 f8-e7 8. g1-f2 b8-a7 9. e3-d4 b6-c5 10. d4xb6 a5xc7 
+11. f2-e3 f6-g5 12. g3-h4 e5xg3 13. h2xf4 a7-b6 14. h4xf6 e7xg5 15. c3-d4 
+h8-g7 16. b2-c3 g7-f6 17. a1-b2 b6-c5 18. d4xb6 c7xa5 19. c3-d4 d8-c7 20. 
+d4-c5 d6xb4 21. a3xc5 a5-b4 22. c5xa3 c7-d6 23. a3-b4 f6-e5 1-1
+
+[White "Беляевский Владимир"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,26,27,28,21,22,23,24,16:B15,9,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-e3 h6xf4 4. e3xg5 c7-d6 5. h2-g3 b8-c7 
+6. g5-h6 h8-g7 7. g3-f4 e5xg3 8. h4xf2 f6-e5 9. c3-b4 e5-f4 10. a1-b2 d6-e5 
+11. b4-a5 b6-c5 12. b2-c3 c5-b4 13. a3xc5 c7-b6 14. a5xc7 d8xb2 15. c1xa3 
+a7-b6 16. d2-e3 f4xd2 17. e1xc3 b6-c5 18. f2-e3 g7-f6 19. g1-f2 e5-f4 20. 
+e3xg5 f6xh4 1-1
+
+[White "Семенюк Михаил"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B15,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. c3-b4 b6-a5 2. b2-c3 f8-g7 3. g3-h4 a7-b6 4. e3-d4 b8-a7 5. f2-g3 b6-c5 
+6. d4xb6 a7xc5 7. g3-f4 e5xg3 8. h4xf2 h6-g5 9. d2-e3 g5-f4 10. e3xg5 f6xh4 
+11. f2-e3 g7-f6 12. e1-f2 h8-g7 13. e3-d4 c5xe3 14. f2xd4 g7-h6 15. d4-c5 
+f6-e5 16. g1-f2 h6-g5 17. c5-b6 g5-f4 18. f2-e3 f4xd2 19. c3xe1 a5xc3 20. 
+b6-a7 c3-b2 21. a1xc3 c7-b6 22. a7xc5 d6xd2 23. c1xe3 e7-d6 24. e3-f4 e5xg3 
+25. h2xf4 d6-c5 26. e1-f2 c5-d4 27. a3-b4 1-1
+
+[White "Немец Дмитрий"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 d6-c5 2. f2-e3 f6-g5 3. g3-h4 c7-d6 4. h4xf6 g7xe5 5. d4xf6 e7xg5 
+6. h2-g3 h8-g7 7. c3-b4 g7-f6 8. g3-h4 f8-e7 9. b4-a5 b8-c7 10. b2-c3 c5-b4 
+11. a3xc5 b6xb2 12. a1xc3 g5-f4 13. e3xg5 h6xf4 14. c3-b4 a7-b6 15. b4-c5 
+d6xb4 16. a5xc3 f6-e5 17. e1-f2 f4-g3 18. f2-e3 g3-f2 19. c3-b4 f2xd4 20. 
+b4-c5 b6-a5 21. c5xe3 a5-b4 22. g1-h2 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,26,27,28,21,22,23,24,16:B15,9,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-e3 h6xf4 4. e3xg5 c7-d6 5. g1-f2 b8-c7 
+6. c1-b2 h8-g7 7. g5-h6 e5-d4 8. c3xe5 f6xd4 9. h2-g3 g7-f6 10. b2-c3 d4xb2 
+11. a1xc3 b6-a5 12. f2-e3 c7-b6 13. g3-f4 b6-c5 14. h4-g5 f6xh4 15. h6-g7 
+f8xh6 16. f4-e5 d6xf4 17. e3xg5 h6xf4 18. c3-b4 a5xc3 19. d2xf8 f4-g3 20. 
+f8-c5 d8-e7 21. c5xf8 1-1
+
+[White "Анисько Виталий"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B15,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. c3-d4 e5xc3 2. b2xd4 f6-e5 3. d4xf6 g7xe5 4. e3-f4 h8-g7 5. a3-b4 g7-f6 
+6. b4-a5 b6-c5 7. a1-b2 c5-d4 8. b2-a3 c7-b6 9. a5xc7 d8xb6 10. g3-h4 e5xg3 
+11. h2xf4 d6-e5 12. f4xd6 e7xc5 13. f2-e3 d4xf2 14. g1xe3 b8-c7 15. d2-c3 
+c7-d6 16. c1-d2 f6-e5 17. e3-f4 e5xg3 18. h4xf2 f8-e7 19. d2-e3 b6-a5 20. 
+c3-d4 e7-f6 21. d4xb6 a5xc7 1-1
+
+[White "Плакхин Аркадий"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-c5 2. b4-a5 c5-b4 3. g3-h4 f6-e5 4. c3-d4 e5xc3 5. b2xd4 b4-a3 
+6. d4-c5 d6xb4 7. a5xc3 a7-b6 8. h2-g3 g7-f6 9. g3-f4 b6-a5 10. a1-b2 c7-d6 
+11. c3-d4 f6-g5 12. h4xf6 e7xg5 13. b2-c3 d8-c7 14. d4-e5 h8-g7 15. f2-g3 
+c7-b6 16. e5xc7 b6xd8 17. g3-h4 g7-f6 18. c3-d4 f8-e7 19. f4-e5 b8-c7 20. 
+e5xg7 h6xf8 21. h4xf6 e7xg5 22. g1-f2 c7-d6 23. f2-g3 f8-g7 24. g3-f4 g7-h6 
+25. d2-c3 d8-c7 26. d4-e5 d6-c5 27. e3-d4 c5xe3 28. f4xd2 g5-h4 29. e1-f2 
+h6-g5 30. c3-d4 c7-b6 31. d2-e3 b6-c5 32. d4xb6 a5xc7 33. e3-d4 c7-b6 34. 
+e5-d6 b6-c5 1-1
+
+[White "Куница Алексей"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B15,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. e3-f4 f6-g5 2. g3-h4 e5xg3 3. h4xf6 e7xg5 4. f2xf6 f8-e7 5. h2-g3 e7xg5 
+6. g3-h4 g5-f4 7. g1-h2 h8-g7 8. e1-f2 d6-e5 9. h4-g5 f4-g3 10. h2xd6 h6xf4 
+11. f2-e3 c7xe5 12. e3xg5 g7-h6 13. a3-b4 h6xf4 14. d2-e3 f4xd2 15. c3xe1 
+d8-e7 16. c1-d2 b8-c7 17. d2-e3 e5-d4 18. e3xc5 b6xd4 19. e1-f2 c7-d6 20. 
+b2-c3 d4xb2 21. a1xc3 a7-b6 22. c3-d4 b6-a5 1-1
+
+[White "Михальченко Игорь"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,18:B21,9,10,11,12,5,6,7,1,2,3,4."]
+
+1. d4-c5 b6xd4 2. c3xg7 h8xf6 3. g3-f4 a7-b6 4. f2-g3 f6-g5 5. b2-c3 e7-f6 
+6. g3-h4 b6-a5 7. g1-f2 d6-c5 8. c3-b4 a5xc3 9. d2xd6 c7xg3 10. h2xf4 f8-e7 
+11. f4-e5 f6xd4 12. h4xf6 e7xg5 13. e3xc5 b8-c7 14. f2-g3 g5-f4 15. g3xe5 
+c7-d6 16. c5xe7 d8xd4 17. c1-d2 d4-c3 18. d2xb4 a3xc5 19. a1-b2 c5-d4 1-1
+
+
+[White "Садовский Сергей"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 d6-c5 2. f2-e3 f6-g5 3. g3-h4 c7-d6 4. h4xf6 g7xe5 5. d4xf6 e7xg5 
+6. h2-g3 h8-g7 7. c3-d4 g7-f6 8. g3-h4 f6-e5 9. d4xf6 g5xe7 10. e3-f4 e7-f6 
+11. b2-c3 b6-a5 12. g1-f2 a7-b6 13. f2-e3 d8-e7 14. f4-g5 h6xf4 15. e3xg5 
+b8-a7 16. a1-b2 c5-b4 17. a3xc5 d6xb4 18. e1-f2 b4-a3 19. f2-e3 b6-c5 20. 
+c3-d4 a5-b4 21. d4xb6 a7xc5 22. b2-c3 f8-g7 23. c3xa5 g7-h6 24. e3-d4 2-0
+
+
+[White "Кодраченко Евгений"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,16:B14,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. g5-h6 f6-e5 2. g3-h4 b6-a5 3. c3-b4 a5xc3 4. d2xb4 c7-b6 5. h2-g3 b6-a5 
+6. b2-c3 g7-f6 7. g3-f4 e5xg3 8. h4xf2 d8-c7 9. f2-g3 f6-e5 10. c3-d4 e5xc3 
+11. b4xd2 h8-g7 12. e3-f4 g7-f6 13. g3-h4 c5-b4 14. a3xc5 d6xb4 15. a1-b2 
+b4-a3 16. b2-c3 c7-d6 17. d2-e3 a7-b6 18. g1-h2 b6-c5 19. e1-d2 c5-b4 20. 
+f4-g5 b8-a7 21. h2-g3 a7-b6 22. g3-f4 b6-c5 23. h6-g7 f8xh6 24. c3-d4 b4-c3 
+25. d4xb2 f6-e5 26. b2-c3 e5xg3 27. h4xf2 h6xf4 28. e3xg5 d6-e5 29. f2-e3 
+a3-b2 30. c3xa1 a5-b4 31. a1-b2 2-0
+
+[White "Куница Алексей"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B13,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. e3-d4 f6-g5 2. d4-c5 b6xd4 3. c3xe5 a5xc3 4. b2xd4 d6xf4 5. g3xe5 e7-d6 
+6. f2-g3 d6xf4 7. g3xe5 f8-e7 8. g1-f2 e7-d6 9. f2-g3 d6xf4 10. g3xe5 d8-e7 
+11. e1-f2 e7-d6 12. f2-g3 d6xf4 13. g3xe5 g7-f6 14. e5xg7 h8xf6 15. d2-e3 
+c7-d6 16. a1-b2 g5-h4 17. b2-c3 b8-a7 18. h2-g3 h4xf2 19. e3xg1 d6-c5 20. 
+d4xb6 a7xc5 1-1
+
+[White "Михальченко Игорь"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B20,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. a3-b4 g7-h6 2. b4-a5 h6xf4 3. g3xg7 h8xf6 4. b2-c3 f6-e5 5. a1-b2 e5-f4 
+6. e3xg5 h4xf6 7. h2-g3 d6-e5 8. c3-b4 f8-g7 9. g3-h4 e5-f4 10. f2-e3 f6-e5 
+11. e3xg5 g7-h6 12. e1-f2 h6xf4 13. f2-e3 2-0
+
+[White "Анисько Виталий"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. g3-h4 g7-f6 3. f2-g3 b6-a5 4. b2-a3 c7-b6 5. e3-f4 b6-c5 
+6. d2-e3 a7-b6 7. c3-d4 e5xc3 8. b4xd2 f6-e5 9. f4-g5 h6xf4 10. e3xg5 b8-a7 
+11. g3-f4 e5xg3 12. h4xf2 h8-g7 13. h2-g3 g7-f6 14. g3-h4 c5-b4 15. a3xc5 
+b6xd4 16. c1-b2 d6-e5 17. b2-c3 d4xb2 18. a1xc3 a7-b6 19. f2-e3 b6-c5 20. 
+g5-h6 e7-d6 21. g1-h2 d8-e7 22. h2-g3 c5-d4 23. e3xc5 d6xb4 24. g3-f4 e5xg3 
+25. h4xf2 e7-d6 26. f2-e3 d6-c5 27. c3-d4 b4-a3 28. d4xb6 a5xc7 29. d2-c3 
+c7-b6 30. e1-f2 1-1
+
+[White "Садовский Сергей"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,13:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. d2-e3 f6-e5 2. e3-d4 b6-c5 3. d4xb6 a7xc5 4. c3-b4 e7-f6 5. f2-e3 e5-d4 
+6. e3-f4 f6-e5 7. g3-h4 e5xg3 8. h4xf2 g7-f6 9. c1-d2 h6-g5 10. d2-e3 f6-e5 
+11. b2-c3 d4xb2 12. a1xc3 e5-d4 13. c3xe5 d6xd2 14. e1xc3 d8-e7 15. b4xd6 
+e7xc5 16. c3-d4 c5xe3 17. f2xd4 g5-f4 18. a3-b4 b8-a7 19. b4-c5 h8-g7 20. 
+g1-f2 f4-e3 21. c5-b6 e3xg1 22. b6xd8 g1xc5 23. d8-b6 c5-d6 24. b6-d4 g7-h6 
+25. d4-b2 d6-c7 26. b2-d4 f8-e7 27. d4-b2 c7-d6 28. b2-a3 h6-g5 29. a5-b6 
+a7xc5 30. h2-g3 d6xh2 31. a3xf8 1-1
+
+[White "Плакхин Аркадий"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B20,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. c3-d4 d6-c5 2. d2-c3 c7-d6 3. c3-b4 b6-a5 4. d4xb6 a5xc7 5. b4-c5 d6xb4 
+6. a3xc5 f6-g5 7. c1-d2 e7-d6 8. c5xe7 f8xd6 9. e3-d4 g7-f6 10. b2-c3 a7-b6 
+11. a1-b2 b6-c5 12. d4xb6 c7xa5 13. d2-e3 d8-c7 14. e3-d4 f6-e5 15. d4xf6 
+g5xe7 16. g3-f4 d6-c5 17. f2-g3 h4xf2 18. g1xe3 e7-f6 19. h2-g3 c7-d6 20. 
+g3-h4 f6-e5 21. b2-a3 e5xg3 22. h4xf2 d6-e5 23. e3-f4 e5xg3 24. f2xh4 b8-c7 
+25. e1-f2 c7-d6 26. f2-e3 d6-e5 27. e3-f4 e5xg3 28. h4xf2 h6-g5 29. f2-e3 
+g5-h4 30. e3-f4 a5-b4 31. c3xa5 c5-d4 32. a3-b4 h4-g3 33. f4xh2 1-1
+
+[White "Семенюк Михаил"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,23,24:B20,9,10,11,12,5,6,7,8,1,2,3."]
+
+1. c3-d4 d6-c5 2. b2-c3 c7-d6 3. c3-b4 b6-a5 4. d4xb6 a5xc7 5. a1-b2 f6-e5 
+6. e3-f4 e5-d4 7. b4-a5 d6-c5 8. d2-e3 c7-b6 9. a5xc7 d8xb6 10. c1-d2 b6-a5 
+11. b2-c3 d4xb2 12. a3xc1 a7-b6 13. d2-c3 g7-f6 14. c1-b2 f6-g5 15. b2-a3 
+e7-d6 16. c3-d4 f8-g7 17. d4-e5 b8-c7 18. e3-d4 g5xe3 19. e5-f6 g7xc3 20. 
+f2xb2 h4xf2 21. g1xe3 d6-e5 22. h2-g3 e5-d4 23. g3-f4 d4xf2 24. e1xg3 a5-b4 
+25. f4-e5 b4-c3 26. b2xd4 c5xe3 27. e5-f6 e3-d2 28. f6-e7 d2-e1 29. g3-h4 
+b6-c5 30. h4-g5 h6xf4 31. e7-d8 c7-d6 32. d8-f6 f4-g3 33. f6-g5 g3-h2 34. 
+g5-f6 h2-g1 35. f6-a1 e1-h4 36. a1-h8 g1-h2 37. h8-a1 0-2
+
+[White "Чепа Олег"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,13:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. d2-e3 b6-c5 2. c3-b4 f6-g5 3. b2-c3 g5-h4 4. c3-d4 a7-b6 5. c1-b2 g7-f6 
+6. g3-f4 f6-e5 7. d4xf6 e7xg5 8. b2-c3 d8-e7 9. a1-b2 e7-f6 10. e3-d4 g5xe3 
+11. d4-e5 d6xf4 12. b4xd6 c7xe5 13. a5xc7 b8xd6 14. f2xd4 h8-g7 15. e1-d2 
+f8-e7 16. d4-c5 d6xb4 17. c3xa5 e7-d6 18. b2-c3 h6-g5 19. a3-b4 d6-c5 20. 
+b4xd6 e5xc7 21. c3-d4 g7-h6 22. d2-e3 f4xd2 23. h2-g3 h4xf2 24. g1xc1 g5-f4 
+25. d4-c5 f4-g3 26. c5-b6 c7-d6 27. b6-a7 f6-e5 28. a5-b6 h6-g5 29. c1-d2 
+g5-f4 30. a7-b8 g3-f2 31. b6-c7 f4-g3 0-2
+
+[White "Валюк Андрей"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B13,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. b2-a3 b6-c5 2. g3-h4 f6-e5 3. e3-d4 c5xe3 4. f2xf6 g7xe5 5. b4-c5 d6xb4 
+6. a3xc5 e7-d6 7. c5xe7 f8xd6 8. a1-b2 c7-b6 9. g1-f2 h8-g7 10. f2-g3 b6-c5 
+11. d2-e3 g7-f6 12. b2-a3 d8-e7 13. e3-f4 b8-c7 14. c1-d2 e5-d4 15. c3xg7 
+h6xf8 16. f4-g5 c5-b4 17. a3xc5 d6xb4 18. d2-c3 b4xd2 19. e1xc3 c7-d6 20. 
+g5-h6 e7-f6 21. g3-f4 d6-c5 22. h2-g3 c5-b4 23. c3-d4 b4-a3 24. f4-e5 a3-b2 
+25. e5xg7 b2-a1 1-1
+
+[White "Новиков Виталий"]
+[Black "Кодраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,28,21,22,23,24,16:B14,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. g5-h6 b6-a5 2. c3-b4 a5xc3 3. d2xb4 f6-e5 4. g3-h4 g7-f6 5. h2-g3 e5-d4 
+6. e1-f2 f6-e5 7. b4-a5 h8-g7 8. c1-d2 c7-b6 9. a5xc7 d8xb6 10. b2-c3 d4xb2 
+11. a3xc1 b6-a5 12. a1-b2 b8-c7 13. h4-g5 c7-b6 14. g5-f6 e7xg5 15. h6xf4 
+g7-h6 16. g1-h2 a5-b4 17. f4-g5 h6xf4 18. e3xg5 b4-c3 19. d2xb4 c5xa3 20. 
+f2-e3 d6-c5 21. g3-f4 e5xg3 22. h2xf4 c5-d4 23. e3xc5 b6xd4 24. g5-f6 a7-b6 
+25. f4-g5 d4-e3 26. b2-c3 1-1
+
+[White "Немец Дмитрий"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. g3-h4 g7-f6 3. f2-g3 b6-a5 4. e3-d4 f8-g7 5. g3-f4 e5xg3 
+6. h4xf2 f6-e5 7. d4xf6 e7xg5 8. d2-e3 c7-b6 9. f2-g3 g5-h4 10. e3-f4 h4xf2 
+11. e1xg3 d8-e7 12. b2-a3 e7-f6 13. c1-b2 b6-c5 14. f4-e5 f6xd4 15. c3xc7 
+b8xd6 16. g3-f4 a5xc3 17. b2xb6 a7xc5 18. g1-f2 g7-f6 19. f2-g3 f6-g5 20. 
+f4-e5 d6xf4 21. g3xe5 h8-g7 22. a3-b4 c5xa3 23. e5-d6 g5-f4 24. d6-e7 1-1
+
+
+[White "Беляевский Владимир"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B20,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. a3-b4 b6-a5 2. g5-h6 a5xc3 3. b2xd4 f6-e5 4. d4xf6 g7xe5 5. a1-b2 a7-b6 
+6. b2-c3 h8-g7 7. e3-d4 g7-f6 8. g3-f4 e5xg3 9. h2xf4 d6-e5 10. f4xd6 c7xe5 
+11. d2-e3 e7-d6 12. c1-b2 d6-c5 13. b2-a3 d8-e7 14. f2-g3 h4xf2 15. e1xg3 
+b8-a7 16. g1-h2 b6-a5 17. d4xb6 a7xc5 18. g3-h4 e5-f4 19. e3xg5 f6-e5 20. 
+h2-g3 c5-b4 21. a3xc5 1-1
+
+[White "Михальченко Игорь"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B21,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. b4-a5 f6-g5 2. g3-h4 g7-h6 3. h4xf6 e7xg5 4. h2-g3 h8-g7 5. c3-d4 g5-f4 
+6. g3xe5 d6xf4 7. e3xg5 h6xf4 8. f2-e3 g7-h6 9. e3xg5 h6xf4 10. e1-f2 f8-g7 
+11. f2-e3 g7-h6 12. e3xg5 h6xf4 13. g1-f2 b6-c5 14. d4xb6 a7xc5 15. f2-e3 
+f4-g3 16. e3-d4 c5xe3 17. d2xh2 c7-d6 18. b2-c3 d6-c5 19. h2-g3 d8-e7 20. 
+g3-f4 e7-f6 21. c3-b4 f6-e5 22. f4xd6 c5xe7 23. b4-c5 e7-f6 24. c5-d6 f6-g5 
+25. d6-e7 2-0
+
+[White "Семенюк Михаил"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 h6-g5 2. b4-a5 g5-h4 3. e3-d4 d6-e5 4. d2-e3 g7-h6 5. c3-b4 e5xc3 
+6. b4xd2 b6-c5 7. b2-a3 e7-d6 8. a1-b2 f6-g5 9. g3-f4 h8-g7 10. d2-c3 f8-e7 
+11. c3-b4 e7-f6 12. b2-c3 c7-b6 13. a5xe5 f6xb2 14. b4xd6 g7-f6 15. d6-e7 
+f6-e5 16. f4xd6 d8xf6 17. e3-f4 g5xe3 18. f2xd4 b2-a1 19. d4-e5 f6xd4 20. 
+d6-c7 b8xd6 21. h2-g3 h4xf2 22. g1xe7 h6-g5 23. e7-d8 g5-h4 24. d8-c7 a1-f6 
+25. c7-h2 a7-b6 26. e1-f2 f6-d4 27. h2-g1 d4-e5 28. f2-e3 e5-h2 29. a3-b4 
+b6-c5 30. b4xd6 h2xc7 1-1
+
+[White "Чепа Олег"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,17:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-d4 f6-e5 2. d4xf6 g7xe5 3. g3-h4 b6-c5 4. f2-g3 h8-g7 5. b2-c3 e7-f6 
+6. d2-e3 e5-d4 7. c3xe5 f6xf2 8. g1xe3 g7-f6 9. g3-f4 d6-e5 10. b4xd6 e5xg3 
+11. h4xf2 c7xe5 12. f2-g3 f8-e7 13. a1-b2 a7-b6 14. b2-c3 b6-c5 15. e1-d2 
+e7-d6 16. g3-h4 b8-c7 17. e3-d4 c5xe3 18. d2xf4 e5xg3 19. h2xf4 d6-c5 20. 
+c1-d2 c7-d6 21. c3-b4 f6-e5 22. d2-c3 e5xg3 23. h4xf2 d8-e7 24. f2-e3 h6-g5 
+1-1
+
+[White "Валюк Андрей"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,27,28,21,22,23,24,18:B16,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. g3-f4 d6-c5 2. c3-b4 g5-h4 3. b4xd6 c7xg3 4. h2xf4 f6-e5 5. f4xd6 e7xc5 
+6. b2-c3 g7-f6 7. c1-b2 d8-c7 8. f2-g3 h4xf2 9. e1xg3 c7-d6 10. c3-b4 b6-a5 
+11. d4xb6 a5xc7 12. e3-d4 f6-g5 13. b4-c5 d6xb4 14. a3xc5 h8-g7 15. b2-a3 
+g7-f6 16. a1-b2 c7-d6 17. c5xe7 f8xd6 18. a3-b4 d6-e5 19. b2-c3 g5-h4 20. 
+g1-f2 h6-g5 21. f2-e3 h4xf2 22. e3xg1 1-1
+
+[White "Немец Дмитрий"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. e3-d4 g7-f6 3. d4-e5 f6xd4 4. b4-c5 d6xb4 5. a3xe3 g5-h4 
+6. b2-c3 h8-g7 7. a1-b2 g7-f6 8. b2-a3 e7-d6 9. c3-d4 f8-e7 10. g3-f4 f6-g5 
+11. d4-e5 d6-c5 12. e5-f6 b6-a5 13. d2-c3 c7-d6 14. e1-d2 b8-c7 15. f6-g7 
+h6xf8 16. f4xh6 c7-b6 17. c3-d4 e7-f6 18. d2-c3 d8-c7 19. h2-g3 d6-e5 20. 
+e3-f4 c5xg5 21. h6xb8 2-0
+
+[White "Беляевский Владимир"]
+[Black "Новиков Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 h6-g5 2. e3-f4 g5xe3 3. d2xf4 d6-e5 4. f4xd6 c7xe5 5. h2-g3 e7-d6 
+6. c3-b4 b6-a5 7. b2-c3 g7-h6 8. c3-d4 e5xc3 9. b4xd2 h8-g7 10. c1-b2 a7-b6 
+11. g3-f4 d8-e7 12. b2-c3 f6-e5 13. f2-g3 b6-c5 14. c3-b4 a5xc3 15. d2xb4 
+g7-f6 16. g1-h2 b8-c7 17. a1-b2 c7-b6 18. b4-a5 c5-d4 19. a5xc7 d6xb8 20. 
+f4xd6 e7xc5 21. g3-f4 h6-g5 22. f4xh6 d4-e3 23. b2-c3 e3-d2 24. c3-b4 d2-c1 
+25. b4xd6 c1-f4 26. h4-g5 f6xh4 1-1
+
+[White "Анисько Виталий"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,17:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-d4 f6-e5 2. d4xf6 g7xe5 3. g3-h4 h8-g7 4. b4-a5 b6-c5 5. f2-g3 e5-f4 
+6. g3xe5 d6xf4 7. b2-c3 g7-f6 8. c3-b4 a7-b6 9. b4xd6 c7xe5 10. a5xc7 d8xb6 
+11. a1-b2 b8-a7 12. b2-c3 b6-c5 13. c3-b4 a7-b6 14. b4xd6 e5xc7 15. g1-f2 
+b6-c5 16. f2-g3 f8-g7 17. g3xe5 f6xd4 18. h2-g3 g7-f6 19. g3-f4 d4-e3 20. 
+f4-e5 f6xd4 21. d2xf4 e7-f6 22. c1-b2 c7-b6 23. b2-c3 d4xb2 24. a3xc1 c5-b4 
+25. e1-d2 b6-c5 1-1
+
+[White "Куница Алексей"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. e3-d4 g7-f6 3. d4-e5 f6xd4 4. b4-c5 d6xb4 5. a3xe3 g5-h4 
+6. g3-f4 h8-g7 7. d2-c3 b6-c5 8. c1-d2 c7-b6 9. c3-d4 g7-f6 10. d2-c3 f6-g5 
+11. b2-a3 b6-a5 12. d4xb6 a5xc7 13. a3-b4 e7-d6 14. b4-a5 d6-c5 15. e3-d4 
+c5xe3 16. f4xd2 f8-e7 17. c3-d4 e7-f6 18. d2-e3 f6-e5 19. d4xf6 g5xe7 20. 
+h2-g3 e7-f6 21. e3-d4 h6-g5 22. f2-e3 h4xf2 23. e1xg3 c7-d6 24. d4-c5 d6xb4 
+25. a5xc3 a7-b6 26. g3-f4 g5-h4 27. g1-f2 d8-c7 28. a1-b2 2-0
+
+[White "Новиков Виталий"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-h4 h6-g5 2. e3-f4 g5xe3 3. d2xf4 d6-e5 4. f4xd6 c7xe5 5. h2-g3 b6-c5 
+6. c3-b4 c5-d4 7. b4-a5 f6-g5 8. h4xf6 e7xg5 9. c1-d2 g5-f4 10. g3-h4 b8-c7 
+11. a3-b4 f8-e7 12. b2-a3 d4-c3 13. b4-c5 g7-f6 14. d2xb4 c7-b6 15. a5xc7 
+d8xd4 16. b4-a5 e7-d6 17. a3-b4 f4-g3 18. g1-h2 h8-g7 19. h2xf4 e5xg3 20. 
+b4-c5 d6xb4 21. a5xe5 f6xd4 22. h4-g5 g7-h6 23. f2xh4 h6xf4 24. a1-b2 a7-b6 
+25. b2-a3 b6-c5 0-2
+
+[White "Садовский Сергей"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,22,23,24,17:B21,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. b4-a5 f6-g5 2. g3-h4 g7-h6 3. h4xf6 e7xg5 4. h2-g3 h8-g7 5. c3-d4 g7-f6 
+6. g3-h4 f6-e5 7. d4xf6 g5xe7 8. b2-c3 e7-f6 9. f2-g3 d6-e5 10. g1-h2 c7-d6 
+11. a5xc7 d8xb6 12. e3-f4 b6-c5 13. d2-e3 a7-b6 14. c1-d2 f8-e7 15. f4-g5 
+h6xf4 16. e3xg5 a3-b2 17. c3-b4 c5xa3 18. a1xc3 b6-c5 19. g3-f4 e5xg3 20. 
+h2xf4 f6-e5 21. g5-h6 e5xg3 22. h4xf2 e7-f6 23. f2-e3 1-1
+
+[White "Кондраченко Евгений"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 h6-g5 2. b4-a5 g5-h4 3. e3-d4 d6-e5 4. d2-e3 g7-h6 5. c3-b4 e5xc3 
+6. b4xd2 b6-c5 7. g3-f4 f6-g5 8. b2-a3 h8-g7 9. a1-b2 e7-d6 10. d2-c3 f8-e7 
+11. c3-b4 e7-f6 12. e3-d4 c5xe3 13. f4xd2 f6-e5 14. b4-c5 d6xb4 15. a5xc3 
+a7-b6 16. a3-b4 d8-e7 17. b2-a3 e7-d6 18. b4-a5 b6-c5 19. c3-b4 g5-f4 20. 
+d2-c3 h6-g5 21. c3-d4 e5xc3 22. b4xd2 g7-h6 23. d2-c3 d6-e5 24. c1-b2 b8-a7 
+25. c3-b4 c7-d6 26. a5-b6 c5-d4 27. b4-a5 a7xc5 28. a5-b6 c5xa7 29. f2-g3 
+h4xf2 30. g1xe7 f4-e3 31. e7-d8 g5-h4 32. d8-a5 h6-g5 33. a5-c3 e5-f4 34. 
+c3-b4 a7-b6 35. b2-c3 2-0
+
+[White "Плакхин Аркадий"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,27,28,21,22,23,24,18:B16,9,10,11,12,6,7,8,1,2,3,4."]
+
+1. g3-f4 d6-c5 2. c3-b4 g5-h4 3. b4xd6 c7xg3 4. h2xf4 f6-e5 5. f4xd6 e7xc5 
+6. b2-c3 g7-f6 7. f2-g3 h4xf2 8. e1xg3 h6-g5 9. e3-f4 c5xe3 10. f4xd2 h8-g7 
+11. c3-d4 f8-e7 12. a1-b2 e7-d6 13. b2-c3 g7-h6 14. a3-b4 b6-a5 15. g3-h4 
+f6-e5 16. h4xf6 e5xg7 17. d2-e3 g7-f6 18. g1-h2 h6-g5 19. h2-g3 d6-e5 20. 
+g3-h4 e5-f4 21. d4-c5 f4xd2 22. c3xe1 a5xc3 23. c5-d6 g5-f4 24. d6-e7 f4-e3 
+25. e7xg5 e3-d2 26. c1xe3 c3-b2 27. e1-d2 b2-a1 28. g5-h6 d8-e7 29. d2-c3 
+a1xg1 30. h6-g7 g1-d4 31. g7-f8 e7-f6 32. f8-d6 d4-c3 33. d6-f4 c3-b2 34. 
+f4-g5 f6-e5 35. g5-d2 e5-d4 36. d2-c3 1-1
+
+[White "Плакхин Аркадий"]
+[Black "Немец Дмитрий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,12:B13,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 b6-c5 2. c3-b4 a5xc3 3. b2xb6 c7xa5 4. a1-b2 a7-b6 5. b2-c3 b8-a7 
+6. f2-e3 d6-c5 7. c3-b4 a5xc3 8. d2xd6 e7xc5 9. c1-b2 f6-e5 10. e3-f4 e5xg3 
+11. h4xf2 g7-f6 12. b2-c3 h8-g7 13. f2-e3 c5-d4 14. e3xc5 b6xb2 15. a3xc1 
+f6-e5 16. e1-d2 g7-f6 17. g1-f2 a7-b6 18. f2-e3 b6-c5 19. d2-c3 d8-c7 20. 
+c1-b2 c7-b6 1-1
+
+[White "Куница Алексей"]
+[Black "Чепа Олег"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B13,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-e3 h6xf4 4. e3xg5 a7-b6 5. g5-h6 b6-c5 
+6. g1-f2 f6-e5 7. f2-e3 h8-g7 8. b2-c3 c5-b4 9. a3xc5 d6xb4 10. e3-d4 g7-f6 
+11. h4-g5 f6xh4 12. d4xf6 e7xg5 13. h6xf4 c7-d6 14. a1-b2 d8-e7 15. e1-f2 
+b4-a3 16. c3-d4 e7-f6 17. f2-e3 b8-c7 18. b2-c3 c7-b6 19. f4-g5 f8-e7 20. 
+g5-h6 b6-c5 21. d4xb6 a5xc7 22. e3-f4 c7-b6 23. c3-d4 b6-a5 24. d4-e5 f6xd4 
+25. h6-g7 d4-e3 26. g7-f8 e3xg5 27. f8-h6 g5-f4 28. h6xe3 d6-e5 29. e3-g1 
+e5-f4 30. d2-c3 h4-g3 31. g1-a7 2-0
+
+[White "Садовский Сергей"]
+[Black "Беляевский Владимир"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B13,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-g3 h6xf4 4. g3xg7 h8xf6 5. h2-g3 d6-e5 
+6. g3-f4 e5xg3 7. h4xf2 c7-d6 8. a3-b4 a5xc3 9. b2xd4 a7-b6 10. a1-b2 d6-c5 
+11. f2-e3 e7-d6 12. g1-h2 b6-a5 13. d4xb6 a5xc7 14. b2-c3 d6-c5 15. e3-f4 
+c7-d6 16. d2-e3 d8-e7 17. h2-g3 f6-e5 18. g3-h4 e5xg3 19. h4xf2 e7-f6 1-1
+
+
+[White "Кондраченко Евгений"]
+[Black "Валюк Андрей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,17:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. b4-a5 h6-g5 2. g3-h4 g5-f4 3. c3-b4 g7-h6 4. b4-c5 b6xd4 5. d2-e3 f4xd2 
+6. c1xc5 d6xb4 7. a5xc3 e7-d6 8. f2-e3 a7-b6 9. c3-d4 h6-g5 10. h2-g3 f6-e5 
+11. d4xf6 g5xe7 12. g3-f4 h8-g7 13. e1-d2 g7-f6 14. d2-c3 b6-a5 15. g1-f2 
+b8-a7 16. f4-g5 d6-c5 17. f2-g3 c7-d6 18. e3-d4 c5xe3 19. c3-b4 a5xc3 20. 
+b2xf2 a7-b6 21. a1-b2 d8-c7 22. f2-e3 b6-c5 23. g3-f4 c5-b4 24. a3xc5 d6xb4 
+25. b2-c3 b4xd2 26. e3xc1 c7-d6 27. c1-d2 d6-c5 28. g5-h6 e7-d6 29. h4-g5 
+f6xh4 30. d2-c3 1-1
+
+[White "Анисько Виталий"]
+[Black "Михальченко Игорь"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,13:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. d2-e3 f6-e5 2. e3-f4 b6-c5 3. c3-b4 g7-f6 4. b2-c3 h8-g7 5. a1-b2 c5-d4 
+6. c1-d2 f6-g5 7. d2-e3 g5-h4 8. e3xc5 g7-f6 9. e1-d2 f6-g5 10. d2-e3 e7-f6 
+11. c5xe7 f8xd6 12. b4-c5 d6xd2 13. f4xd6 d2xf4 14. g3xg7 h6xf8 0-2
+
+[White "Новиков Евгений"]
+[Black "Семенюк Михаил"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W30,31,32,25,26,27,28,21,22,23,24,16:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-g3 h6xf4 4. g3xg7 h8xf6 5. h2-g3 b6-a5 
+6. c3-d4 c7-b6 7. b2-c3 d6-c5 8. e1-f2 c5xe3 9. f2xd4 b8-c7 10. c1-b2 f8-g7 
+11. g3-f4 b6-c5 12. d4xb6 a7xc5 13. d2-e3 g7-h6 14. c3-d4 c7-d6 15. d4xb6 
+a5xc7 16. b2-c3 d6-c5 17. c3-d4 c7-b6 18. f4-e5 b6-a5 19. e5xg7 h6xf8 20. 
+d4xb6 a5xc7 21. e3-d4 c7-b6 22. g1-f2 e7-d6 23. h4-g5 d8-e7 24. f2-e3 d6-c5 
+25. e3-f4 c5xe3 26. f4xd2 b6-c5 27. d2-e3 1-1
+
+[White "Михальченко Игорь"]
+[Black "Анисько Виталий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,13:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. d2-e3 f6-e5 2. a3-b4 b6-c5 3. b2-a3 e5-d4 4. c3xe5 d6xd2 5. b4xd6 e7xc5 
+6. c1xe3 h6-g5 7. g3-h4 f8-e7 8. h4xf6 g7xe5 9. a1-b2 h8-g7 10. h2-g3 e7-f6 
+11. g3-h4 d8-e7 12. f2-g3 c7-b6 13. a5xc7 b8xd6 14. e3-f4 a7-b6 15. b2-c3 
+b6-a5 16. g1-h2 g7-h6 17. e1-d2 c5-d4 18. d2-e3 1-1
+
+[White "Валюк Андрей"]
+[Black "Кондраченко Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "2-0"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,17:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. c3-d4 d6-c5 2. b4xd6 e7xe3 3. f2xd4 c7-d6 4. b2-c3 f8-e7 5. c3-b4 d6-e5 
+6. d2-c3 e7-d6 7. c1-d2 b6-c5 8. d4xb6 a7xc5 9. d2-e3 f6-g5 10. g3-f4 e5xg3 
+11. h2xf4 g7-f6 12. b4-a5 g5-h4 13. c3-d4 b8-a7 14. d4xb6 a7xc5 15. a1-b2 
+f6-e5 16. b2-c3 e5xg3 17. c3-d4 h8-g7 18. d4xb6 d6-c5 19. b6xd4 g3-f2 20. 
+e1xg3 h4xf2 21. a5-b6 f2-e1 22. b6-a7 e1-h4 23. a7-b8 h4-g5 24. d4-c5 g5xd2 
+25. a3-b4 d2xa5 26. c5-b6 a5xc7 27. b8xh8 2-0
+
+[White "Немец Дмитрий"]
+[Black "Плакхин Аркадий"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,22,24,12:B13,9,10,11,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 b6-c5 2. c3-b4 a5xc3 3. b2xb6 c7xa5 4. a1-b2 a7-b6 5. b2-c3 b8-a7 
+6. f2-e3 d6-c5 7. c3-b4 a5xc3 8. d2xd6 e7xc5 9. c1-b2 f6-e5 10. e3-f4 e5xg3 
+11. h4xf2 g7-f6 12. b2-c3 h8-g7 13. f2-e3 c5-d4 14. e3xc5 b6xb2 15. a3xc1 
+f6-e5 16. g1-f2 a7-b6 17. e1-d2 b6-c5 18. d2-c3 d8-e7 19. h2-g3 c5-d4 20. 
+c1-b2 g7-f6 21. g3-h4 e7-d6 22. f2-g3 d6-c5 23. g3-f4 e5xg3 24. c3xg7 g3-f2 
+25. g7-h8 c5-b4 1-1
+
+[White "Семенюк Михаил"]
+[Black "Новиков Евгений"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W30,31,32,25,26,27,28,21,22,23,24,16:B9,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-g3 h6xf4 4. g3xg7 h8xf6 5. a3-b4 b6-a5 
+6. b2-a3 a7-b6 7. d2-e3 f6-g5 8. h4xf6 e7xg5 9. e3-d4 b8-a7 10. c1-d2 b6-c5 
+11. d4xb6 a7xc5 12. d2-e3 g5-f4 13. e3xg5 c5-d4 14. c3xe5 d6xh6 15. b4-c5 
+c7-d6 16. c5xe7 f8xd6 17. h2-g3 d8-e7 18. g3-f4 a5-b4 19. a3xc5 d6xb4 1-1
+
+
+[White "Беляевский Владимир"]
+[Black "Садовский Сергей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B13,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 g7-h6 3. f2-g3 h6xf4 4. g3xg7 h8xf6 5. h2-g3 d6-e5 
+6. g3-f4 e5xg3 7. h4xf2 c7-d6 8. a3-b4 a5xc3 9. b2xd4 d6-e5 10. c1-b2 e5xc3 
+11. b2xd4 e7-d6 12. a1-b2 d6-c5 13. d4xb6 a7xc5 14. b2-c3 d8-c7 15. d2-e3 
+c7-b6 16. e3-f4 b6-a5 17. f2-e3 b8-c7 18. g1-f2 c7-d6 19. c3-d4 d6-e5 1-1
+
+
+[White "Чепа Олег"]
+[Black "Куница Алексей"]
+[Event "Чемпионат Беларуси 2016"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "0-2"]
+[GameType "25"]
+[Setup "1"]
+[FEN "W:W29,30,31,32,25,26,27,28,21,23,24,16:B13,10,11,12,5,6,7,8,1,2,3,4."]
+
+1. g3-h4 h6xf4 2. e3xg5 a5-b4 3. a3xc5 d6xb4 4. g5-h6 b4-a3 5. f2-e3 c7-d6 
+6. h2-g3 a7-b6 7. b2-c3 b6-a5 8. a1-b2 b8-a7 9. c3-d4 a7-b6 10. b2-c3 b6-c5 
+11. d4xb6 a5xc7 12. g1-h2 c7-b6 13. e3-f4 f6-e5 14. d2-e3 b6-a5 15. f4-g5 
+g7-f6 16. e1-d2 h8-g7 17. g3-f4 e5xg3 18. h2xf4 d6-c5 19. c3-d4 c5-b4 20. 
+d4-c5 b4xd6 21. d2-c3 d8-c7 22. e3-d4 c7-b6 23. f4-e5 d6xf4 24. g5xe3 e7-d6 
+0-2
+
+[White "Чеснокова Мария"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-e3 7. f2xd4 h6-g5 8. g3-h4 f8-e7 9. g1-f2 a7-b6 10. d4-c5 b6xd4 
+11. e5xc3 g5-f4 12. c1-d2 g7-h6 13. f2-e3 h8-g7 14. e3xg5 h6xf4 15. c3-d4 
+g7-h6 16. d2-c3 f6-g5 17. h4xf6 e7xg5 18. d4-c5 c7-d6 19. c5xe7 d8xf6 20. 
+b2-a3 f4-e3 21. a1-b2 g5-h4 22. h2-g3 h4xf2 23. e1xg3 h6-g5 24. c3-d4 e3xc5 
+25. b2-c3 f6-e5 26. c3-b4 c5-d4 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-c3 7. b2xd4 h6-g5 8. g3-h4 f8-e7 9. c1-d2 a7-b6 10. d4-c5 b6xd4 
+11. e5xc3 g5-f4 12. f2-e3 g7-h6 13. e3xg5 h6xf4 14. g1-f2 h8-g7 15. c3-d4 
+b8-a7 16. a1-b2 c7-b6 17. f2-g3 b6-c5 18. d4xb6 a7xc5 19. g3xe5 f6xd4 20. 
+h4-g5 g7-f6 21. d2-c3 f6xh4 22. c3xe5 e7-d6 23. e5xc7 d8xb6 24. b2-c3 b6-a5 
+25. e1-d2 c5-b4 26. c3-d4 b4-a3 27. d2-c3 1-1
+
+[White "Спирина Александра"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. a3-b4 b6-c5 4. b2-a3 e5-f4 5. e3xg5 h6xf4 
+6. b4-a5 h8-g7 7. c3-b4 e7-f6 8. d2-c3 g7-h6 9. f2-g3 f8-g7 10. g3xe5 f6xb2 
+11. a1xc3 h6-g5 12. e1-d2 c5-d4 13. c3xe5 d6xf4 14. g1-f2 a7-b6 15. d2-e3 
+f4xd2 16. c1xe3 b6-c5 17. b4xd6 c7xe5 18. f2-g3 g7-h6 19. g3-f4 e5xg3 20. 
+h2xf4 d8-c7 21. a3-b4 c7-b6 22. a5xc7 b8xd6 1-1
+
+[White "Козлова Полина"]
+[Black "Лазовик  Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 b6-c5 3. b2-c3 g7-f6 4. c3-d4 d6-e5 5. d4xb6 e5xg3 
+6. h2xf4 a7xc5 7. b4xd6 c7xg3 8. f2xh4 g5-f4 9. e3xg5 h6xf4 10. d2-e3 f4xd2 
+11. c1xe3 e7-d6 12. a1-b2 f6-e5 13. b2-c3 h8-g7 14. e1-f2 b8-c7 15. f2-g3 
+f8-e7 16. g3-f4 e5xg3 17. h4xf2 g7-f6 18. e3-d4 c7-b6 19. f2-e3 f6-e5 20. 
+d4xf6 e7xg5 21. c3-d4 d8-e7 22. g1-f2 e7-f6 23. d4-c5 b6xd4 24. e3xe7 f6xd8 
+25. f2-e3 d8-c7 26. a3-b4 1-1
+
+[White "Николаева Виктория"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 g5-h4 5. b2-c3 h8-g7 
+6. c3-b4 e5-f4 7. e3xg5 h4xf6 8. d2-e3 g7-h6 9. b4-c5 b6xd4 10. e3xc5 d6xb4 
+11. a5xc3 a7-b6 12. c1-d2 e7-d6 13. d2-e3 b6-c5 14. h2-g3 c7-b6 15. a1-b2 
+b6-a5 16. c3-d4 f8-e7 17. d4xb6 a5xc7 18. b2-c3 c7-b6 19. g3-h4 b6-a5 20. 
+f2-g3 d6-c5 21. g3-f4 b8-c7 22. c3-d4 c7-d6 23. d4xb6 a5xc7 24. e1-d2 d6-c5 
+25. d2-c3 c7-b6 26. g1-f2 e7-d6 27. c3-d4 b6-a5 28. d4xb6 a5xc7 29. e3-d4 
+d6-c5 30. d4xb6 c7xa5 31. f2-e3 d8-c7 32. e3-d4 c7-b6 33. h4-g5 f6xh4 34. 
+d4-e5 b6-c5 35. e5-f6 c5-d4 36. f6-e7 d4-c3 37. e7-d8 c3-d2 38. d8-f6 d2-c1 
+39. f6-a1 c1xg5 1-1
+
+[White "Курцова Ирина"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. c1-d2 f6-g5 5. f2-e3 b6-c5 
+6. b2-c3 c7-b6 7. f4-e5 d6xf4 8. b4xd6 d8-c7 9. g3xe5 g7-f6 10. e5xg7 h8xf6 
+11. h2-g3 c7xe5 12. a3-b4 f8-e7 13. e3-d4 e7-d6 14. b4-c5 d6xb4 15. c3xc7 
+e5xc3 16. d2xb4 b8xd6 17. b4-a5 f6-e5 18. e1-d2 e5-d4 19. d2-c3 d4xb2 20. 
+a1xc3 d6-c5 21. a5-b6 c5-b4 22. c3xa5 a7xc5 23. g1-f2 c5-d4 1-1
+
+[White "Хващинская Вера"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b2-c3 e5-f4 5. b4-a5 h8-g7 
+6. c3-d4 g5-h4 7. e3xg5 h4xf6 8. d2-e3 b6-c5 9. d4xb6 a7xc5 10. h2-g3 d6-e5 
+11. a1-b2 c7-d6 12. e3-f4 b8-c7 13. c1-d2 g7-h6 14. d2-e3 c7-b6 15. a5xc7 
+d8xb6 16. b2-c3 b6-a5 17. e1-d2 f6-g5 18. e3-d4 c5xc1 19. a3-b4 g5xe3 20. 
+f2xd8 d6-e5 21. b4-c5 h6-g5 22. d8xh4 c1-e3 23. g1-h2 1-1
+
+[White "Лазовик  Яна"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. f2-g3 g7-f6 3. g3-h4 e5xg3 4. h4xf2 f6-g5 5. c3-b4 h8-g7 
+6. b4-c5 d6xb4 7. a3xc5 b6xd4 8. e3xc5 g5-f4 9. b2-c3 g7-f6 10. c3-d4 f6-g5 
+11. f2-g3 e7-d6 12. c5xe7 f8xd6 13. g3xe5 d6xf4 14. d4-c5 d8-e7 15. g1-f2 
+e7-f6 16. a1-b2 f6-e5 17. b2-c3 c7-b6 18. c3-b4 b6xd4 19. d2-e3 f4xd2 20. 
+c1xc5 g5-f4 21. b4-a5 h6-g5 22. e1-d2 g5-h4 23. d2-c3 b8-c7 24. c3-b4 h4-g3 
+25. f2xh4 f4-e3 26. c5-d6 e5-d4 27. d6xb8 e3-d2 28. b4-c5 d4xb6 29. a5xc7 
+d2-c1 30. c7-d8 c1-h6 31. b8-e5 h6-c1 32. e5-g7 c1-h6 33. g7-f8 h6-c1 34. 
+f8-h6 c1-b2 35. h6-f4 b2-a1 36. h4-g5 a1-b2 37. g5-h6 b2-a1 38. d8-a5 a1-f6 
+39. h2-g3 f6-h8 40. g3-h4 h8-a1 41. f4-d6 a1-b2 42. d6-c5 b2-a1 43. h4-g5 
+2-0
+
+[White "Якубович Яна"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.23"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 b6xd4 5. f4-e5 d6xf4 
+6. g3xc3 h6-g5 7. c3-d4 h8-g7 8. h2-g3 c7-d6 9. a3-b4 g5-h4 10. b2-a3 d6-e5 
+11. b4-c5 e5xc3 12. c1-d2 g7-h6 13. d2xb4 e7-d6 14. c5xg5 h6xh2 15. a1-b2 
+b8-c7 16. b2-c3 d8-e7 17. c3-d4 f8-g7 18. e1-d2 g7-h6 19. d2-e3 e7-f6 20. 
+e3-f4 f6-g5 21. f4-e5 g5-f4 22. e5xg3 h2xf4 23. d4-e5 f4xd6 24. b4-c5 d6xb4 
+25. a3xc5 h6-g5 26. f2-g3 h4xf2 27. g1xe3 g5-h4 28. e3-f4 c7-b6 29. c5-d6 
+b6-c5 30. d6xb4 1-1
+
+[White "Барышева Анастасия"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "1.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. a3-b4 b6-c5 4. b2-a3 e5-f4 5. e3xg5 h6xf4 
+6. b4-a5 h8-g7 7. c3-b4 e7-f6 8. f2-g3 d8-e7 9. g3xe5 d6xf4 10. b4xd6 e7xc5 
+11. a1-b2 f6-e5 12. b2-c3 c7-b6 13. a5xc7 b8xd6 14. c3-b4 a7-b6 15. b4-a5 
+f8-e7 16. a5xc7 d6xb8 17. d2-e3 f4xd2 18. c1xe3 b8-c7 19. e3-f4 e5xg3 20. 
+h2xf4 c7-d6 21. e1-d2 g7-h6 22. d2-c3 e7-f6 23. g1-f2 f6-e5 24. f2-g3 c5-d4 
+25. c3-b4 d6-c5 26. b4xd6 e5xc7 27. a3-b4 c7-d6 28. g3-h4 d6-c5 29. b4xd6 
+d4-c3 1-1
+
+[White "Лазовик Яна"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 b6xd4 5. f4-e5 d6xf4 
+6. g3xc3 e7-d6 7. h2-g3 a7-b6 8. c1-d2 h8-g7 9. c3-d4 f6-g5 10. a3-b4 g5-h4 
+11. b4-a5 h6-g5 12. d2-e3 g5-f4 13. e3xg5 h4xf6 14. f2-e3 g7-h6 15. g3-f4 
+f8-e7 16. e1-f2 b6-c5 17. d4xb6 f6-e5 18. f2-g3 b8-a7 19. g1-h2 a7xc5 20. 
+g3-h4 e5xg3 21. h2xf4 e7-f6 22. b2-c3 f6-e5 23. e3-d4 e5xg3 24. d4xb6 g3-f2 
+25. b6-a7 f2-g1 26. a7-b8 d8-e7 27. b8-a7 d6-e5 28. a7-b8 e7-d6 29. b8-a7 
+e5-f4 30. a5-b6 c7xa5 31. a7-b8 d6-e5 32. h4-g5 a5-b4 33. c3xa5 g1-h2 34. 
+g5xe3 e5-f4 35. e3xg5 h6xf4 36. b8xg3 h2xc7 1-1
+
+[White "Якубович Яна"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-f4 b6-a5 2. c3-b4 a5xc3 3. d2xb4 f6-g5 4. b4-c5 d6xb4 5. a3xc5 g7-f6 
+6. b2-c3 g5-h4 7. a1-b2 f6-g5 8. b2-a3 c7-b6 9. c3-d4 d8-c7 10. a3-b4 e7-f6 
+11. e1-d2 b6-a5 12. d2-c3 f8-e7 13. c1-d2 c7-b6 14. f4-e5 b8-c7 15. e5xg7 
+h6xf8 16. h2-g3 h8-g7 17. g3-f4 g7-f6 18. f4xh6 f6-e5 19. d4xd8 b6xb2 20. 
+d8xb6 a5xg3 21. b6-a5 b2-a1 22. a5-d2 g3-e1 0-2
+
+[White "Барышева Анастасия"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d4-c5 d6xb4 3. a3xc5 b6xd4 4. e3xc5 g5-h4 5. b2-c3 g7-f6 
+6. a1-b2 f6-g5 7. g3-f4 g5xe3 8. d2xf4 h8-g7 9. c1-d2 g7-f6 10. f4-g5 h6xf4 
+11. f2-g3 h4xf2 12. e1xg7 f8xh6 13. h2-g3 e7-d6 14. c5xe7 d8xf6 15. c3-d4 
+c7-d6 16. g3-f4 f6-g5 17. d2-e3 d6-c5 18. d4xb6 a7xc5 19. e3-d4 c5xe3 20. 
+f4xd2 g5-f4 21. b2-c3 h6-g5 22. c3-d4 g5-h4 23. d2-c3 h4-g3 24. c3-b4 b8-c7 
+25. b4-a5 g3-h2 26. d4-c5 f4-e3 27. c5-b6 1-1
+
+[White "Хващинская Вера"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 b6-c5 2. d4xb6 a7xc5 3. g3-f4 f6-e5 4. d2-e3 e5xg3 5. h2xf4 c7-b6 
+6. c3-b4 b6-a5 7. c1-d2 a5xc3 8. b2xb6 d6-e5 9. f4xd6 e7xa7 10. e3-d4 g7-f6 
+11. d2-e3 h6-g5 12. f2-g3 b8-c7 13. g3-f4 g5-h4 14. a1-b2 h8-g7 15. b2-c3 
+g7-h6 16. g1-f2 f6-g5 17. c3-b4 f8-e7 18. f2-g3 h4xf2 19. e3xg1 g5xc5 20. 
+b4xb8 2-0
+
+[White "Чеснокова Мария"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.1"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. d2-e3 h8-g7 10. b2-c3 g7-f6 
+11. c1-d2 e7-d6 12. b4-a5 a7-b6 13. g3-h4 b6-c5 14. h2-g3 d8-e7 15. c3-b4 
+e5-d4 16. g3-f4 d4xf2 17. g1xe3 f6-e5 18. d2-c3 e5xg3 19. h4xf2 b8-a7 20. 
+c3-d4 a7-b6 21. d4-e5 d6xd2 22. b4xb8 d2-c1 23. a5xc7 c1-g5 24. f2-g3 g5-f6 
+25. b8-a7 f6-h8 26. c7-d8 h8-f6 27. d8-c7 f6-h8 28. c7-f4 e7-f6 29. a7-g1 
+f6-g5 30. f4-e3 h8-a1 31. g3-f4 g5-h4 32. a3-b4 f8-e7 33. b4-c5 e7-f6 34. 
+c5-b6 f6-g5 35. b6-a7 h4-g3 36. f4xh2 g5-f4 37. e3xg5 h6xf4 38. a7-b8 2-0
+
+
+[White "Дагиль Елизавета"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-d4 f6-g5 2. d2-e3 g5-h4 3. c3-b4 g7-f6 4. b4-c5 d6xb4 5. a3xc5 b6-a5 
+6. g3-f4 c7-b6 7. c1-d2 f6-g5 8. d2-c3 b8-c7 9. b2-a3 c7-d6 10. e1-d2 d6xb4 
+11. a3xc5 d8-c7 12. a1-b2 c7-d6 13. b2-a3 d6xb4 14. a3xc5 e7-d6 15. c5xe7 
+f8xd6 16. d4-e5 d6-c5 17. c3-d4 h8-g7 18. h2-g3 c5-b4 19. g1-h2 b6-c5 20. 
+d4xb6 a7xc5 21. e5-f6 g5xe7 0-2
+
+[White "Макаревич Эмма"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. b2-c3 e7-d6 3. e3-f4 f8-e7 4. f2-e3 b6-c5 5. d4xb6 a7xc5 
+6. g3-h4 e5xg3 7. h4xf2 f6-e5 8. c3-b4 e5-f4 9. e3xg5 h6xf4 10. f2-g3 e7-f6 
+11. g3xe5 f6xd4 12. d2-e3 d4xf2 13. g1xe3 g7-f6 14. h2-g3 h8-g7 15. c1-d2 
+c7-b6 16. g3-h4 b6-a5 17. e3-f4 a5xc3 18. d2xb4 f6-e5 19. a1-b2 e5xg3 20. 
+h4xf2 d8-e7 21. b2-c3 e7-f6 22. f2-e3 f6-e5 23. e1-f2 b8-c7 24. f2-g3 g7-h6 
+25. g3-f4 e5xg3 26. c3-d4 c7-b6 27. b4-a5 g3-h2 28. a5xe5 h2-g1 29. d4xb6 
+1-1
+
+[White "Николаева Виктория"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-d4 d6-c5 3. d2-c3 g7-f6 4. c3-b4 g5-h4 5. b4xd6 c7xc3 
+6. b2xd4 b6-a5 7. f4-e5 b8-c7 8. e5xg7 h8xf6 9. h2-g3 c7-b6 10. a1-b2 f6-g5 
+11. d4-c5 b6xd4 12. e3xc5 e7-d6 13. c5xe7 f8xd6 14. b2-c3 d6-e5 15. c3-d4 
+e5xc3 16. g3-f4 g5xe3 17. f2xb2 h6-g5 18. b2-c3 d8-e7 19. c3-d4 g5-f4 20. 
+c1-d2 a7-b6 21. e1-f2 e7-d6 22. d4-c5 1-1
+
+[White "Козлова Полина"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. b4-c5 b6xd4 3. e3xc5 d6xb4 4. c3xa5 e7-d6 5. b2-c3 a7-b6 
+6. f2-e3 g7-f6 7. e3-f4 b6-c5 8. g3-h4 e5xg3 9. h4xf2 d6-e5 10. f2-e3 c7-d6 
+11. h2-g3 f6-g5 12. e3-f4 g5xe3 13. d2xf4 b8-c7 14. g3-h4 e5xg3 15. h4xf2 
+d6-e5 16. a1-b2 h8-g7 17. c1-d2 h6-g5 18. d2-e3 g7-f6 19. b2-a3 g5-h4 20. 
+e3-d4 c5xe3 21. f2xd4 f6-g5 22. d4xf6 g5xe7 23. c3-d4 c7-b6 24. a5xc7 d8xb6 
+25. e1-f2 e7-d6 26. f2-e3 f8-g7 27. g1-f2 d6-c5 28. d4-e5 b6-a5 29. e3-f4 
+a5-b4 30. e5-d6 c5xe7 31. a3xc5 g7-f6 32. c5-b6 e7-d6 33. f4-g5 f6-e5 34. 
+b6-a7 h4xf6 35. a7-b8 d6-c5 36. b8xf4 c5-b4 37. f4-d2 b4-a3 38. d2-c3 2-0
+
+
+[White "Спирина Александра"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "2.2"]
+[Date "2016.5.24"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. f2-e3 f6-g5 5. c1-d2 b6-a5 
+6. f4-e5 a5xc3 7. b2xd4 d6xf4 8. g3xe5 f8-e7 9. g1-f2 g7-f6 10. e5xg7 h6xf8 
+11. h2-g3 g5-h4 12. g3-f4 h8-g7 13. a1-b2 a7-b6 14. b2-c3 e7-d6 15. d4-e5 
+d6-c5 16. c3-d4 b8-a7 17. d2-c3 b6-a5 18. d4xb6 a7xc5 19. c3-d4 c7-b6 20. 
+f2-g3 h4xf2 21. e1xg3 d8-c7 22. g3-h4 f8-e7 23. f4-g5 1-1
+
+[White "Хващинская Вера"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b2-c3 e5-f4 5. b4-a5 h8-g7 
+6. c3-b4 g5-h4 7. e3xg5 h4xf6 8. d2-e3 b6-c5 9. h2-g3 f6-g5 10. g3-h4 g7-h6 
+11. h4xf6 e7xg5 12. a1-b2 f8-g7 13. b2-c3 g5-f4 14. e3xg5 h6xf4 15. f2-e3 
+f4xd2 16. c1xe3 g7-f6 17. c3-d4 f6-g5 18. d4xb6 a7xc5 19. e1-f2 g5-h4 20. 
+e3-d4 c5xe3 21. f2xd4 h4-g3 22. b4-c5 d6xb4 23. a5xc3 c7-d6 24. c3-b4 g3-h2 
+25. b4-a5 d8-e7 26. d4-c5 d6xb4 27. a3xc5 1-1
+
+[White "Барышева Анастасия"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. b2-c3 g5-f4 3. e3xg5 h6xf4 4. g3xe5 d6xf4 5. b4-a5 g7-f6 
+6. a1-b2 h8-g7 7. c3-b4 e7-d6 8. d2-e3 f4xd2 9. c1xe3 g7-h6 10. b4-c5 d6xb4 
+11. a5xc3 b6-c5 12. c3-d4 c7-b6 13. h2-g3 b6-a5 14. d4xb6 a7xc5 15. b2-c3 
+f8-e7 16. c3-d4 e7-d6 17. d4xb6 a5xc7 18. g3-h4 c7-b6 19. e1-d2 b6-a5 20. 
+d2-c3 d6-c5 21. e3-f4 b8-c7 22. f2-e3 c7-d6 23. c3-d4 d6-e5 24. d4xb6 e5xg3 
+25. h4xf2 a5xc7 1-1
+
+[White "Козлова Полина"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. b2-c3 g7-f6 3. c3-b4 h8-g7 4. g3-h4 b6-c5 5. d4xb6 c7xc3 
+6. d2xb4 g5-f4 7. e3xg5 h6xf4 8. a1-b2 f6-e5 9. b2-c3 b8-c7 10. f2-e3 f4xd2 
+11. c1xe3 e5-d4 12. e3xc5 c7-b6 13. g1-f2 b6xb2 14. a3xc1 g7-f6 15. f2-e3 
+d6-c5 16. b4xd6 e7xc5 17. h2-g3 a7-b6 18. e1-d2 b6-a5 19. d2-c3 d8-e7 20. 
+g3-f4 e7-d6 21. f4-g5 f6-e5 22. g5-h6 c5-b4 23. e3-d4 b4xd2 24. d4xf6 d2-e1 
+25. f6-g7 d6-e5 26. g7-h8 e5-f4 27. h8-a1 f4-e3 28. a1-b2 e3-f2 29. h4-g5 
+f2-g1 30. b2-a1 e1-b4 31. a1-h8 b4-e7 32. h8-a1 e7xh4 33. a1-h8 h4-f2 34. 
+h8-a1 f2-e3 35. a1-h8 a5-b4 36. c1-b2 b4-a3 37. b2-c3 e3-f4 38. c3-d4 g1xa7 
+39. h8-a1 f4-d6 40. a1-h8 d6-c5 41. h8-f6 f8-e7 42. f6xd8 c5-d4 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-d4 e5xc3 4. b2xd4 h6-g5 5. h2-g3 g5-h4 
+6. g3-f4 h8-g7 7. a1-b2 b6-a5 8. g1-h2 d6-c5 9. d4xb6 a7xc5 10. b2-c3 g7-h6 
+11. c3-d4 c7-d6 12. d4xb6 a5xc7 13. c1-b2 d6-c5 14. d2-c3 c7-d6 15. c3-d4 
+b8-c7 16. d4xb6 c7xa5 17. b2-c3 d6-c5 18. c3-d4 e7-d6 19. d4xb6 a5xc7 20. 
+e3-d4 d6-c5 21. d4xb6 c7xa5 22. f2-e3 d8-c7 23. e3-d4 c7-b6 24. f4-e5 f8-e7 
+25. e1-d2 e7-d6 26. e5xc7 b6xd8 27. d2-e3 h6-g5 28. d4-c5 d8-e7 29. e3-d4 
+g5-f4 30. d4-e5 f4xb4 31. a3xc5 1-1
+
+[White "Чеснокова Мария"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 h6-g5 8. b2-c3 a7-b6 9. d2-e3 g5-f4 10. e3xg5 f6xf2 
+11. g1xe3 b6-a5 12. h2-g3 g7-f6 13. b4-c5 f6-g5 14. c5-b6 c7-d6 15. b6-a7 
+h8-g7 16. c1-d2 g7-h6 17. g3-f4 d8-c7 18. d4-c5 d6xb4 19. a3xc5 c7-d6 20. 
+c3-b4 a5xc3 21. d2xb4 e7-f6 22. c5xe7 f8xd6 23. e1-d2 1-1
+
+[White "Николаева Виктория"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 g5-h4 5. b2-c3 e5-f4 
+6. e3xg5 h4xf6 7. c3-b4 h8-g7 8. d2-e3 b6-c5 9. h2-g3 g7-h6 10. g3-h4 f6-e5 
+11. a1-b2 e5-f4 12. e3xg5 h6xf4 13. f2-e3 f4xd2 14. c1xe3 e7-f6 15. b2-c3 
+f6-e5 16. e3-f4 e5xg3 17. h4xf2 c5-d4 18. c3xe5 d6xf4 19. f2-e3 f4xd2 20. 
+e1xc3 f8-e7 21. c3-d4 e7-f6 22. g1-f2 a7-b6 23. f2-e3 f6-g5 24. b4-c5 b8-a7 
+25. a3-b4 d8-e7 0-2
+
+[White "Спирина Александра"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. d2-e3 a7-b6 10. b2-c3 e7-d6 
+11. e3-f4 h8-g7 12. c1-d2 b6-c5 13. d2-e3 g7-f6 14. b4-a5 f8-e7 15. e1-d2 
+f6-g5 16. g3-h4 e5xg3 17. h2xf4 c7-b6 18. a5xe5 c5-d4 19. h4xf6 e7xg5 20. 
+e3xc5 g5xc1 21. g1-f2 c1-g5 22. c5-b6 g5-e7 23. c3-b4 e7-h4 24. b4-a5 h4xe1 
+25. e5-d6 e1-h4 26. a3-b4 h4-e1 27. b4-c5 e1-h4 28. d6-e7 d8xf6 29. c5-d6 
+h4-f2 30. b6-a7 f2-g1 31. a5-b6 g1-d4 32. d6-c7 b8xd6 33. a7-b8 d4xa7 34. 
+b8xh8 1-1
+
+[White "Лазовик Яна"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-h4 f6-e5 2. c3-b4 e5-f4 3. e3xg5 h6xf4 4. b4-a5 b6-c5 5. b2-c3 d6-e5 
+6. c3-b4 c7-d6 7. f2-g3 b8-c7 8. d2-e3 f4xd2 9. c1xe3 c7-b6 10. a5xc7 d8xb6 
+11. b4-a5 g7-f6 12. a5xc7 d6xb8 13. g3-f4 e5xg3 14. h2xf4 a7-b6 15. a1-b2 
+h8-g7 16. b2-c3 g7-h6 17. e1-d2 b6-a5 18. g1-f2 b8-a7 19. f4-g5 h6xf4 20. 
+e3xg5 f6-e5 21. f2-e3 c5-b4 22. a3xc5 e7-f6 23. g5xe7 f8xb4 24. h4-g5 e5-f4 
+25. g5-h6 f4-g3 26. h6-g7 g3-h2 27. g7-h8 h2-g1 28. c3-d4 b4-c3 29. d4xb2 
+g1xa1 2-0
+
+[White "Якубович Яна"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 g7-f6 3. b2-c3 d6-e5 4. f4xd6 c7xe5 5. e3-f4 e5xg3 
+6. f2xh4 b6-a5 7. b4-c5 g5-f4 8. c3-b4 a5xc3 9. d2xb4 f6-g5 10. h4xf6 e7xg5 
+11. a1-b2 h8-g7 12. b2-c3 g7-f6 13. e1-f2 b8-c7 14. f2-e3 f4xd2 15. c3xe1 
+g5-f4 16. g1-f2 h6-g5 17. c1-d2 f8-g7 18. f2-e3 d8-e7 19. e1-f2 e7-d6 20. 
+c5xe7 f6xd8 21. f2-g3 d8-e7 22. g3xe5 e7-d6 23. b4-c5 d6xf4 24. a3-b4 g7-h6 
+25. d2-c3 f4xd2 26. c3xe1 g5-f4 27. b4-a5 f4-e3 28. h2-g3 1-1
+
+[White "Курцова Ирина"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d4-c5 b6xd4 3. e3xc5 d6xb4 4. a3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. h2-g3 c5-b4 8. g3-f4 f8-e7 9. b2-c3 b6-a5 10. a1-b2 b4-a3 
+11. f2-g3 g7-f6 12. e5xg7 h6xf8 13. g1-f2 h8-g7 14. f2-e3 a7-b6 15. c3-d4 
+e7-d6 16. d4-e5 d8-e7 17. e5xc7 b8xd6 18. b2-c3 g7-f6 19. g3-h4 b6-c5 20. 
+c3-d4 a5-b4 21. d4xb6 b4-c3 22. d2xb4 a3xa7 23. e1-d2 a7-b6 24. d2-c3 d6-c5 
+25. f4-g5 f6-e5 26. e3-f4 e5xg3 27. h4xf2 e7-d6 28. f2-e3 d6-e5 29. g5-h6 
+b6-a5 30. c1-d2 c5-b4 31. e3-d4 e5-f4 32. d2-e3 b4xd2 33. e3xc1 a5-b4 34. 
+c1-d2 f4-g3 35. d4-e5 g3-f2 36. e5-d6 f2-e1 37. d2-e3 e1-g3 38. d6-e7 f8xd6 
+1-1
+
+[White "Макаревич Эмма"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "3.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. b4-c5 d6xb4 3. a3xc5 b6xd4 4. e3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. h2-g3 c5-b4 8. d2-c3 b4xd2 9. e1xc3 f8-e7 10. c3-b4 b8-c7 
+11. g3-f4 g7-f6 12. e5xg7 h6xf8 13. b4-a5 b6-c5 14. b2-a3 h8-g7 15. a1-b2 
+g7-f6 16. c1-d2 f8-g7 17. f2-e3 g7-h6 18. d2-c3 c7-b6 19. a5xc7 d8xb6 20. 
+c3-d4 e7-d6 21. b2-c3 b6-a5 22. d4xb6 a7xc5 23. g1-f2 a5-b4 24. c3xa5 f6-g5 
+25. a5-b6 c5xa7 26. f2-g3 g5-h4 27. e3-d4 h4xf2 28. d4-e5 f2-g1 29. e5xc7 
+a7-b6 30. c7xa5 g1-h2 31. f4-g5 h6xf4 32. a5-b6 f4-e3 33. b6-a7 h2-b8 34. 
+a3-b4 e3-f2 35. b4-c5 f2-g1 0-2
+
+[White "Чеснокова Мария"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-b4 f6-e5 2. e3-f4 e7-f6 3. b4-a5 f6-g5 4. b2-c3 g5xe3 5. d2xf4 g7-f6 
+6. a1-b2 f8-g7 7. f2-e3 f6-g5 8. g3-h4 e5xg3 9. h4xf2 g5-f4 10. e3xg5 h6xf4 
+11. c1-d2 b6-c5 12. c3-b4 g7-f6 13. f2-e3 d8-e7 14. e3xg5 f6xh4 15. d2-e3 
+e7-f6 16. b2-c3 f6-e5 17. e3-f4 e5xg3 18. h2xf4 h8-g7 19. e1-d2 g7-f6 20. 
+d2-e3 a7-b6 21. c3-d4 d6-e5 22. f4xd6 c7xc3 23. b4xd6 h4-g3 24. a5xc7 f6-g5 
+25. e3-d4 c3xe5 26. d6xh6 b8xd6 2-0
+
+[White "Якубович Яна"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 h6-g5 2. g3-h4 g7-h6 3. b4-c5 d6xb4 4. a3xc5 b6xd4 5. e3xc5 f8-g7 
+6. b2-c3 c7-b6 7. c3-d4 b8-c7 8. d4-e5 b6xd4 9. e5xc3 g5-f4 10. a1-b2 a7-b6 
+11. c3-b4 f6-g5 12. h4xf6 g7xe5 13. b2-a3 e7-d6 14. f2-g3 h8-g7 15. g3-h4 
+b6-c5 16. g1-f2 f4-g3 17. h2xf4 e5xg3 18. h4-g5 h6xf4 19. f2xh4 c5-d4 20. 
+b4-a5 d6-e5 21. h4-g5 f4xh6 22. e1-f2 g7-f6 23. d2-e3 d4-c3 24. a3-b4 f6-g5 
+25. b4xd2 e5-f4 26. c1-b2 g5-h4 27. e3xg5 h6xf4 28. b2-a3 d8-e7 29. a3-b4 
+f4-g3 30. d2-e3 g3xe1 31. b4-c5 e1-g3 0-2
+
+[White "Козлова Полина"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 b6-c5 3. b2-c3 g7-f6 4. b4-a5 g5-h4 5. c3-d4 h8-g7 
+6. d4xb6 a7xc5 7. a1-b2 b8-a7 8. f4-g5 h6xf4 9. e3xg5 f6-e5 10. g5-h6 c7-b6 
+11. a5xc7 d6xb8 12. f2-e3 e7-d6 13. b2-c3 a7-b6 14. c3-b4 b6-a5 15. d2-c3 
+e5-f4 16. e3xg5 h4xf6 17. c1-d2 f6-e5 18. h2-g3 c5-d4 19. g1-f2 d4xb2 20. 
+a3xc1 a5xc3 21. d2xb4 b8-c7 22. f2-e3 c7-b6 23. g3-h4 g7-f6 24. b4-a5 b6-c5 
+25. e1-f2 d8-c7 26. c1-b2 c7-b6 27. a5xc7 d6xb8 28. b2-c3 b8-c7 29. f2-g3 
+c7-b6 30. g3-f4 e5xg3 31. h4xf2 f6-e5 32. f2-g3 b6-a5 33. g3-h4 c5-b4 34. 
+e3-d4 b4xd2 35. d4xf6 d2-e1 1-1
+
+[White "Хващинская Вера"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. g3-f4 g7-f6 3. h2-g3 g5-h4 4. d4-c5 b6xd4 5. e3xc5 d6xb4 
+6. a3xc5 h8-g7 7. b2-c3 c7-d6 8. c3-b4 d8-c7 9. d2-e3 f6-g5 10. a1-b2 e7-f6 
+11. c5xe7 f6xd8 12. b2-c3 c7-b6 13. b4-a5 f8-e7 14. a5xc7 d8xb6 15. c3-b4 
+e7-d6 16. b4-a5 d6-c5 17. a5xc7 b8xd6 18. e3-d4 c5xe3 19. f4xd2 d6-e5 20. 
+d2-c3 g5-f4 21. g1-h2 e5-d4 22. g3xe5 d4xf6 23. c3-d4 a7-b6 24. e1-d2 h6-g5 
+25. d2-e3 b6-a5 26. c1-d2 g7-h6 27. d4-e5 f6xd4 28. e3xc5 g5-f4 29. d2-c3 
+f4-e3 30. f2xd4 h6-g5 31. c5-d6 g5-f4 32. d6-c7 2-0
+
+[White "Курцова Ирина"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. f2-g3 g7-f6 3. g3-h4 e5xg3 4. h4xf2 f6-e5 5. c3-b4 h8-g7 
+6. b2-c3 e5-f4 7. e3xg5 h6xf4 8. b4-a5 b6-c5 9. c3-b4 e7-f6 10. d2-c3 f6-e5 
+11. e1-d2 g7-f6 12. d2-e3 f4xd2 13. c3xe1 f6-g5 14. c1-d2 g5-h4 15. d2-e3 
+e5-f4 16. e3xg5 h4xf6 17. f2-e3 f6-g5 18. a1-b2 f8-g7 19. g1-f2 g5-h4 20. 
+b2-c3 g7-f6 21. c3-d4 f6-g5 22. d4xb6 a7xc5 23. h2-g3 g5-f4 24. e3xg5 h4xf6 
+25. g3-f4 f6-e5 26. f2-g3 1-1
+
+[White "Лазовик Яна"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.1"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. b4-c5 b6xd4 3. e3xc5 d6xb4 4. c3xa5 h6-g5 5. g3-h4 g5-f4 
+6. f2-g3 a7-b6 7. b2-a3 b6-c5 8. a1-b2 e7-d6 9. b2-c3 f8-e7 10. c3-b4 g7-f6 
+11. g1-f2 h8-g7 12. f2-e3 g7-h6 13. e3xg5 h6xf4 14. d2-e3 f4xd2 15. c1xe3 
+e5-d4 16. e3-f4 f6-e5 17. f4-g5 e7-f6 18. g5xe7 d8xf6 19. g3-f4 e5xg3 20. 
+h4xf2 f6-g5 21. h2-g3 g5-h4 22. e1-d2 d6-e5 23. b4xf4 d4-e3 24. f2xd4 h4xf2 
+25. f4-g5 f2-g1 26. g5-h6 g1xc5 1-1
+
+[White "Николаева Виктория"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. e3-d4 f6-e5 4. d4xf6 e7xg5 5. d2-e3 g5-h4 
+6. e3-d4 h6-g5 7. c1-b2 d6-e5 8. d4xf6 g5xe7 9. g3-f4 e7-d6 10. f4-e5 d6xf4 
+11. b4-c5 b6xd4 12. c3xg3 c7-d6 13. g3-f4 d6-c5 14. b2-c3 g7-h6 15. f2-g3 
+h4xf2 16. g1xe3 f8-e7 17. a1-b2 b8-a7 18. c3-d4 e7-d6 19. d4xb6 a7xc5 20. 
+b2-c3 h8-g7 21. e1-d2 g7-f6 22. c3-d4 f6-g5 23. d4xb6 a5xc7 24. d2-c3 g5-h4 
+25. c3-d4 d6-c5 26. d4xb6 c7xa5 27. f4-e5 d8-e7 28. e3-d4 e7-f6 29. e5xg7 
+h6xf8 30. d4-c5 f8-e7 31. a3-b4 a5xc3 32. c5-b6 c3-b2 33. b6-c7 b2-a1 34. 
+h2-g3 h4xf2 35. c7-d8 e7-d6 36. d8-g5 f2-g1 37. g5-h6 a1-h8 0-2
+
+[White "Спирина Александра"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. h2-g3 e5-d4 3. c3xe5 h6-g5 4. f4xh6 d6xh2 5. a3-b4 g7-f6 
+6. e3-d4 b6-c5 7. b4xd6 e7xe3 8. f2xd4 c7-d6 9. b2-c3 a7-b6 10. a1-b2 d8-c7 
+11. e1-f2 b6-a5 12. b2-a3 f8-e7 13. f2-e3 c7-b6 14. a3-b4 b8-a7 15. b4-c5 
+d6xb4 16. h6-g7 b4-a3 17. g7xe5 e7-f6 18. e5xg7 h8xf6 19. e3-f4 b6-c5 20. 
+d4xb6 a5xc7 21. c3-d4 c7-d6 22. d4-e5 f6xd4 23. f4-g5 d6-e5 24. g5-h6 e5-f4 
+25. h6-g7 d4-c3 26. d2xb4 a3xc5 27. g7-h8 f4-g3 28. c1-d2 g3-f2 29. g1xe3 
+c5-b4 30. e3-f4 h2-g1 31. f4-g5 g1-h2 32. h8-b2 h2-b8 33. g5-f6 b8-f4 34. 
+b2-c1 b4-a3 35. d2-c3 f4-d6 36. c1-d2 d6-c7 37. f6-g7 c7-b8 38. g7-h8 b8-h2 
+39. d2-c1 a7-b6 40. c3-d4 b6-a5 41. d4-c5 h2-b8 42. c1-h6 b8-h2 43. h6-g7 
+h2-b8 44. g7-f8 b8-a7 45. c5-d6 a7-b8 46. d6-e7 b8-h2 47. e7-d8 h2-b8 48. 
+f8-c5 b8-g3 49. c5-a7 g3-b8 50. d8-f6 b8-h2 51. f6-a1 h2-b8 52. h8-d4 b8-g3 
+53. a7-b8 g3-h4 54. b8-c7 h4-e1 55. c7-d8 e1-b4 56. d4-b6 a5xc7 2-0
+
+[White "Дагиль Елизавета"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. b4-c5 d6xb4 3. a3xc5 b6xd4 4. e3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. f2-e3 c5-b4 8. g1-f2 b4-a3 9. b2-c3 h6-g5 10. e3-d4 g7-f6 
+11. e5xg7 h8xf6 12. a1-b2 b6-a5 13. h2-g3 b8-c7 14. g3-h4 c7-d6 15. f2-g3 
+d6-e5 16. d4-c5 g5-f4 0-2
+
+[White "Макаревич Эмма"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. g3-f4 e5xc3 3. b2xd4 b6-a5 4. a1-b2 f6-g5 5. h2-g3 g5-h4 
+6. g1-h2 c7-b6 7. b2-c3 g7-f6 8. f4-g5 h6xf4 9. e3xg5 b6-c5 10. d4xb6 a5xc7 
+11. c3-d4 c7-d6 12. d2-c3 a7-b6 13. c1-d2 b8-a7 14. d2-e3 b6-a5 15. g3-f4 
+d6-e5 16. f4xd6 e7xc5 17. d4xb6 a7xc5 18. g5xe7 f8xd6 19. c3-d4 h8-g7 20. 
+d4xb6 a5xc7 21. e3-d4 g7-f6 22. a3-b4 c7-b6 23. e1-d2 b6-a5 24. d2-c3 f6-g5 
+25. f2-e3 g5-f4 26. e3xg5 h4xf6 27. h2-g3 f6-g5 28. g3-h4 g5-f4 29. d4-e5 
+f4-e3 30. e5xc7 d8xb6 1-1
+
+[White "Барышева Анастасия"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 b6-c5 3. b2-c3 g7-f6 4. b4-a5 g5-h4 5. c3-d4 h8-g7 
+6. d4xb6 a7xc5 7. a1-b2 f6-g5 8. d2-c3 c5-b4 9. a3xc5 d6xd2 10. e1xc3 e7-d6 
+11. c3-d4 g7-f6 12. d4-c5 d6xb4 13. a5xc3 f6-e5 14. f4xd6 c7xe5 15. e3-d4 
+e5-f4 16. d4-c5 b8-c7 17. c3-d4 c7-d6 18. c5xe7 f8xd6 19. f2-g3 h4xf2 20. 
+g1xe3 f4xd2 21. c1xe3 d8-c7 22. b2-a3 g5-f4 23. e3xg5 h6xf4 24. a3-b4 c7-b6 
+1-1
+
+[White "Федорович Дарья"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "4.2"]
+[Date "2016.5.25"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 g7-f6 3. b2-c3 f6-e5 4. a1-b2 e5xg3 5. h2xf4 d6-c5 
+6. b4xd6 e7xc5 7. c3-d4 h8-g7 8. b2-c3 c7-d6 9. f2-g3 g5-h4 10. g1-h2 h4xf2 
+11. e1xg3 b6-a5 12. d4xb6 a5xc7 13. a3-b4 a7-b6 14. b4-a5 g7-f6 15. g3-h4 
+f6-e5 16. c1-b2 e5xg3 17. h2xf4 d6-e5 18. f4xd6 c7xe5 19. a5xc7 b8xd6 20. 
+e3-d4 h6-g5 21. h4xf6 e5xg7 22. d4-c5 d6xb4 23. c3xa5 d8-c7 24. b2-c3 g7-f6 
+25. d2-e3 f6-g5 26. c3-d4 c7-d6 27. a5-b6 d6-c5 28. b6-c7 g5-f4 1-1
+
+[White "Николаева Виктория"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. d2-e3 a7-b6 10. b2-c3 e7-d6 
+11. e3-d4 f8-g7 12. d4xf6 g7xe5 13. g3-h4 b6-c5 14. g1-f2 c7-b6 15. f2-g3 
+c5-d4 16. c1-d2 d4xb2 17. a3xc1 b6-c5 18. b4-a5 h8-g7 19. d2-e3 g7-f6 20. 
+e3-f4 c5-d4 21. c1-b2 b8-c7 22. h4-g5 f6xf2 23. e1xg3 c7-b6 24. a5xc7 d8xb6 
+25. g3-h4 e5xg3 26. h2xf4 b6-a5 27. b2-a3 d6-c5 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "2-0"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. d2-e3 f6-e5 8. c1-d2 e7-d6 9. b4-c5 d6xb4 10. c3xa5 g7-f6 
+11. b2-c3 f6-g5 12. g3-f4 e5xg3 13. h2xf4 c7-d6 14. c3-b4 h8-g7 15. b4-c5 
+d6xb4 16. a5xc3 g7-f6 17. c3-d4 b8-c7 18. d2-c3 c7-d6 19. c3-b4 d8-e7 20. 
+e1-d2 f8-g7 21. d2-c3 g5-h4 22. b4-a5 d6-c5 23. d4xb6 a7xc5 24. c3-d4 c5-b4 
+25. a5xc3 f6-g5 26. g1-f2 g7-f6 27. f4-e5 g5-f4 28. e5xg3 e7-d6 29. g3-f4 
+f6-g5 30. d4-e5 d6-c5 2-0
+
+[White "Барышева Анастасия"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. b4-c5 d6xb4 3. a3xc5 b6xd4 4. e3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. h2-g3 c5-b4 8. g3-f4 f8-e7 9. b2-c3 b6-a5 10. f2-e3 a7-b6 
+11. g1-f2 g7-f6 12. e5xg7 h6xf8 13. c3-d4 b6-c5 14. d4xb6 a5xc7 15. a1-b2 
+b4-a3 16. e3-d4 c7-b6 17. d4-e5 b6-c5 18. f2-g3 h8-g7 19. g3-h4 e7-f6 20. 
+d2-c3 f6xd4 21. c3xe5 d8-e7 22. e1-d2 b8-c7 23. h4-g5 e7-f6 24. g5xe7 f8xd6 
+0-2
+
+[White "Федорович Дарья"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. b2-c3 e7-d6 3. e3-f4 f8-e7 4. a1-b2 b6-c5 5. d4xb6 c7xa5 
+6. f2-e3 f6-g5 7. a3-b4 a7-b6 8. e1-f2 b6-c5 9. e3-d4 g5xe3 10. d4xb6 a5xc7 
+11. f2xf6 g7xe5 12. d2-e3 e5-f4 13. e3xg5 h6xf4 14. g3xe5 d6xf4 15. g1-f2 
+h8-g7 16. c1-d2 e7-d6 17. f2-g3 b8-a7 18. g3xe5 d6xf4 19. d2-e3 f4xd2 20. 
+c3xe1 a7-b6 21. h2-g3 c7-d6 22. b2-a3 d6-e5 23. e1-d2 d8-c7 24. d2-e3 g7-f6 
+25. e3-f4 c7-d6 26. g3-h4 e5xg3 27. h4xf2 f6-g5 28. b4-a5 b6-c5 29. f2-e3 
+d6-e5 30. a3-b4 c5xa3 31. a5-b6 1-1
+
+[White "Спирина Александра"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-e5 2. c3-b4 e5-f4 3. e3xg5 h6xf4 4. b2-c3 b6-c5 5. b4-a5 d6-e5 
+6. c3-b4 c7-d6 7. a1-b2 b8-c7 8. d2-e3 f4xd2 9. c1xe3 c7-b6 10. a5xc7 d8xb6 
+11. f2-g3 e5-d4 12. e1-d2 d4xf2 13. g3xe1 b6-a5 14. b2-c3 e7-f6 15. d2-e3 
+g7-h6 16. h2-g3 f8-g7 17. e3-f4 f6-g5 18. h4xf6 g7xe5 19. g3-h4 e5xg3 20. 
+h4xf2 h8-g7 21. f2-g3 g7-f6 22. g3-f4 a7-b6 23. e1-d2 d6-e5 24. f4xd6 c5xe7 
+25. d2-e3 e7-d6 26. g1-f2 1-1
+
+[White "Макаревич Эмма"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.1"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 h6-g5 2. g3-h4 g7-h6 3. f2-g3 d6-e5 4. g1-f2 e5xc3 5. d2xb4 b6-a5 
+6. c1-d2 a5xc3 7. b2xd4 c7-b6 8. a1-b2 b6-c5 9. d4xb6 a7xc5 10. d2-c3 f8-g7 
+11. c3-d4 b8-a7 12. d4xb6 a7xc5 13. b2-c3 g5-f4 14. e3xg5 h6xf4 15. g3xe5 
+f6xb2 16. a3xc1 g7-f6 17. f2-e3 h8-g7 18. e1-d2 d8-c7 19. d2-c3 c5-b4 20. 
+c3xa5 c7-b6 21. a5xc7 e7-d6 22. c7xe5 f6xf2 23. h4-g5 f2-e1 24. g5-h6 g7-f6 
+25. c1-b2 e1-h4 26. b2-c3 1-1
+
+[White "Хващинская Вера"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. b2-c3 g5-h4 3. c3-b4 b6-a5 4. d4-c5 a5xc3 5. d2xb4 g7-f6 
+6. b4-a5 d6xb4 7. a5xc3 a7-b6 8. c3-d4 b6-a5 9. g3-f4 f6-g5 10. a1-b2 h8-g7 
+11. b2-c3 c7-b6 12. f4-e5 g7-f6 13. e5xg7 g5-f4 14. e3xg5 h4xh8 15. h2-g3 
+e7-d6 16. g3-f4 h8-g7 17. c1-d2 g7-f6 18. d2-e3 f8-e7 19. f2-g3 b8-a7 20. 
+g1-h2 b6-c5 21. d4xb6 a7xc5 22. e1-d2 c5-b4 23. a3xc5 d6xb4 24. g3-h4 d8-c7 
+25. f4-g5 h6xf4 26. e3xg5 c7-b6 27. g5-h6 1-1
+
+[White "Чеснокова Мария"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. d2-e3 e7-d6 10. b2-c3 a7-b6 
+11. b4-a5 h8-g7 12. e3-f4 g7-f6 13. e1-d2 b6-c5 14. d2-e3 f8-e7 15. c1-d2 
+f6-g5 16. g3-h4 e5xg3 17. h4xf2 d6-e5 18. c3-b4 e7-d6 19. f2-g3 e5-f4 20. 
+g3xe5 d6xf4 21. b4xd6 c7xe5 22. g1-f2 d8-c7 23. a3-b4 c7-b6 24. a5xc7 b8xd6 
+25. b4-a5 d6-c5 26. f2-g3 c5-b4 27. a5xc3 g5-h4 28. e3xg5 h6xf4 29. c3-b4 
+h4xf2 30. d2-e3 f4xd2 31. h2-g3 f2xh4 32. b4-a5 e5-d4 33. a5-b6 d4-c3 34. 
+b6-c7 c3-b2 35. c7-b8 b2-a1 0-2
+
+[White "Лазовик Яна"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. b2-c3 g7-f6 3. c3-b4 b6-a5 4. d4-c5 a5xc3 5. d2xb4 g5-h4 
+6. b4-a5 d6xb4 7. a5xc3 a7-b6 8. c3-d4 b6-a5 9. a1-b2 h8-g7 10. b2-c3 e7-d6 
+11. g3-f4 d8-e7 12. c1-d2 c7-b6 13. f4-g5 h6xf4 14. e3xg5 g7-h6 15. f2-e3 
+h6xf4 16. e3xg5 b8-a7 17. g1-f2 b6-c5 18. d4xb6 a7xc5 19. g5-h6 f6-e5 20. 
+f2-g3 h4xf2 21. e1xg3 c5-d4 22. g3-h4 d4xb2 23. a3xc1 e5-d4 24. h2-g3 a5-b4 
+25. d2-e3 d4xf2 26. g3xe1 e7-f6 27. c1-b2 b4-a3 28. b2-c3 d6-e5 29. e1-d2 
+e5-f4 30. c3-d4 a3-b2 31. d4-c5 b2-a1 32. c5-b6 a1-e5 33. d2-c3 e5xb2 34. 
+b6-c7 f4-e3 35. c7-b8 e3-d2 36. b8-f4 d2-e1 37. f4-c7 e1-f2 38. c7-f4 f2-g1 
+39. f4-g5 f6-e5 40. g5-c1 b2-a1 41. c1-a3 g1-b6 42. a3-c1 b6-d8 43. c1-g5 
+a1-c3 44. g5-e3 e5-f4 45. e3xg5 0-2
+
+[White "Якубович Яна"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 g7-f6 3. b2-c3 b6-c5 4. b4-a5 g5-h4 5. c3-d4 h8-g7 
+6. d4xb6 a7xc5 7. a1-b2 b8-a7 8. f4-g5 h6xf4 9. e3xg5 f6-e5 10. g5-h6 c7-b6 
+11. a5xc7 d6xb8 12. b2-c3 e7-d6 13. c3-b4 a7-b6 14. d2-c3 b6-a5 15. f2-g3 
+h4xf2 16. g1xe3 d8-c7 17. c3-d4 e5xc3 18. b4xd2 d6-e5 19. e3-d4 c5xe3 20. 
+d2xd6 c7xe5 21. h2-g3 e5-d4 22. c1-b2 g7-f6 23. g3-f4 f6-g5 24. f4-e5 d4xf6 
+25. h6xf4 b8-c7 26. b2-c3 c7-d6 27. c3-d4 d6-c5 28. d4xb6 a5xc7 29. a3-b4 
+c7-d6 30. e1-f2 f6-e5 31. f2-g3 e5-d4 32. g3-h4 d6-c5 33. b4xd6 d4-c3 1-1
+
+
+[White "Козлова Полина"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. b2-c3 a7-b6 10. d2-e3 e7-d6 
+11. e3-f4 h8-g7 12. b4-a5 g7-f6 13. c3-b4 f6-g5 14. e1-f2 g5xe3 15. f2xf6 
+d6-c5 16. b4xd6 c7xg7 17. a5xc7 b8xd6 18. g3-f4 g7-f6 19. c1-d2 f8-e7 20. 
+h2-g3 f6-g5 21. d2-e3 d6-c5 22. g3-h4 e7-f6 23. g1-h2 c5-d4 24. e3xc5 g5xe3 
+25. c5-b6 e3-d2 26. b6-a7 1-1
+
+[White "Курцова Ирина"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "5.2"]
+[Date "2016.5.26"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 e5-f4 5. b2-c3 h8-g7 
+6. c3-d4 g5-h4 7. e3xg5 h4xf6 8. d2-e3 b6-c5 9. d4xb6 a7xc5 10. e3-d4 c5xe3 
+11. f2xd4 d6-c5 12. d4xb6 b8-a7 13. a1-b2 a7xc5 14. b2-c3 f6-e5 15. c1-d2 
+g7-h6 16. c3-b4 c7-d6 17. d2-e3 h6-g5 18. e3-d4 e5xc3 19. b4xd2 d8-c7 20. 
+d2-e3 g5-h4 21. e3-f4 f8-g7 22. h2-g3 h4xf2 23. e1xg3 e7-f6 24. g3-h4 g7-h6 
+25. g1-h2 c5-d4 26. a3-b4 h6-g5 27. f4xh6 d4-e3 28. h2-g3 2-0
+
+[White "Чеснокова Мария"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. f2-e3 f6-g5 5. c1-d2 f8-e7 
+6. g1-f2 e7-f6 7. g3-h4 b6-c5 8. d2-c3 d6-e5 9. f4xd6 c5xe7 10. h2-g3 e7-d6 
+11. b4-a5 d6-c5 12. e1-d2 c5-d4 13. c3xe5 f6xd4 14. e3xc5 g5-f4 15. g3xe5 
+c7-b6 16. a5xc7 d8xf6 17. d2-e3 b8-c7 18. f2-g3 c7-d6 19. b2-c3 a7-b6 20. 
+a1-b2 1-1
+
+[White "Хващинская Вера"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 h6-g5 2. g3-h4 d6-e5 3. a3-b4 g7-h6 4. b4-a5 g5-f4 5. f2-g3 e7-d6 
+6. c3-b4 e5xc3 7. g3xg7 h8xf6 8. b2xd4 b6-c5 9. d4xb6 a7xa3 10. h2-g3 d6-c5 
+11. d2-e3 f6-e5 12. g3-f4 e5xg3 13. h4xf2 f8-e7 14. a1-b2 c7-b6 15. a5xc7 
+d8xb6 16. b2-c3 b6-a5 17. f2-g3 e7-f6 18. g3-h4 b8-c7 19. e1-d2 c5-b4 20. 
+g1-h2 c7-d6 21. h2-g3 d6-e5 22. g3-f4 e5xg3 23. h4xf2 f6-e5 24. f2-g3 e5-d4 
+25. e3xc5 b4xd6 26. d2-e3 d6-c5 27. g3-f4 c5-b4 28. c3-d4 b4-c3 29. d4xb2 
+a5-b4 30. f4-e5 2-0
+
+[White "Лазовик Яна"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 g7-f6 3. b2-c3 d6-e5 4. f4xd6 c7xe5 5. b4-a5 b8-c7 
+6. e3-f4 e5xg3 7. h2xf4 g5xe3 8. d2xf4 e7-d6 9. a1-b2 h8-g7 10. c3-d4 b6-c5 
+11. d4xb6 a7xc5 12. f2-e3 f8-e7 13. c1-d2 f6-g5 14. d2-c3 c5-b4 15. a3xc5 
+d6xd2 16. e3xc1 g5xe3 17. e1-f2 e3-d2 18. c1xe3 c7-b6 19. a5xc7 d8xb6 20. 
+e3-d4 e7-d6 21. f2-e3 g7-f6 22. g1-f2 h6-g5 23. b2-a3 b6-a5 24. d4-c5 d6xb4 
+25. a3xc5 f6-e5 26. f2-g3 1-1
+
+[White "Спирина Александра"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. a3-b4 h6-g5 4. e3-d4 e7-f6 5. b4-a5 g5-h4 
+6. d2-e3 f6-g5 7. d4xf6 g5xe7 8. h2-g3 h8-g7 9. c3-d4 g7-f6 10. b2-c3 d6-c5 
+11. a1-b2 c5-b4 12. e1-d2 b4-a3 13. d4-c5 b6xd4 14. c3xg7 f8xh6 15. b2-c3 
+c7-d6 16. g3-f4 d6-c5 17. a5-b6 c5-b4 18. c3xa5 a7xc5 19. f4-e5 e7-f6 20. 
+e5xg7 h6xf8 21. d2-c3 b8-c7 22. e3-f4 c7-b6 23. a5xc7 d8xb6 24. f2-e3 b6-a5 
+25. g1-f2 f8-g7 26. c3-d4 a5-b4 27. d4xb6 b4-c3 28. b6-c7 c3-b2 29. f4-e5 
+g7-h6 30. c7-d8 h6-g5 2-0
+
+[White "Курцова Ирина"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 f6-g5 2. g3-h4 d6-c5 3. h4xf6 c5xe3 4. f2xd4 g7xe5 5. d4xf6 e7xg5 
+6. a3-b4 h8-g7 7. g1-f2 f8-e7 8. f2-g3 g5-h4 9. g3-f4 e7-d6 10. f4-e5 d6xf4 
+11. b4-c5 b6xd4 12. c3xg3 h4xf2 13. e1xg3 g7-f6 14. b2-c3 c7-d6 15. a1-b2 
+d8-c7 16. d2-e3 a7-b6 17. g3-h4 b6-c5 18. h2-g3 f6-e5 19. g3-f4 e5xg3 20. 
+h4xf2 d6-e5 21. f2-g3 c7-d6 22. e3-f4 b8-c7 23. c1-d2 h6-g5 24. f4xh6 e5-d4 
+25. c3xe5 d6xh2 26. h6-g7 h2-g1 27. g7-h8 c7-b6 1-1
+
+[White "Козлова Полина"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. f2-e3 f6-g5 5. g3-h4 b6-c5 
+6. h4xf6 e7xg5 7. e3-d4 c5xe3 8. f4xd2 a7-b6 9. b2-c3 b6-c5 10. d2-e3 g5-f4 
+11. e3xg5 h6xf4 12. e1-f2 h8-g7 13. f2-e3 f4xd2 14. c3xe1 g7-f6 15. a1-b2 
+f8-g7 16. c1-d2 g7-h6 17. b2-c3 f6-e5 18. g1-f2 d8-e7 19. f2-g3 c5-d4 20. 
+g3-f4 d4xb2 21. a3xc1 e5xg3 22. h2xf4 e7-f6 23. b4-c5 d6xb4 24. f4-e5 f6xd4 
+25. d2-c3 d4xb2 26. c1xc5 h6-g5 27. e1-d2 g5-f4 28. d2-c3 f4-e3 29. c3-d4 
+c7-b6 30. d4xf2 b6xd4 31. f2-g3 d4-c3 32. g3-f4 c3-b2 33. f4-e5 b2-a1 34. 
+e5-d6 a1-f6 0-2
+
+[White "Барышева Анастасия"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-d4 f6-g5 2. c3-b4 d6-c5 3. b4xd6 e7xe3 4. f2xd4 c7-d6 5. b2-c3 g5-h4 
+6. d4-e5 d6xf4 7. g3xe5 f8-e7 8. a3-b4 g7-f6 9. e5xg7 h6xf8 10. a1-b2 h8-g7 
+11. d2-e3 g7-f6 12. e1-f2 b6-a5 13. b4-c5 f6-e5 14. h2-g3 e7-f6 15. b2-a3 
+f8-g7 16. e3-d4 g7-h6 17. c3-b4 e5xc3 18. b4xd2 f6-e5 19. d2-c3 d8-e7 20. 
+c1-d2 h6-g5 21. d2-e3 e5-d4 22. c3xe5 g5-f4 23. e3xg5 h4xb6 24. g3-f4 b6-c5 
+0-2
+
+[White "Николаева Виктория"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-e3 7. e5xg7 h8xf6 8. f2xd4 h6-g5 9. c1-d2 g5-h4 10. g1-f2 c7-d6 
+11. f2-e3 h4xf2 12. e3xg1 a7-b6 13. d2-e3 b6-a5 14. h2-g3 a5-b4 15. b2-a3 
+d6-e5 16. a3xc5 e5xc3 17. g3-f4 d8-c7 18. g1-f2 c7-d6 19. c5-b6 d6-e5 20. 
+f4xd6 e7xa7 21. e3-f4 f8-g7 22. f2-e3 b8-c7 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. a3-b4 b6-c5 4. b2-a3 e5-f4 5. e3xg5 h6xf4 
+6. b4-a5 h8-g7 7. c3-b4 e7-f6 8. a1-b2 g7-h6 9. f2-g3 f6-e5 10. e1-f2 a7-b6 
+11. f2-e3 h6-g5 12. d2-c3 f4xd2 13. c3xe1 g5-h4 14. g3-f4 e5xg3 15. h2xf4 
+f8-g7 16. g1-f2 d6-e5 17. f4xd6 c5xe7 18. c1-d2 g7-f6 19. f2-g3 h4xf2 20. 
+e1xg3 f6-g5 21. g3-h4 g5-f4 22. b2-c3 e7-d6 23. d2-e3 f4xd2 24. c3xe1 d6-c5 
+25. b4xd6 c7xe5 26. a5xc7 b8xd6 27. a3-b4 d8-e7 28. h4-g5 e5-d4 29. e1-f2 
+d6-e5 1-1
+
+[White "Макаревич Эмма"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. g3-h4 g5xe3 3. d2xf4 g7-f6 4. f2-e3 b6-a5 5. c1-d2 f6-g5 
+6. h4xf6 e7xg5 7. c3-b4 a5xc3 8. b2xd4 a7-b6 9. a3-b4 g5-h4 10. b4-a5 h8-g7 
+11. a1-b2 f8-e7 12. g1-f2 d6-c5 13. b2-a3 g7-f6 14. f2-g3 h4xf2 15. e1xg3 
+f6-g5 16. g3-h4 b8-a7 17. h4xf6 e7xg5 18. d2-c3 d8-e7 19. c3-b4 e7-d6 20. 
+d4-e5 g5-h4 21. e5-f6 h4-g3 22. f6-e7 g3xe5 23. e3-f4 d6xf8 24. b4xb8 e5xg3 
+25. h2xf4 b6-c5 26. b8-e5 f8-e7 2-0
+
+[White "Якубович Яна"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 h6-g5 2. g3-h4 d6-e5 3. a3-b4 b6-a5 4. b2-a3 g7-h6 5. b4-c5 g5-f4 
+6. f2-e3 c7-d6 7. e3xg5 d6xb4 8. a3xc5 h6xf4 9. e1-f2 a7-b6 10. c5xa7 a5-b4 
+11. c3xa5 e5xg3 12. h4xf2 d8-c7 13. a1-b2 h8-g7 14. b2-c3 f6-e5 15. c3-b4 
+g7-h6 16. c1-d2 e5-d4 17. b4-c5 d4xb6 18. a7xc5 e7-d6 19. c5xe7 f8xd6 20. 
+f2-g3 h6-g5 21. g3xe5 d6xf4 22. g1-f2 g5-h4 23. f2-e3 c7-d6 24. e3xg5 h4xf6 
+25. d2-e3 d6-c5 26. e3-f4 1-1
+
+[White "Федорович Дарья"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "6.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. h2-g3 e5-d4 3. e3xc5 b6xd4 4. c3xe5 h6-g5 5. f4xh6 d6xh2 
+6. d2-e3 e7-d6 7. a3-b4 a7-b6 8. b2-a3 b6-c5 9. c1-d2 c7-b6 10. b4-a5 d6-e5 
+11. a5xc7 d8xb6 12. a1-b2 b8-a7 13. b2-c3 c5-d4 14. e3xc5 b6xb2 15. a3xc1 
+a7-b6 16. f2-e3 g7-f6 17. e1-f2 b6-c5 2-0
+
+[White "Чеснокова Мария"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. f2-e3 f6-g5 5. c1-d2 b6-a5 
+6. f4-e5 d6xf4 7. g3xe5 a5xc3 8. b2xd4 f8-e7 9. g1-f2 a7-b6 10. a1-b2 g5-h4 
+11. a3-b4 e7-d6 12. b4-c5 d6xf4 13. c5xa7 c7-d6 14. e3xg5 h4xf6 15. d4-c5 
+d6xb4 16. b2-a3 d8-c7 17. a3xc5 h6-g5 18. d2-e3 g5-h4 19. e3-d4 g7-h6 20. 
+e1-d2 h8-g7 21. d2-c3 h6-g5 22. h2-g3 g7-h6 23. c3-b4 c7-b6 24. b4-a5 f6-e5 
+25. a5xc7 b8xb4 26. d4xf6 g5xe7 27. a7-b8 1-1
+
+[White "Николаева Виктория"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 h6-g5 8. b2-c3 a7-b6 9. d2-e3 g5-f4 10. g3xe5 b6-c5 
+11. b4xd6 e7xc5 12. d4xb6 f6xb2 13. c1-d2 c7xa5 14. a3xc1 b8-c7 15. d2-c3 
+c7-d6 16. h2-g3 g7-f6 17. g3-f4 d8-c7 18. c3-d4 c7-b6 19. e1-d2 h8-g7 20. 
+g1-f2 b6-c5 21. d4xb6 a5xc7 22. e3-d4 c7-b6 23. c1-b2 g7-h6 24. b2-a3 d6-c5 
+25. f2-e3 f8-e7 26. d2-c3 b6-a5 27. d4xb6 a5xc7 28. c3-d4 f6-g5 29. a3-b4 
+g5-h4 30. d4-c5 e7-f6 31. e3-d4 h6-g5 32. f4xh6 h4-g3 33. b4-a5 g3-h2 34. 
+c5-b6 c7-d6 35. b6-a7 d6-e5 36. d4-c5 h2-g1 37. c5-b6 e5-d4 38. b6-c7 d4-c3 
+39. c7-d8 f6-e5 40. h6-g7 c3-b2 1-1
+
+[White "Дагиль Елизавета"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 h6-g5 8. d2-e3 g7-h6 9. b4-a5 g5-h4 10. g1-f2 f6-g5 
+11. a3-b4 h8-g7 12. b2-a3 g7-f6 13. c1-b2 c7-b6 14. a5xc7 d8xb6 15. b4-c5 
+e7-d6 16. c5xe7 f8xd6 17. d4-c5 b6xd4 18. e3xe7 f6xd8 19. b2-c3 d8-e7 20. 
+c3-d4 b8-c7 21. f2-e3 h4xf2 22. e1xg3 c7-b6 23. g3-f4 e7-d6 24. d4-e5 d6-c5 
+25. e5-d6 c5xe7 26. a3-b4 e7-d6 27. h2-g3 b6-c5 28. g3-h4 c5xa3 29. h4xf6 
+a3-b2 30. e3-d4 b2-a1 31. d4-c5 d6xb4 32. f6-e7 b4-a3 33. e7-d8 a1-h8 34. 
+d8-h4 a3-b2 35. h4-g3 b2-a1 36. g3-h2 a1-f6 37. h2-g1 f6-e7 0-2
+
+[White "Якубович Яна"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. e3-d4 f6-e5 4. d4xf6 e7xg5 5. g3-f4 g5xe3 
+6. f2xd4 d6-e5 7. d4xf6 g7xe5 8. d2-e3 c7-d6 9. c3-d4 e5xc3 10. b4xd2 h6-g5 
+11. a1-b2 h8-g7 12. b2-c3 g5-h4 13. e3-f4 b6-c5 14. e1-f2 d8-e7 15. f2-g3 
+h4xf2 16. g1xe3 g7-f6 17. h2-g3 f8-g7 18. g3-h4 g7-h6 19. c3-d4 b8-a7 20. 
+d4xb6 a7xc5 21. f4-g5 h6xf4 22. e3xg5 d6-e5 23. g5-h6 c5-d4 24. h4-g5 f6xh4 
+25. h6-g7 h4-g3 26. g7-f8 e7-f6 27. f8-h6 g3-h2 28. h6-f8 h2-g1 29. f8-h6 
+g1-h2 30. h6-f8 d4-c3 31. d2xb4 a5xc3 32. f8-c5 h2-g1 33. c5-f8 c3-b2 34. 
+f8-h6 b2-a1 35. c1-d2 g1-d4 36. h6-f8 e5-f4 0-2
+
+[White "Макаревич Эмма"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. h2-g3 e5-d4 3. c3xe5 h6-g5 4. f4xh6 d6xh2 5. a3-b4 g7-f6 
+6. b2-c3 c7-d6 7. b4-a5 b8-c7 8. c3-d4 d6-e5 9. c1-b2 e5xc3 10. b2xd4 b6-c5 
+11. d4xb6 a7xc5 12. d2-c3 c7-b6 13. a5xc7 d8xb6 14. e3-d4 c5xe3 15. f2xd4 
+b6-a5 16. a1-b2 e7-d6 17. b2-a3 d6-e5 18. d4-c5 f8-e7 19. e1-f2 e5-f4 20. 
+h6-g7 f6-e5 21. g7-f8 e7-f6 22. f8-h6 f6-g5 23. c5-b6 a5xc7 24. f2-e3 f4xb4 
+25. h6xb8 b4-c3 26. b8-e5 c3-d2 27. e5-c3 d2xb4 28. a3xc5 h8-g7 2-0
+
+[White "Барышева Анастасия"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. b4-c5 b6xd4 3. e3xc5 d6xb4 4. c3xa5 h6-g5 5. g3-h4 g5-f4 
+6. b2-a3 a7-b6 7. a1-b2 b6-c5 8. b2-c3 e7-d6 9. c3-b4 f8-e7 10. f2-g3 g7-f6 
+11. g1-f2 h8-g7 12. f2-e3 g7-h6 13. e3xg5 h6xf4 14. d2-e3 f4xd2 15. c1xe3 
+e5-d4 16. e3-f4 f6-e5 17. f4-g5 e7-f6 18. g5xe7 d8xf6 19. g3-f4 e5xg3 20. 
+h4xf2 f6-g5 21. h2-g3 g5-h4 22. e1-d2 d6-e5 23. b4xf4 d4-e3 24. f2xd4 h4xf2 
+1-1
+
+[White "Козлова Полина"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. h2-g3 e5-d4 3. c3xe5 h6-g5 4. f4xh6 d6xh2 5. a3-b4 b6-c5 
+6. b4xd6 e7xc5 7. b2-c3 c7-d6 8. c3-d4 a7-b6 9. a1-b2 d8-e7 10. b2-a3 g7-f6 
+11. d2-c3 b8-a7 12. c3-b4 b6-a5 13. d4xb6 a7xc5 14. c1-d2 a5xc3 15. d2xb4 
+f6-e5 16. e1-d2 h8-g7 17. d2-c3 g7-f6 18. e3-d4 c5xe3 19. f2xd4 e5-f4 20. 
+d4-c5 f4-g3 21. c5-b6 g3-f2 22. g1xe3 h2-g1 23. b6-a7 g1xa1 24. a7-b8 d6-c5 
+25. b4xd6 e7xc5 26. b8-a7 a1-d4 27. a7-b8 d4-g1 28. b8-g3 g1-h2 29. g3-e1 
+c5-d4 30. e1-h4 f6-e5 31. a3-b4 d4-e3 32. b4-c5 e3-d2 33. c5-b6 d2-e1 34. 
+h4-d8 e5-d4 35. b6-a7 h2-b8 36. d8-h4 e1-b4 37. h4-d8 b4-a5 38. d8-f6 a5-c3 
+39. f6-g5 c3-b2 40. g5-c1 b2-a3 41. c1-g5 d4-c3 42. g5-f6 a3-b2 43. f6-g5 
+b2-c1 44. g5-f6 c3-d2 45. f6-h8 d2-e1 46. h8-a1 e1-g3 47. a1-h8 g3-h2 48. 
+h8-a1 c1-d2 49. a1-h8 h2-g1 50. h8-a1 f8-e7 51. a1-h8 d2-b4 52. h6-g7 1-1
+
+
+[White "Федорович Дарья"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. f2-e3 b6-a5 5. b4-c5 d6xb4 
+6. a3xc5 f8-g7 7. e3-d4 f6-g5 8. e1-d2 g5xe3 9. d2xf4 g7-f6 10. f4-e5 c7-b6 
+11. e5xg7 h6xf8 12. g3-f4 h8-g7 13. h2-g3 e7-d6 14. c5xe7 f8xd6 15. b2-c3 
+b6-c5 16. d4xb6 a7xc5 17. g3-h4 g7-f6 18. a1-b2 d8-e7 19. f4-g5 b8-c7 20. 
+g5-h6 c5-b4 21. b2-a3 b4xd2 22. c1xe3 a5-b4 23. a3xc5 d6xb4 24. h4-g5 f6xh4 
+25. h6-g7 1-1
+
+[White "Курцова Ирина"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. g1-f2 h6-g5 8. c3-d4 g5-h4 9. b2-c3 f6-e5 10. d4xf6 g7xe5 
+11. d2-e3 e7-d6 12. c1-d2 a7-b6 13. b4-a5 b6-c5 14. c3-d4 e5xc3 15. d2xb4 
+h8-g7 16. g3-f4 g7-h6 17. e1-d2 f8-g7 18. d2-c3 g7-f6 19. c3-d4 d6-e5 20. 
+f4xd6 c7xc3 21. b4xd6 d8-c7 22. a3-b4 c7xe5 23. b4xd2 b8-c7 24. d2-c3 f6-g5 
+25. c3-b4 e5-f4 26. b4-c5 f4xd2 27. c5-b6 c7-d6 28. b6-a7 d2-c1 29. a5-b6 
+c1-b2 30. a7-b8 d6-c5 31. b6xd4 b2xh8 32. b8-c7 h4-g3 33. f2xf6 h8xb8 34. 
+h2-g3 b8xh2 0-2
+
+[White "Хващинская Вера"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. e3-d4 f6-e5 4. d4xf6 e7xg5 5. g3-f4 g5xe3 
+6. f2xd4 d6-e5 7. d4xf6 g7xe5 8. d2-e3 c7-d6 9. h2-g3 h6-g5 10. c3-d4 e5xc3 
+11. b4xd2 g5-h4 12. e3-f4 h4xf2 13. g1xe3 b6-c5 14. d2-c3 d8-e7 15. c1-b2 
+b8-a7 16. c3-b4 a5xc3 17. b2xb6 a7xc5 18. e1-f2 h8-g7 19. f2-g3 g7-f6 20. 
+g3-h4 c5-b4 21. a3xc5 d6xb4 22. e3-d4 e7-d6 23. d4-c5 f6-g5 24. h4xf6 b4-c3 
+25. c5xe7 f8xd6 1-1
+
+[White "Спирина Александра"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 f6-e5 2. b4-c5 b6xd4 3. e3xc5 d6xb4 4. c3xa5 h6-g5 5. g3-f4 g5xe3 
+6. d2xd6 e7xc5 7. f2-e3 g7-f6 8. h2-g3 f6-e5 9. g3-h4 h8-g7 10. e1-d2 c7-b6 
+11. a5xc7 b8xd6 12. b2-c3 f8-e7 13. g1-h2 d8-c7 14. e3-f4 e5xg3 15. h2xf4 
+e7-f6 16. f4-g5 g7-h6 17. g5xe7 d6xf8 18. d2-e3 f8-e7 19. a1-b2 e7-f6 20. 
+b2-a3 c7-d6 21. c3-b4 a7-b6 22. b4-a5 f6-e5 23. a5xc7 d6xb8 24. e3-f4 e5xg3 
+25. h4xf2 1-1
+
+[White "Лазовик Яна"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "7.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 h6-g5 8. b2-c3 g5-h4 9. b4-c5 h4xf2 10. g1xe3 c7-b6 
+11. e3-f4 g7-h6 12. f4-e5 b8-c7 13. e5xg7 h8xf6 14. c1-b2 f6-g5 15. c3-b4 
+b6-a5 16. b2-c3 g5-f4 17. e1-f2 c7-d6 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 b6-c5 2. d4xb6 a7xc5 3. g3-f4 f6-e5 4. d2-e3 e5xg3 5. h2xf4 e7-f6 
+6. c3-d4 f6-e5 7. d4xb6 e5xg3 8. f2xh4 c7xa5 9. b2-c3 g7-f6 10. c3-d4 d6-c5 
+11. d4xb6 a5xc7 12. a1-b2 f6-e5 13. e3-f4 e5xg3 14. h4xf2 h8-g7 15. b2-c3 
+g7-f6 16. c3-d4 c7-d6 17. a3-b4 d6-e5 18. d4-c5 h6-g5 19. b4-a5 d8-c7 20. 
+c5-b6 c7-d6 21. b6-a7 g5-h4 22. c1-d2 f8-g7 23. a5-b6 e5-f4 24. d2-e3 f4xd2 
+25. e1xc3 f6-e5 26. f2-g3 h4xf2 27. g1xe3 g7-h6 28. b6-c7 h6-g5 29. c7-d8 
+g5-h4 30. d8-c7 h4-g3 31. c3-d4 e5xc3 32. c7xa1 g3-h2 33. a1-d4 2-0
+
+[White "Чеснокова Мария"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. h2-g3 a7-b6 3. c3-d4 f6-g5 4. h4xf6 g7xc3 5. d2xb4 a5xc3 
+6. b2xd4 d6-c5 7. g3-f4 h8-g7 8. f2-g3 c7-d6 9. a1-b2 g7-f6 10. b2-c3 b6-a5 
+11. d4xb6 a5xc7 12. c1-d2 c7-b6 13. g3-h4 b6-c5 14. c3-d4 b8-c7 15. d4xb6 
+c7xa5 16. d2-c3 d6-c5 17. c3-d4 e7-d6 18. d4xb6 a5xc7 19. e1-d2 d6-c5 20. 
+d2-c3 f8-e7 21. c3-d4 e7-d6 22. d4xb6 c7xa5 23. e3-d4 d6-c5 24. d4xb6 a5xc7 
+25. a3-b4 1-1
+
+[White "Козлова Полина"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 h6-g5 2. g3-f4 g5-h4 3. b4-c5 d6xb4 4. a3xc5 b6xd4 5. e3xc5 g7-h6 
+6. b2-c3 h8-g7 7. a1-b2 f6-g5 8. f2-e3 e7-d6 9. c5xe7 f8xd6 10. g1-f2 g7-f6 
+11. b2-a3 f6-e5 12. c3-d4 e5xc3 13. d2xb4 a7-b6 14. c1-d2 d8-e7 15. b4-a5 
+e7-f6 16. d2-c3 f6-e5 17. h2-g3 b6-c5 18. e1-d2 b8-a7 19. c3-b4 e5-d4 20. 
+d2-c3 d4xb2 21. a3xc1 c5xa3 22. c1-d2 d6-c5 23. d2-c3 c5-b4 0-2
+
+[White "Спирина Александра"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-e3 7. e5xg7 h8xf6 8. f2xd4 h6-g5 9. b2-c3 e7-d6 10. g1-f2 g5-h4 
+11. f2-e3 h4xf2 12. e3xg1 d6-c5 13. d4xb6 a7xc5 14. g1-f2 f6-e5 15. f2-e3 
+c7-d6 16. c1-b2 b8-a7 17. c3-d4 e5xc3 18. b2xb6 a7xc5 19. a1-b2 d6-e5 20. 
+b2-c3 f8-e7 1-1
+
+[White "Лазовик Яна"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. e3-d4 f6-e5 4. d4xf6 e7xg5 5. g3-f4 g5xe3 
+6. f2xd4 d6-e5 7. d4xf6 g7xe5 8. d2-e3 c7-d6 9. c3-d4 a5xc3 10. d4xb2 e5-f4 
+11. e3xg5 h6xf4 12. g1-f2 h8-g7 13. f2-e3 f4xd2 14. c1xe3 g7-f6 15. b2-c3 
+d8-e7 16. e1-f2 b6-a5 17. c3-d4 d6-e5 18. a3-b4 e5xc3 19. b4xd2 a5-b4 20. 
+e3-d4 b4-a3 21. d4-c5 b8-c7 22. f2-e3 f6-g5 23. h2-g3 g5-h4 24. g3-f4 c7-d6 
+25. d2-c3 d6xd2 26. e3xc1 e7-f6 27. a1-b2 f6-g5 28. f4xh6 h4-g3 29. b2-c3 
+g3-f2 0-2
+
+[White "Курцова Ирина"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.1"]
+[Date "2016.5.28"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-d4 f6-e5 2. d4xf6 g7xe5 3. c3-b4 h8-g7 4. g3-h4 g7-f6 5. b4-a5 b6-c5 
+6. f2-g3 c5-d4 7. a3-b4 f6-g5 8. h4xf6 e5xg7 9. g3-h4 g7-f6 10. h2-g3 d4-e3 
+11. d2xf4 d6-e5 12. f4xd6 e7xa3 13. b2-c3 c7-d6 14. e1-d2 f6-e5 15. d2-e3 
+f8-e7 16. g1-h2 b8-c7 17. g3-f4 e5xg3 18. h2xf4 e7-f6 19. c3-d4 d6-c5 20. 
+d4xb6 a7xc5 21. a1-b2 c7-d6 22. b2-c3 f6-e5 23. c3-b4 e5xg3 24. h4xf2 d8-e7 
+25. f2-g3 e7-f6 26. e3-f4 f6-g5 27. f4-e5 d6xh2 28. b4xd6 h2-g1 29. d6-c7 
+g5-f4 30. c7-d8 f4-g3 31. c1-d2 g3-h2 32. d2-c3 0-2
+
+[White "Барышева Анастасия"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-h4 b6-a5 2. h2-g3 a7-b6 3. e3-f4 f6-g5 4. h4xf6 e7xe3 5. d2xf4 g7-f6 
+6. g3-h4 f6-e5 7. f2-e3 e5xg3 8. h4xf2 h8-g7 9. c3-b4 a5xc3 10. b2xd4 g7-f6 
+11. d4-c5 d6xb4 12. a3xa7 2-0
+
+[White "Хващинская Вера"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 h6-g5 2. g3-h4 d6-e5 3. a3-b4 g7-h6 4. b4-a5 g5-f4 5. f2-g3 b6-c5 
+6. d4xb6 a7xc5 7. b2-a3 h8-g7 8. c3-b4 c7-d6 9. g1-f2 b8-c7 10. a1-b2 c7-b6 
+11. a5xc7 d6xb8 12. b4xd6 e7xc5 13. f2-e3 d8-e7 14. e3xg5 h6xf4 15. d2-e3 
+f4xd2 16. c1xe3 c5-d4 17. e3xc5 e5-f4 18. g3xe5 f6xb6 19. b2-c3 g7-f6 20. 
+h2-g3 b6-c5 21. g3-f4 b8-c7 22. e1-d2 c7-b6 23. d2-e3 b6-a5 24. c3-d4 1-1
+
+
+[White "Николаева Виктория"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-d4 b6-c5 2. d4xb6 a7xc5 3. g3-f4 f6-e5 4. d2-e3 e5xg3 5. h2xf4 e7-f6 
+6. c3-d4 f6-e5 7. d4xb6 e5xg3 8. f2xh4 c7xa5 9. b2-c3 g7-f6 10. c3-d4 d6-c5 
+11. d4xb6 a5xc7 12. a1-b2 f6-e5 13. e3-f4 e5xg3 14. h4xf2 h8-g7 15. b2-c3 
+g7-f6 16. c3-d4 c7-d6 17. a3-b4 h6-g5 18. e1-d2 d6-e5 19. d2-c3 d8-c7 20. 
+c1-d2 f8-e7 21. g1-h2 b8-a7 22. f2-g3 c7-b6 23. d2-e3 e7-d6 24. g3-f4 e5xg3 
+25. h2xh6 b6-c5 26. d4xb6 a7xa3 27. e3-d4 d6-c5 28. d4xb6 f6-e5 29. h6-g7 
+e5-f4 30. g7-h8 f4-e3 31. c3-d4 e3xa7 32. h8-g7 2-0
+
+[White "Якубович Яна"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 h6-g5 8. b2-c3 g5-h4 9. d2-e3 h4xf2 10. e1xg3 f6-e5 
+11. d4xf6 g7xe5 12. g3-f4 e5xg3 13. h2xf4 h8-g7 14. c3-d4 c7-b6 15. b4-c5 
+g7-f6 16. c1-d2 f8-g7 17. g1-f2 g7-h6 18. d2-c3 f6-g5 19. c3-b4 e7-f6 20. 
+b4-a5 b8-c7 21. f2-g3 g5-h4 22. a3-b4 h4xf2 23. e3xg1 f6-g5 24. f4-e5 g5-h4 
+25. c5-d6 b6-c5 26. d6xb8 c5xa3 1-1
+
+[White "Федорович Дарья"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 b6-c5 3. b2-c3 g7-f6 4. b4-a5 g5-h4 5. c3-d4 h8-g7 
+6. d4xb6 a7xc5 7. a1-b2 f6-e5 8. b2-c3 e5xg3 9. h2xf4 g7-f6 10. c3-d4 b8-a7 
+11. d4xb6 a7xc5 12. c1-b2 f6-e5 13. b2-c3 e5xg3 14. c3-d4 c5-b4 15. a3xc5 
+d6xb4 16. a5xc3 g3-h2 17. e3-f4 e7-d6 18. c3-b4 c7-b6 19. f4-g5 h4xf6 20. 
+d4-c5 b6xd4 21. f2-g3 h2xf4 22. d2-e3 f4xd2 23. e1xg7 h6-g5 24. g7-h8 g5-f4 
+25. g1-f2 d8-c7 26. h8-c3 c7-b6 27. c3-b2 b6-c5 28. b4-a5 f8-e7 29. b2-g7 
+2-0
+
+[White "Макаревич Эмма"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "8.2"]
+[Date "2016.5.28"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. g3-h4 g5xe3 3. d2xf4 g7-f6 4. f2-e3 f6-g5 5. h4xf6 e7xg5 
+6. c1-d2 h8-g7 7. c3-b4 b6-c5 8. d2-c3 g7-f6 9. h2-g3 c7-b6 10. c3-d4 b6-a5 
+11. d4xb6 a5xc7 12. b4-c5 d6xb4 13. a3xc5 c7-d6 14. c5xe7 f8xd6 15. b2-c3 
+g5-h4 16. e3-d4 h4xf2 17. g1xe3 a7-b6 18. e1-f2 d8-c7 19. a1-b2 d6-e5 20. 
+f4xd6 c7xe5 21. f2-g3 h6-g5 22. g3-h4 1-1
+
+[White "Николаева Виктория"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-e3 7. f2xd4 h6-g5 8. g3-h4 f8-e7 9. g1-f2 a7-b6 10. d4-c5 b6xd4 
+11. e5xc3 g5-f4 12. e1-d2 g7-h6 13. f2-e3 f6-g5 14. h4xf6 e7xg5 15. c3-b4 
+h8-g7 16. d2-c3 f4xd2 17. c3xe1 c7-d6 18. b2-c3 g7-f6 19. c3-d4 d6-e5 20. 
+d4-c5 e5-f4 21. e1-f2 g5-h4 22. f2-e3 f4xd2 23. c1xe3 d8-c7 24. e3-d4 h6-g5 
+25. b4-a5 b8-a7 26. a5-b6 c7xa5 27. c5-d6 a7-b6 28. d4-e5 f6xd4 29. d6-e7 
+g5-f4 30. a1-b2 a5-b4 31. e7-d8 b4-a3 32. d8xa5 a3xc1 33. a5-b4 f4-e3 34. 
+b4-a3 e3-d2 35. a3-f8 d2-e1 36. f8-a3 d4-c3 37. a3-c5 c3-b2 38. c5-d4 b2-a1 
+39. d4-g1 h4-g3 40. h2xf4 0-2
+
+[White "Хващинская Вера"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-d4 h6-g5 2. g3-h4 g7-h6 3. d4-c5 b6xd4 4. e3xc5 d6xb4 5. a3xc5 g5-f4 
+6. b2-c3 f8-g7 7. c3-b4 f6-g5 8. h4xf6 g7xe5 9. a1-b2 h8-g7 10. b2-a3 e7-f6 
+11. f2-g3 c7-b6 12. g3-h4 b6xd4 13. d2-e3 f4xd2 14. c1xc5 e5-f4 15. g1-f2 
+b8-c7 16. e1-d2 f6-e5 17. h4-g5 d8-e7 18. g5xe3 e5-f4 19. e3xg5 h6xf4 20. 
+b4-a5 2-0
+
+[White "Якубович Яна"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+
+1. g3-f4 f6-e5 2. f2-g3 e7-f6 3. g3-h4 e5xg3 4. h4xf2 h6-g5 5. c3-d4 d6-c5 
+6. h2-g3 g5-h4 7. g3-f4 b6-a5 8. d4xb6 a7xc5 9. f4-g5 c7-d6 10. g5xe7 d8xf6 
+11. d2-c3 f6-e5 12. c3-b4 a5xc3 13. b2xb6 b8-a7 14. a1-b2 a7xc5 15. b2-c3 
+e5-f4 16. e3xg5 h4xf6 17. f2-e3 f6-e5 18. e1-f2 g7-f6 19. e3-d4 c5xe3 20. 
+f2xd4 e5-f4 21. c1-d2 d6-e5 22. d4-c5 f4-g3 23. c5-b6 e5-f4 24. b6-c7 f6-g5 
+25. c7-d8 g5-h4 26. a3-b4 g3-h2 27. d2-e3 f4xd2 28. c3xe1 h8-g7 29. d8-b6 
+g7-f6 30. b6-f2 2-0
+
+[White "Макаревич Эмма"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 g5-h4 5. a3-b4 e5-f4 
+6. e3xg5 h4xf6 7. d2-e3 f6-g5 8. h2-g3 g5-h4 9. b4-c5 b6xd4 10. e3xc5 d6xb4 
+11. a5xc3 h8-g7 12. c3-d4 e7-d6 13. b2-c3 g7-f6 14. a1-b2 d6-c5 15. d4xb6 
+a7xc5 16. c1-d2 c7-d6 17. d2-e3 f8-e7 18. b2-a3 b8-c7 19. e3-d4 c5xe3 20. 
+f2xd4 h4xf2 21. g1xe3 d6-e5 22. e1-f2 e5-f4 23. e3xg5 f6xh4 24. c3-b4 c7-b6 
+25. b4-a5 d8-c7 26. a3-b4 e7-d6 27. b4-c5 d6xb4 28. a5xc3 c7-d6 29. f2-e3 
+b6-a5 30. e3-f4 d6-c5 31. d4xb6 a5xc7 32. c3-d4 c7-d6 33. d4-e5 d6-c5 34. 
+e5-f6 c5-d4 35. f6-g7 h4-g3 36. f4xh2 1-1
+
+[White "Барышева Анастасия"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 d6xb4 5. a3xc5 b6xd4 
+6. f4-e5 d4-e3 7. e5xg7 h8xf6 8. f2xd4 e7-d6 9. b2-c3 a7-b6 10. g1-f2 b6-a5 
+11. f2-e3 c7-b6 12. a1-b2 d8-e7 13. b2-a3 b8-a7 14. g3-f4 d6-e5 15. f4xd6 
+e7xc5 16. e1-f2 f6-g5 17. h2-g3 f8-e7 18. g3-f4 g5-h4 19. c1-d2 h6-g5 20. 
+f4xh6 e7-f6 21. d4-e5 f6xb2 22. a3xc1 c5-b4 23. e3-d4 b4-a3 24. h6-g7 a5-b4 
+25. g7-h8 b6-a5 26. d2-e3 a7-b6 27. f2-g3 h4xf2 28. e3xg1 2-0
+
+[White "Федорович Дарья"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.1"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 b6-c5 3. b2-c3 g7-f6 4. b4-a5 g5-h4 5. c3-d4 h8-g7 
+6. d4xb6 a7xc5 7. a1-b2 b8-a7 8. f4-g5 h6xf4 9. e3xg5 f6-e5 10. g5-h6 c7-b6 
+11. a5xc7 d6xb8 12. b2-c3 e7-d6 13. c3-b4 a7-b6 14. b4-a5 b8-a7 15. a5xc7 
+d6xb8 16. d2-c3 d8-c7 17. c1-d2 c7-d6 18. f2-g3 h4xf2 19. g1xe3 a7-b6 20. 
+h2-g3 b6-a5 21. g3-h4 b8-c7 22. e1-f2 c7-b6 23. f2-g3 g7-f6 24. e3-f4 f6-g5 
+25. h4xd4 c5xc1 26. g3-h4 c1xg5 27. h4xf6 b6-c5 28. f6-g7 d6-e5 29. g7-h8 
+e5-f4 1-1
+
+[White "Курцова Ирина"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 b6xd4 5. f4-e5 d6xf4 
+6. g3xc3 e7-d6 7. h2-g3 a7-b6 8. c3-d4 f6-g5 9. b2-c3 h8-g7 10. a1-b2 g5-h4 
+11. g3-f4 d6-c5 12. f2-e3 g7-f6 13. g1-f2 f6-g5 14. f2-g3 h4xf2 15. e3xg1 
+c5xe3 16. f4xd2 b6-c5 17. c3-b4 c7-d6 18. b2-c3 f8-e7 19. d2-e3 g5-f4 20. 
+e3xg5 h6xf4 21. e1-f2 e7-f6 22. f2-e3 f4xd2 23. c1xe3 f6-e5 24. g1-h2 d8-e7 
+25. e3-f4 e5xg3 26. h2xf4 e7-f6 27. b4-a5 b8-c7 28. a3-b4 c5xa3 29. c3-d4 
+1-1
+
+[White "Лазовик Яна"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. b2-c3 e7-d6 3. e3-f4 f8-e7 4. f2-e3 b6-c5 5. d4xb6 a7xc5 
+6. g3-h4 e5xg3 7. h4xf2 f6-e5 8. c3-d4 e5xc3 9. d2xb4 e7-f6 10. a1-b2 f6-e5 
+11. e3-f4 e5xg3 12. h2xf4 g7-f6 13. b2-c3 c7-b6 14. b4-a5 h8-g7 15. a5xe5 
+f6xb2 16. f4-g5 h6xf4 17. f2-e3 f4xd2 18. e1xa1 g7-f6 19. c1-d2 c5-d4 20. 
+d2-c3 d4xb2 21. a1xc3 f6-e5 22. a3-b4 b8-c7 23. b4-c5 1-1
+
+[White "Чеснокова Мария"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-d4 d6-c5 3. b2-c3 g5-h4 4. c1-b2 g7-f6 5. c3-b4 f6-g5 
+6. b4xd6 e7xc5 7. d2-c3 h8-g7 8. c3-b4 g7-f6 9. b4xd6 c7xc3 10. b2xd4 b6-c5 
+11. d4xb6 a7xc5 12. a1-b2 f8-e7 13. b2-c3 e7-d6 14. c3-b4 f6-e5 15. b4-a5 
+e5xg3 16. h2xf4 d8-e7 17. e3-d4 g5xe3 18. d4xb6 b8-a7 19. f2xd4 a7xe3 20. 
+a5-b6 h4-g3 21. b6-a7 g3-f2 22. e1xg3 e3-d2 23. g3-h4 e7-f6 24. a7-b8 f6-e5 
+25. b8-a7 d2-c1 26. a7-b6 e5-f4 27. b6-d4 h6-g5 28. h4xf6 d6-e5 1-1
+
+[White "Спирина Александра"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+
+1. c3-b4 f6-g5 2. g3-f4 g7-f6 3. b2-c3 f6-e5 4. a1-b2 e5xg3 5. h2xf4 b6-c5 
+6. b4-a5 e7-f6 7. c3-b4 h8-g7 8. d2-c3 a7-b6 9. e3-d4 g5xe3 10. d4-e5 d6xf4 
+11. f2xd4 c5xe3 12. b4-c5 b6xd4 13. c3xg3 c7-d6 14. b2-c3 d6-e5 15. c3-b4 
+d8-c7 16. e1-f2 e5-d4 17. c1-b2 c7-b6 18. a5xc7 b8xd6 19. g3-h4 d6-c5 20. 
+b4xd6 d4-c3 21. b2xd4 e3xe7 22. a3-b4 e7-d6 23. f2-g3 f6-e5 24. g1-f2 g7-f6 
+25. f2-e3 e5-d4 26. e3xg5 h6xh2 0-2
+
+[White "Козлова Полина"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 b6-c5 4. f2-e3 g7-f6 5. b2-c3 c7-b6 
+6. g3-h4 b6-a5 7. g1-f2 f6-g5 8. h4xf6 e7xg5 9. f2-g3 g5-h4 10. e1-f2 h8-g7 
+11. c1-d2 d8-c7 12. a1-b2 a7-b6 13. f4-e5 d6xf4 14. g3xe5 c7-d6 15. e5xc7 
+b8xd6 16. h2-g3 g7-f6 17. e3-f4 f6-e5 18. d2-e3 f8-g7 0-2
+
+[White "Дагиль Елизавета"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "9.2"]
+[Date "2016.5.29"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. a3-b4 b6-a5 4. e3-d4 a7-b6 5. d4xf6 e7xg5 
+6. b2-a3 h8-g7 7. d2-e3 g5-h4 8. c1-b2 h6-g5 9. e3-d4 d8-e7 10. d4-e5 d6xf4 
+11. b4-c5 b6xd4 12. c3xg3 e7-d6 13. b2-c3 c7-b6 14. c3-b4 a5xc3 15. g3-f4 
+g5xe3 16. f2xb2 b6-c5 17. b2-c3 g7-f6 18. a1-b2 f6-e5 19. e1-f2 f8-e7 20. 
+c3-b4 e7-f6 21. b2-c3 f6-g5 22. b4-a5 b8-c7 23. c3-b4 e5-f4 24. f2-e3 f4xd2 
+25. h2-g3 h4xf2 26. g1xc1 g5-f4 27. c1-d2 c5-d4 28. b4-c5 d4xb6 29. d2-c3 
+b6-c5 30. a3-b4 c5xa3 31. c3-d4 f4-g3 0-2
+
+[White "Николаева Виктория"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. g3-f4 g7-f6 3. h2-g3 g5-h4 4. d4-c5 b6xd4 5. e3xc5 d6xb4 
+6. a3xc5 h8-g7 7. b2-c3 c7-d6 8. c3-b4 d8-c7 9. d2-e3 f6-g5 10. a1-b2 e7-f6 
+11. c5xe7 f6xd8 12. b2-c3 c7-b6 13. b4-a5 f8-e7 14. a5xc7 b8xd6 15. c3-b4 
+a7-b6 16. b4-a5 d6-c5 17. a5xc7 d8xb6 18. e1-d2 c5-b4 19. c1-b2 b4-a3 20. 
+f4-e5 a3xc1 1-1
+
+[White "Чеснокова Мария"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-b4 f6-e5 2. e3-f4 b6-a5 3. f2-e3 a5xc3 4. b2xf6 e7xg5 5. a1-b2 g5-h4 
+6. e3-d4 h4xf2 7. g1xe3 a7-b6 8. b2-c3 g7-f6 9. f4-e5 d6xf4 10. e3xe7 f8xd6 
+11. h2-g3 h8-g7 12. g3-h4 g7-f6 13. d2-e3 d6-e5 14. e1-f2 c7-d6 15. f2-g3 
+d6-c5 16. g3-f4 e5xg3 17. h4xf2 d8-c7 18. f2-g3 c7-d6 19. c3-b4 b6-a5 20. 
+d4xb6 a5xc7 21. b4-c5 d6xb4 22. a3xc5 1-1
+
+[White "Дагиль Елизавета"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. e3-f4 e5xg3 4. h2xf4 h8-g7 5. c3-b4 b6-c5 
+6. b2-c3 g7-f6 7. f2-e3 f6-e5 8. b4-a5 e5xg3 9. e3-d4 c5xe3 10. d2xh2 a7-b6 
+11. c3-d4 d6-c5 12. e1-f2 c5xe3 13. f2xd4 e7-d6 14. c1-d2 b8-a7 15. d2-e3 
+b6-c5 16. d4xb6 a7xc5 17. a1-b2 h6-g5 18. b2-c3 d6-e5 19. h2-g3 f8-e7 20. 
+c3-b4 c7-d6 21. g1-h2 e5-d4 22. g3-f4 d4xf2 23. f4xh6 e7-f6 0-2
+
+[White "Козлова Полина"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "0-2"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. a1-b2 d6-e5 4. e3-d4 h6-g5 5. g3-f4 g5xc5 
+6. b4xf4 b6-c5 7. d2-e3 c7-d6 8. f2-g3 b8-a7 9. e1-d2 g7-h6 10. g3-h4 f8-g7 
+11. h2-g3 f6-g5 12. h4xf6 e7xg5 13. g3-h4 g7-f6 14. c3-d4 d6-e5 15. d4xb6 
+a7xc5 16. f4xb4 a5xe1 17. g1-f2 e1xg3 18. h4xf2 f6-e5 19. a3-b4 g5-h4 20. 
+b4-c5 e5-f4 21. e3xg5 h6xf4 22. f2-e3 f4xd2 23. c1xe3 h4-g3 24. c5-b6 g3-h2 
+25. b6-a7 h2-g1 26. e3-f4 g1-h2 27. f4-g5 d8-e7 28. b2-c3 h2-b8 29. c3-d4 
+h8-g7 30. d4-e5 b8xh6 31. a7-b8 g7-f6 32. b8-h2 h6-e3 33. h2-c7 e3-f2 34. 
+c7-f4 f2-d4 35. f4-g3 f6-g5 36. g3-h2 e7-f6 37. h2-c7 d4-a7 38. c7-b8 g5-h4 
+39. b8-f4 a7-b8 40. f4-d2 b8-e5 41. d2-e1 e5-d4 42. e1-a5 h4-g3 43. a5-b4 
+g3-h2 44. b4-a5 f6-e5 45. a5-d2 h2-g1 0-2
+
+[White "Курцова Ирина"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 b6-c5 3. b2-c3 g7-f6 4. b4-a5 g5-h4 5. c3-d4 f6-g5 
+6. d4xb6 a7xc5 7. a1-b2 h8-g7 8. d2-c3 c5-b4 9. a3xc5 d6xd2 10. e1xc3 e7-d6 
+11. c3-d4 g7-f6 12. d4-c5 d6xb4 13. a5xc3 f6-e5 14. f4xd6 c7xe5 15. e3-d4 
+e5-f4 16. d4-c5 b8-c7 17. b2-a3 c7-d6 18. c5xe7 f8xd6 19. c3-b4 f4-e3 20. 
+f2xd4 h4-g3 21. h2xf4 g5xc5 22. c1-d2 h6-g5 23. g1-f2 g5-f4 24. d2-c3 d8-c7 
+25. f2-e3 f4xd2 26. c3xe1 c5-d4 27. e1-f2 d6-e5 28. f2-g3 c7-d6 29. b4-a5 
+d6-c5 30. a3-b4 c5xa3 31. a5-b6 d4-c3 32. g3-h4 c3-b2 33. h4-g5 b2-a1 34. 
+b6-c7 a3-b2 35. c7-b8 b2-c1 1-1
+
+[White "Спирина Александра"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.1"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. f2-e3 f6-g5 5. c1-d2 g5-h4 
+6. g1-f2 d8-e7 7. b2-c3 b6-a5 8. e3-d4 e7-f6 9. f2-e3 h4xf2 10. e1xg3 f6-g5 
+11. b4-c5 d6xb4 12. a3xc5 g5-h4 13. a1-b2 h4xf2 14. e3xg1 f8-e7 15. h2-g3 
+c7-d6 16. b2-a3 d6xb4 17. a3xc5 b8-c7 18. d2-e3 c7-d6 19. c3-b4 a5xe5 20. 
+g1-f2 d6xb4 21. f4xf8 b4-a3 22. g3-f4 g7-f6 23. f4-e5 f6xd4 24. e3xc5 a7-b6 
+25. c5xa7 a3-b2 1-1
+
+[White "Макаревич Эмма"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 h6-g5 2. g3-f4 g7-h6 3. d4-c5 b6xd4 4. e3xc5 d6xb4 5. a3xc5 g5xe3 
+6. f2xd4 f8-g7 7. g1-f2 f6-e5 8. d4xf6 g7xe5 9. b2-c3 c7-b6 10. c1-b2 b6xd4 
+11. d2-e3 h6-g5 12. e3xc5 b8-c7 13. f2-g3 c7-d6 14. g3-f4 e5xg3 15. h2xh6 
+d6xd2 16. e1xc3 e7-d6 17. c3-d4 d6-c5 18. d4xb6 a7xc5 19. b2-c3 d8-c7 20. 
+a1-b2 c7-b6 21. b2-a3 b6-a5 22. a3-b4 c5xa3 23. c3-d4 a3-b2 24. d4-e5 b2-c1 
+25. e5-d6 c1-a3 26. d6-c7 a3-e7 27. c7-d8 1-1
+
+[White "Хващинская Вера"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "2-0"]
+[GameType "25"]
+
+1. c3-b4 f6-e5 2. e3-f4 g7-f6 3. b4-a5 f6-g5 4. b2-c3 g5xe3 5. d2xf4 b6-c5 
+6. c3-b4 e7-f6 7. a1-b2 f8-g7 8. f2-e3 e5-d4 9. g1-f2 d6-e5 10. f4xd6 c7xe5 
+11. b4xf4 f6-g5 12. e3xc5 g5xg1 13. b2-c3 g1xb6 14. a5xc7 b8xd6 15. c1-d2 
+h6-g5 16. c3-b4 a7-b6 17. d2-e3 b6-c5 18. e3-d4 c5xe3 19. g3-f4 g7-h6 20. 
+f4xd2 d8-c7 21. b4-c5 d6xb4 22. a3xc5 h8-g7 23. h2-g3 g7-f6 24. d2-e3 g5-h4 
+25. g3-f4 h6-g5 26. f4xh6 h4-g3 27. e3-f4 g3xe5 28. c5-d6 c7-b6 29. d6xf4 
+b6-c5 30. f4-e5 f6xd4 31. h6-g7 c5-b4 32. g7-h8 2-0
+
+[White "Федорович Дарья"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 g5-h4 5. b2-c3 e5-f4 
+6. e3xg5 h4xf6 7. h2-g3 f6-e5 8. g3-h4 e5-f4 9. c3-b4 h8-g7 10. d2-e3 f4xd2 
+11. c1xe3 g7-f6 12. a1-b2 f6-e5 13. b2-c3 e5-d4 14. c3xe5 d6xd2 15. e1xc3 
+b6-c5 16. b4xd6 e7xc5 17. c3-d4 c5xe3 18. f2xd4 f8-g7 19. g1-f2 g7-f6 20. 
+f2-e3 c7-d6 21. d4-c5 d6xb4 22. a5xc3 1-1
+
+[White "Барышева Анастасия"]
+[Black "Спирина Александра"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 e7-f6 4. f2-e3 f6-g5 5. c1-d2 g5-h4 
+6. g1-f2 d8-e7 7. b2-c3 b6-a5 8. e3-d4 e7-f6 9. f2-e3 h4xf2 10. e1xg3 f6-g5 
+11. b4-c5 d6xb4 12. a3xc5 g5-h4 13. a1-b2 h4xf2 14. e3xg1 f8-e7 15. h2-g3 
+c7-d6 16. b2-a3 d6xb4 17. a3xc5 b8-c7 18. d2-e3 c7-d6 19. c3-b4 a5xe5 20. 
+g1-f2 d6xb4 21. f4xf8 b4-a3 22. g3-f4 g7-f6 23. f4-e5 f6xd4 24. e3xc5 a7-b6 
+25. c5xa7 a3-b2 1-1
+
+[White "Якубович Яна"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. d4xb6 a5xc7 7. c3-d4 f6-e5 8. d4xf6 g7xe5 9. d2-e3 h8-g7 10. b2-c3 g7-f6 
+11. e1-d2 a7-b6 12. e3-d4 b6-a5 13. d2-e3 e7-d6 14. c1-d2 c7-b6 15. g3-f4 
+e5xg3 16. h2xf4 d6-e5 17. f4xd6 b6-c5 18. d4xb6 a5xe5 19. e3-d4 e5-f4 20. 
+d2-e3 f4xd2 21. c3xe1 h6-g5 22. b4-a5 g5-f4 23. a3-b4 f8-e7 24. b4-c5 f6-e5 
+25. d4xf6 e7xg5 26. e1-f2 g5-h4 27. g1-h2 1-1
+
+[White "Лазовик Яна"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "10.2"]
+[Date "2016.5.30"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-f4 f6-g5 2. c3-b4 b6-c5 3. b2-c3 g7-f6 4. c3-d4 g5-h4 5. d4xb6 c7xc3 
+6. d2xb4 f6-g5 7. a1-b2 d8-c7 8. b2-c3 e7-f6 9. b4-a5 f6-e5 10. h2-g3 h8-g7 
+11. c3-b4 g7-f6 12. b4-c5 d6xb4 13. a5xc3 c7-d6 14. c3-b4 a7-b6 15. c1-b2 
+b6-c5 16. b2-c3 f8-e7 17. e3-d4 g5xe3 18. d4xb6 b8-a7 19. f2xd4 a7xe3 20. 
+e1-f2 h6-g5 21. f2xd4 h4xf2 22. g1xe3 e5-f4 23. d4-c5 f4xd2 24. c3xe1 g5-f4 
+25. c5-b6 f4-g3 26. b6-a7 f6-e5 27. b4-c5 d6xb4 28. a3xc5 1-1
+
+[White "Федорович Дарья"]
+[Black "Николаева Виктория"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "2-0"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 b6xd4 5. f4-e5 d6xf4 
+6. g3xc3 e7-d6 7. c1-d2 a7-b6 8. c3-d4 f6-g5 9. h2-g3 g5-h4 10. a3-b4 h6-g5 
+11. b4-a5 d6-e5 12. d4xf6 g5xe7 13. d2-e3 e7-d6 14. b2-c3 h8-g7 15. c3-d4 
+g7-f6 16. a1-b2 f8-g7 17. d4-c5 d6xb4 18. a5xc3 c7-d6 19. g3-f4 d8-c7 20. 
+b2-a3 f6-e5 21. c3-b4 e5xg3 22. b4-c5 d6xb4 23. a3xa7 c7-d6 24. e3-d4 g3-h2 
+25. d4-e5 d6xf4 26. f2-g3 h4xf2 27. e1xe5 2-0
+
+[White "Хващинская Вера"]
+[Black "Козлова Полина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. g3-h4 f6-e5 2. c3-b4 e5-f4 3. e3xg5 h6xf4 4. b4-a5 b6-c5 5. b2-c3 c5-b4 
+6. a3xc5 d6xb4 7. f2-g3 e7-d6 8. g3xe5 d6xf4 9. g1-f2 f8-e7 10. f2-g3 e7-d6 
+11. g3xe5 d6xf4 12. e1-f2 d8-e7 13. c3-d4 b4-a3 14. d4-c5 c7-d6 15. f2-g3 
+d6xb4 16. a5xc3 b8-c7 17. g3xe5 e7-d6 18. e5-f6 g7xe5 19. d2-e3 h8-g7 20. 
+e3-f4 e5xg3 21. h2xf4 c7-b6 22. h4-g5 g7-h6 23. c3-d4 b6-c5 24. d4xb6 a7xc5 
+25. g5-f6 c5-d4 26. a1-b2 d6-c5 1-1
+
+[White "Якубович Яна"]
+[Black "Спирина Александр"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-e5 2. b2-c3 e7-d6 3. e3-f4 f8-e7 4. a1-b2 b6-c5 5. d4xb6 c7xa5 
+6. f2-e3 f6-g5 7. a3-b4 e5-d4 8. e3xc5 g5xe3 9. d2xf4 b8-c7 10. b2-a3 c7-b6 
+11. f4-g5 b6xb2 12. c1-d2 h6xf4 13. g3xc7 a5xc3 14. a3xc1 d8xb6 15. d2xb4 
+e7-d6 16. h2-g3 b6-a5 17. c1-d2 a5xc3 18. d2xb4 a7-b6 19. b4-a5 b6-c5 20. 
+g3-f4 g7-f6 21. e1-d2 h8-g7 22. g1-f2 f6-e5 23. f2-g3 g7-f6 24. d2-e3 e5-d4 
+1-1
+
+[White "Барышева Анастасия"]
+[Black "Дагиль Елизавета"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 a7-b6 3. e3-d4 f6-e5 4. d4xf6 e7xg5 5. g3-f4 g5xe3 
+6. f2xd4 d6-e5 7. d4xf6 g7xe5 8. d2-e3 c7-d6 9. h2-g3 b6-c5 10. c3-d4 e5xc3 
+11. b4xd2 f8-e7 12. g3-h4 h8-g7 13. a1-b2 g7-f6 14. b2-c3 f6-e5 15. e1-f2 
+e5-f4 16. e3xg5 h6xf4 17. f2-e3 b8-c7 18. e3xg5 c5-d4 19. c3xe5 d6xh6 20. 
+d2-e3 c7-d6 21. g1-h2 d8-c7 22. c1-d2 a5-b4 23. a3xc5 d6xb4 1-1
+
+[White "Лазовик Яна"]
+[Black "Чеснокова Мария"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 f6-g5 2. c3-b4 d6-c5 3. b4xd6 e7xe3 4. f2xd4 g5-h4 5. a3-b4 h4xf2 
+6. g1xe3 h6-g5 7. b2-c3 g7-f6 8. a1-b2 h8-g7 9. b2-a3 g7-h6 10. h2-g3 g5-h4 
+11. e3-f4 h4xf2 12. e1xg3 b6-a5 13. f4-e5 f8-e7 14. e5xg7 h6xf8 15. g3-f4 
+e7-f6 16. f4-e5 d8-e7 17. e5xg7 f8xh6 18. d2-e3 e7-f6 19. b4-c5 c7-b6 20. 
+e3-f4 f6-g5 21. c1-b2 g5xe3 22. d4xf2 b6xd4 23. c3xe5 b8-c7 24. b2-c3 h6-g5 
+25. f2-e3 1-1
+
+[White "Макаревич Эмма"]
+[Black "Курцова Ирина"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.1"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d4-c5 b6xd4 3. e3xc5 d6xb4 4. a3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. f2-e3 c5-b4 8. b2-c3 b4-a3 9. g1-f2 b6-a5 10. a1-b2 a7-b6 
+11. c3-d4 h6-g5 12. f2-g3 a5-b4 13. b2-c3 b6-c5 14. c3xa5 g5-h4 15. d4xb6 
+h4xf6 16. d2-e3 f8-e7 17. e1-f2 f6-e5 18. f2-g3 g7-f6 19. g3-f4 e5xg3 20. 
+h2xf4 h8-g7 21. e3-d4 g7-h6 22. f4-e5 f6-g5 23. d4-c5 e7-f6 24. e5xg7 h6xf8 
+25. c5-d6 d8-e7 26. d6-c7 b8xd6 27. b6-a7 e7-f6 28. a7-b8 f6-e5 29. b8-a7 
+g5-f4 30. c1-d2 f4-g3 31. d2-c3 a3-b2 32. c3xa1 g3-h2 33. a7-b6 h2-g1 34. 
+b6-d8 e5-f4 35. d8-f6 d6-c5 36. a1-b2 f4-g3 37. b2-c3 g3-h2 38. c3-d4 c5xe3 
+39. a5-b6 e3-d2 40. b6-a7 d2-c1 41. f6-h8 g1-e3 42. a7-b8 h2-g1 43. b8-e5 
+g1-h2 44. e5-a1 e3-f4 45. a1-d4 1-1
+
+[White "Дагиль Елизавета"]
+[Black "Барышева Анастасия"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. a3-b4 b6-a5 2. b2-a3 c7-b6 3. a1-b2 b6-c5 4. e3-d4 c5xe3 5. f2xd4 d6-c5 
+6. b4xd6 e7xe3 7. d2xf4 d8-e7 8. e1-f2 a7-b6 9. f2-e3 e7-d6 10. c3-d4 f6-g5 
+11. d4-e5 g7-f6 12. e5xg7 h8xf6 13. b2-c3 b6-c5 14. g3-h4 f8-e7 15. a3-b4 
+c5xa3 16. c3-d4 a3-b2 17. c1xa3 a5-b4 18. a3xc5 d6xb4 19. d4-e5 f6xf2 20. 
+h4xd8 f2-e1 21. d8-h4 b4-a3 22. f4-g5 h6xf4 23. g1-f2 e1xg3 24. h4xe1 1-1
+
+
+[White "Козлова Полина"]
+[Black "Хващинская Вера"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "0-2"]
+[GameType "25"]
+
+1. g3-h4 f6-g5 2. h4xf6 g7xe5 3. c3-b4 h6-g5 4. b4-a5 g5-h4 5. b2-c3 e5-f4 
+6. e3xg5 h4xf6 7. d2-e3 f6-g5 8. c3-b4 b6-c5 9. a1-b2 g5-h4 10. h2-g3 e7-f6 
+11. b2-c3 h8-g7 12. c3-d4 g7-h6 13. d4xb6 a7xc5 14. g3-f4 f6-e5 15. g1-h2 
+e5xg3 16. h2xf4 f8-g7 17. c1-d2 d6-e5 18. b4xd6 e5xg3 19. e3-f4 g3xe5 20. 
+d6xf4 g7-f6 21. f2-g3 h4xf2 22. e1xg3 f6-g5 23. d2-e3 g5-h4 0-2
+
+[White "Николаева Виктория"]
+[Black "Федорович Дарья"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "0-2"]
+[GameType "25"]
+
+1. e3-f4 f6-g5 2. c3-b4 g5xe3 3. d2xf4 g7-f6 4. b4-c5 b6xd4 5. f4-e5 d6xf4 
+6. g3xc3 f6-e5 7. c3-d4 e5xc3 8. b2xd4 a7-b6 9. h2-g3 e7-d6 10. g3-f4 h8-g7 
+11. a1-b2 d6-c5 12. f2-e3 c7-d6 13. b2-c3 g7-f6 14. c1-d2 b8-a7 15. g1-f2 
+d8-e7 16. f2-g3 h6-g5 17. f4xh6 d6-e5 18. e1-f2 e7-d6 19. a3-b4 c5xa3 20. 
+g3-h4 a3-b2 21. c3xa1 e5xg3 22. h4xf2 d6-e5 23. f2-g3 e5-d4 24. e3xc5 b6xd4 
+0-2
+
+[White "Курцова Ирина"]
+[Black "Макаревич Эмма"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 f6-g5 2. d4-c5 b6xd4 3. e3xc5 d6xb4 4. a3xc5 g5-f4 5. g3xe5 c7-b6 
+6. c5-d6 e7xc5 7. h2-g3 c5-b4 8. g3-f4 f8-e7 9. b2-c3 b6-a5 10. a1-b2 b4-a3 
+11. f2-g3 a7-b6 12. g1-f2 g7-f6 13. e5xg7 h6xf8 14. c3-d4 h8-g7 15. f2-e3 
+g7-f6 16. g3-h4 b6-c5 17. d4xb6 a5xc7 18. e1-f2 c7-d6 19. f4-e5 f6xd4 20. 
+e3xc5 d6xb4 21. b2-c3 e7-d6 22. c3xa5 d6-e5 23. f2-e3 f8-e7 24. e3-f4 e5xg3 
+25. h4xf2 e7-f6 26. f2-g3 d8-c7 1-1
+
+[White "Чеснокова Мария"]
+[Black "Лазовик Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. e3-d4 h6-g5 2. g3-h4 d6-e5 3. a3-b4 b6-a5 4. b2-a3 g7-h6 5. f2-g3 g5-f4 
+6. e1-f2 c7-b6 7. d2-e3 f4xd2 8. c3xe1 e5xc3 9. b4xd2 f6-e5 10. g3-f4 e5xg3 
+11. h2xf4 h8-g7 12. a1-b2 g7-f6 13. f2-e3 a5-b4 14. a3xc5 b6xf2 15. g1xe3 
+a7-b6 16. b2-c3 f6-e5 17. f4xd6 e7xc5 18. e3-f4 b6-a5 19. d2-e3 f8-e7 20. 
+e1-d2 b8-c7 21. c3-d4 c7-d6 22. d4xb6 a5xc7 23. e3-d4 e7-f6 24. d2-e3 c7-b6 
+25. c1-d2 d6-c5 26. d2-c3 1-1
+
+[White "Спирина Александр"]
+[Black "Якубович Яна"]
+[Event "Чемпионат Беларуси 2016 (женщины)"]
+[Site "Минск"]
+[Round "11.2"]
+[Date "2016.5.31"]
+[Result "1-1"]
+[GameType "25"]
+
+1. c3-d4 d6-c5 2. d2-c3 c7-d6 3. c3-b4 b6-a5 4. d4xb6 a5xc7 5. b4-c5 d6xb4 
+6. a3xc5 h6-g5 7. e3-d4 g5-h4 8. g3-f4 g7-h6 9. f2-e3 f6-g5 10. c1-d2 c7-b6 
+11. b2-c3 h8-g7 12. a1-b2 b6-a5 13. b2-a3 g7-f6 14. g1-f2 e7-d6 15. c5xe7 
+f8xd6 16. f4-e5 d6xf4 17. f2-g3 h4xf2 18. e1xg7 h6xf8 19. h2-g3 g5-h4 20. 
+g3-f4 b8-c7 21. d4-e5 d8-e7 22. c3-d4 f8-g7 23. d4-c5 a5-b4 24. e3-d4 b4xd6 
+25. d4-c5 d6xb4 26. a3xc5 g7-h6 27. d2-e3 e7-f6 28. e5xg7 h6xf8 29. e3-d4 
+h4-g3 30. f4xh2 c7-d6 31. c5xe7 f8xd6 1-1
+
